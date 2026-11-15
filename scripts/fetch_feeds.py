@@ -3,6 +3,7 @@
 標準ライブラリだけで動く（GitHub Actions の python3 でそのまま実行できる）。
 usage: python3 scripts/fetch_feeds.py [DAYS]
 """
+import gzip
 import hashlib
 import html
 import json
@@ -79,6 +80,9 @@ def text_of(el):
 
 
 def parse_feed(data, base):
+    if data[:2] == b"\x1f\x8b":
+        data = gzip.decompress(data)
+    data = data.lstrip(b"\xef\xbb\xbf \t\r\n")
     root = ET.fromstring(data)
     entries = [e for e in root.iter() if local(e.tag) in ("item", "entry")]
     out = []
@@ -127,6 +131,8 @@ def discover(site):
 
 
 def fetch_one(feed, since):
+    if not feed.get("feed"):
+        return {"name": feed["name"], "ok": False, "count": 0, "feedUrl": "", "error": "RSSフィードを提供していないため取得対象外"}, []
     tried = []
     urls = [feed["feed"]]
     result = {"name": feed["name"], "ok": False, "count": 0, "feedUrl": feed["feed"], "error": ""}

@@ -22,7 +22,7 @@
   {"name": "Stripe Engineering", "category": "海外企業", "site": "https://stripe.com/blog/engineering", "feed": "https://stripe.com/blog/feed.rss"},
   {"name": "GitHub Blog（Engineering）", "category": "海外企業", "site": "https://github.blog/engineering/", "feed": "https://github.blog/engineering/feed/"},
   {"name": "Shopify Engineering", "category": "海外企業", "site": "https://shopify.engineering/", "feed": "https://shopify.engineering/blog.atom"},
-  {"name": "Uber Engineering", "category": "海外企業", "site": "https://www.uber.com/blog/engineering/", "feed": "https://www.uber.com/blog/engineering/rss/"},
+  {"name": "Uber Engineering", "category": "海外企業", "site": "https://www.uber.com/blog/engineering/", "feed": null},
   {"name": "The Airbnb Tech Blog", "category": "海外企業", "site": "https://medium.com/airbnb-engineering", "feed": "https://medium.com/feed/airbnb-engineering"},
   {"name": "Slack Engineering", "category": "海外企業", "site": "https://slack.engineering/", "feed": "https://slack.engineering/feed/"},
   {"name": "Discord Engineering", "category": "海外企業", "site": "https://discord.com/category/engineering", "feed": "https://discord.com/blog/rss.xml"},
