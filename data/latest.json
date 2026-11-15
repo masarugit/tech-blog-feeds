@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T00:38:19Z",
+ "generatedAt": "2026-11-15T00:38:55Z",
  "days": 30,
  "feeds": [
   {
@@ -7,161 +7,207 @@
    "ok": true,
    "count": 15,
    "feedUrl": "https://dev.classmethod.jp/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-14T17:54:59Z"
   },
   {
    "name": "メルカリ Engineering Blog",
    "ok": false,
    "count": 0,
    "feedUrl": "https://engineering.mercari.com/blog/feed.xml",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "parsed": 0,
+   "latest": ""
   },
   {
    "name": "LINEヤフー Tech Blog",
    "ok": true,
    "count": 14,
    "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
-   "error": ""
+   "error": "",
+   "parsed": 50,
+   "latest": "2026-11-11T02:00:00Z"
   },
   {
    "name": "CyberAgent Developers Blog",
    "ok": true,
    "count": 6,
    "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 6,
+   "latest": "2026-11-13T00:15:26Z"
   },
   {
    "name": "DeNA Engineering",
    "ok": true,
    "count": 8,
    "feedUrl": "https://engineering.dena.com/blog/index.xml",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-04T15:00:00Z"
   },
   {
    "name": "Cybozu Inside Out",
    "ok": true,
    "count": 2,
    "feedUrl": "https://blog.cybozu.io/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-10-30T02:30:00Z"
   },
   {
    "name": "SmartHR Tech Blog",
    "ok": true,
    "count": 21,
    "feedUrl": "https://tech.smarthr.jp/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-13T03:13:54Z"
   },
   {
    "name": "クックパッド開発者ブログ",
    "ok": true,
    "count": 0,
    "feedUrl": "https://techlife.cookpad.com/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-09-02T01:00:00Z"
   },
   {
    "name": "ZOZO TECH BLOG",
    "ok": true,
    "count": 8,
    "feedUrl": "https://techblog.zozo.com/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-13T02:00:00Z"
   },
   {
    "name": "マネーフォワード Developers Blog",
    "ok": true,
    "count": 3,
    "feedUrl": "https://moneyforward-dev.jp/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-11T01:00:00Z"
   },
   {
    "name": "freee Developers Hub",
    "ok": true,
    "count": 3,
    "feedUrl": "https://developers.freee.co.jp/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-05T01:00:00Z"
   },
   {
    "name": "Sansan Builders Box",
    "ok": true,
    "count": 20,
    "feedUrl": "https://buildersbox.corp-sansan.com/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-12T01:00:00Z"
   },
   {
    "name": "M3 Tech Blog",
    "ok": true,
    "count": 3,
    "feedUrl": "https://www.m3tech.blog/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-05T04:05:37Z"
   },
   {
    "name": "ペパボテックブログ",
    "ok": true,
    "count": 0,
    "feedUrl": "https://tech.pepabo.com/feed.xml",
-   "error": ""
+   "error": "",
+   "parsed": 11,
+   "latest": "2026-10-15T15:00:00Z"
   },
   {
    "name": "はてな開発者ブログ",
    "ok": true,
    "count": 4,
    "feedUrl": "https://developer.hatenastaff.com/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-06T08:40:23Z"
   },
   {
    "name": "LayerX エンジニアブログ",
    "ok": true,
    "count": 8,
    "feedUrl": "https://tech.layerx.co.jp/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-13T02:41:23Z"
   },
   {
    "name": "TVer Tech Blog",
    "ok": true,
    "count": 0,
    "feedUrl": "https://techblog.tver.co.jp/feed",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-09-29T03:19:22Z"
   },
   {
    "name": "Cloudflare Blog",
    "ok": true,
    "count": 20,
    "feedUrl": "https://blog.cloudflare.com/rss/",
-   "error": ""
+   "error": "",
+   "parsed": 20,
+   "latest": "2026-11-13T20:20:21Z"
   },
   {
    "name": "Netflix TechBlog",
    "ok": true,
    "count": 6,
    "feedUrl": "https://netflixtechblog.com/feed",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-09T17:01:02Z"
   },
   {
    "name": "Meta Engineering",
    "ok": true,
    "count": 9,
    "feedUrl": "https://engineering.fb.com/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 9,
+   "latest": "2026-11-13T17:00:39Z"
   },
   {
    "name": "Stripe Engineering",
    "ok": true,
    "count": 5,
    "feedUrl": "https://stripe.com/blog/feed.rss",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-05T00:00:00Z"
   },
   {
    "name": "GitHub Blog（Engineering）",
    "ok": true,
    "count": 2,
    "feedUrl": "https://github.blog/engineering/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-05T20:23:21Z"
   },
   {
    "name": "Shopify Engineering",
    "ok": true,
    "count": 8,
    "feedUrl": "https://shopify.engineering/blog.atom",
-   "error": ""
+   "error": "",
+   "parsed": 440,
+   "latest": "2026-11-12T14:57:16Z"
   },
   {
    "name": "Uber Engineering",
@@ -175,119 +221,153 @@
    "ok": true,
    "count": 1,
    "feedUrl": "https://medium.com/feed/airbnb-engineering",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-10T18:01:02Z"
   },
   {
    "name": "Slack Engineering",
    "ok": true,
    "count": 0,
    "feedUrl": "https://slack.engineering/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 8,
+   "latest": "2026-07-14T16:10:08Z"
   },
   {
    "name": "Discord Engineering",
    "ok": true,
    "count": 8,
    "feedUrl": "https://discord.com/blog/rss.xml",
-   "error": ""
+   "error": "",
+   "parsed": 100,
+   "latest": "2026-11-12T00:00:00Z"
   },
   {
    "name": "Dropbox Tech",
    "ok": true,
    "count": 2,
    "feedUrl": "https://dropbox.tech/feed",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-05T14:00:00Z"
   },
   {
    "name": "Spotify Engineering",
    "ok": true,
    "count": 2,
    "feedUrl": "https://engineering.atspotify.com/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 5,
+   "latest": "2026-11-09T17:53:35Z"
   },
   {
    "name": "Pinterest Engineering",
    "ok": true,
    "count": 4,
    "feedUrl": "https://medium.com/feed/pinterest-engineering",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-12T16:01:06Z"
   },
   {
    "name": "AWS Architecture Blog",
    "ok": true,
    "count": 20,
    "feedUrl": "https://aws.amazon.com/blogs/architecture/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 20,
+   "latest": "2026-11-13T20:26:58Z"
   },
   {
    "name": "Vercel Blog",
    "ok": true,
    "count": 30,
    "feedUrl": "https://vercel.com/atom",
-   "error": ""
+   "error": "",
+   "parsed": 100,
+   "latest": "2026-11-13T22:24:00Z"
   },
   {
    "name": "Martin Fowler",
    "ok": true,
    "count": 9,
    "feedUrl": "https://martinfowler.com/feed.atom",
-   "error": ""
+   "error": "",
+   "parsed": 30,
+   "latest": "2026-11-12T14:15:00Z"
   },
   {
    "name": "web.dev",
    "ok": true,
    "count": 0,
    "feedUrl": "https://web.dev/static/blog/feed.xml",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-10-02T07:00:00Z"
   },
   {
    "name": "Chrome for Developers Blog",
    "ok": true,
    "count": 0,
    "feedUrl": "https://developer.chrome.com/static/blog/feed.xml",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-10-07T07:00:00Z"
   },
   {
    "name": "WebKit Blog",
    "ok": true,
    "count": 7,
    "feedUrl": "https://webkit.org/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 10,
+   "latest": "2026-11-13T21:00:25Z"
   },
   {
    "name": "Mozilla Hacks",
    "ok": true,
    "count": 0,
    "feedUrl": "https://hacks.mozilla.org/feed/",
-   "error": ""
+   "error": "",
+   "parsed": 20,
+   "latest": "2026-08-24T15:32:15Z"
   },
   {
    "name": "React Blog",
    "ok": true,
    "count": 0,
    "feedUrl": "https://react.dev/rss.xml",
-   "error": ""
+   "error": "",
+   "parsed": 24,
+   "latest": "2026-09-09T00:00:00Z"
   },
   {
    "name": "Expo Blog",
    "ok": true,
    "count": 15,
    "feedUrl": "https://expo.dev/blog/rss.xml",
-   "error": ""
+   "error": "",
+   "parsed": 50,
+   "latest": "2026-11-13T18:45:00Z"
   },
   {
    "name": "Android Developers Blog",
    "ok": true,
    "count": 11,
    "feedUrl": "https://android-developers.googleblog.com/feeds/posts/default",
-   "error": ""
+   "error": "",
+   "parsed": 20,
+   "latest": "2026-11-11T00:00:00Z"
   },
   {
    "name": "Swift.org Blog",
    "ok": true,
    "count": 2,
    "feedUrl": "https://www.swift.org/atom.xml",
-   "error": ""
+   "error": "",
+   "parsed": 20,
+   "latest": "2026-11-11T09:00:00Z"
   }
  ],
  "items": [
