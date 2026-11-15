@@ -1,0 +1,2779 @@
+{
+ "generatedAt": "2026-11-15T00:38:19Z",
+ "days": 30,
+ "feeds": [
+  {
+   "name": "DevelopersIO（クラスメソッド）",
+   "ok": true,
+   "count": 15,
+   "feedUrl": "https://dev.classmethod.jp/feed/",
+   "error": ""
+  },
+  {
+   "name": "メルカリ Engineering Blog",
+   "ok": false,
+   "count": 0,
+   "feedUrl": "https://engineering.mercari.com/blog/feed.xml",
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "name": "LINEヤフー Tech Blog",
+   "ok": true,
+   "count": 14,
+   "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
+   "error": ""
+  },
+  {
+   "name": "CyberAgent Developers Blog",
+   "ok": true,
+   "count": 6,
+   "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
+   "error": ""
+  },
+  {
+   "name": "DeNA Engineering",
+   "ok": true,
+   "count": 8,
+   "feedUrl": "https://engineering.dena.com/blog/index.xml",
+   "error": ""
+  },
+  {
+   "name": "Cybozu Inside Out",
+   "ok": true,
+   "count": 2,
+   "feedUrl": "https://blog.cybozu.io/feed",
+   "error": ""
+  },
+  {
+   "name": "SmartHR Tech Blog",
+   "ok": true,
+   "count": 21,
+   "feedUrl": "https://tech.smarthr.jp/feed",
+   "error": ""
+  },
+  {
+   "name": "クックパッド開発者ブログ",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://techlife.cookpad.com/feed",
+   "error": ""
+  },
+  {
+   "name": "ZOZO TECH BLOG",
+   "ok": true,
+   "count": 8,
+   "feedUrl": "https://techblog.zozo.com/feed",
+   "error": ""
+  },
+  {
+   "name": "マネーフォワード Developers Blog",
+   "ok": true,
+   "count": 3,
+   "feedUrl": "https://moneyforward-dev.jp/feed",
+   "error": ""
+  },
+  {
+   "name": "freee Developers Hub",
+   "ok": true,
+   "count": 3,
+   "feedUrl": "https://developers.freee.co.jp/feed",
+   "error": ""
+  },
+  {
+   "name": "Sansan Builders Box",
+   "ok": true,
+   "count": 20,
+   "feedUrl": "https://buildersbox.corp-sansan.com/feed",
+   "error": ""
+  },
+  {
+   "name": "M3 Tech Blog",
+   "ok": true,
+   "count": 3,
+   "feedUrl": "https://www.m3tech.blog/feed",
+   "error": ""
+  },
+  {
+   "name": "ペパボテックブログ",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://tech.pepabo.com/feed.xml",
+   "error": ""
+  },
+  {
+   "name": "はてな開発者ブログ",
+   "ok": true,
+   "count": 4,
+   "feedUrl": "https://developer.hatenastaff.com/feed",
+   "error": ""
+  },
+  {
+   "name": "LayerX エンジニアブログ",
+   "ok": true,
+   "count": 8,
+   "feedUrl": "https://tech.layerx.co.jp/feed",
+   "error": ""
+  },
+  {
+   "name": "TVer Tech Blog",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://techblog.tver.co.jp/feed",
+   "error": ""
+  },
+  {
+   "name": "Cloudflare Blog",
+   "ok": true,
+   "count": 20,
+   "feedUrl": "https://blog.cloudflare.com/rss/",
+   "error": ""
+  },
+  {
+   "name": "Netflix TechBlog",
+   "ok": true,
+   "count": 6,
+   "feedUrl": "https://netflixtechblog.com/feed",
+   "error": ""
+  },
+  {
+   "name": "Meta Engineering",
+   "ok": true,
+   "count": 9,
+   "feedUrl": "https://engineering.fb.com/feed/",
+   "error": ""
+  },
+  {
+   "name": "Stripe Engineering",
+   "ok": true,
+   "count": 5,
+   "feedUrl": "https://stripe.com/blog/feed.rss",
+   "error": ""
+  },
+  {
+   "name": "GitHub Blog（Engineering）",
+   "ok": true,
+   "count": 2,
+   "feedUrl": "https://github.blog/engineering/feed/",
+   "error": ""
+  },
+  {
+   "name": "Shopify Engineering",
+   "ok": true,
+   "count": 8,
+   "feedUrl": "https://shopify.engineering/blog.atom",
+   "error": ""
+  },
+  {
+   "name": "Uber Engineering",
+   "ok": false,
+   "count": 0,
+   "feedUrl": "",
+   "error": "RSSフィードを提供していないため取得対象外"
+  },
+  {
+   "name": "The Airbnb Tech Blog",
+   "ok": true,
+   "count": 1,
+   "feedUrl": "https://medium.com/feed/airbnb-engineering",
+   "error": ""
+  },
+  {
+   "name": "Slack Engineering",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://slack.engineering/feed/",
+   "error": ""
+  },
+  {
+   "name": "Discord Engineering",
+   "ok": true,
+   "count": 8,
+   "feedUrl": "https://discord.com/blog/rss.xml",
+   "error": ""
+  },
+  {
+   "name": "Dropbox Tech",
+   "ok": true,
+   "count": 2,
+   "feedUrl": "https://dropbox.tech/feed",
+   "error": ""
+  },
+  {
+   "name": "Spotify Engineering",
+   "ok": true,
+   "count": 2,
+   "feedUrl": "https://engineering.atspotify.com/feed/",
+   "error": ""
+  },
+  {
+   "name": "Pinterest Engineering",
+   "ok": true,
+   "count": 4,
+   "feedUrl": "https://medium.com/feed/pinterest-engineering",
+   "error": ""
+  },
+  {
+   "name": "AWS Architecture Blog",
+   "ok": true,
+   "count": 20,
+   "feedUrl": "https://aws.amazon.com/blogs/architecture/feed/",
+   "error": ""
+  },
+  {
+   "name": "Vercel Blog",
+   "ok": true,
+   "count": 30,
+   "feedUrl": "https://vercel.com/atom",
+   "error": ""
+  },
+  {
+   "name": "Martin Fowler",
+   "ok": true,
+   "count": 9,
+   "feedUrl": "https://martinfowler.com/feed.atom",
+   "error": ""
+  },
+  {
+   "name": "web.dev",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://web.dev/static/blog/feed.xml",
+   "error": ""
+  },
+  {
+   "name": "Chrome for Developers Blog",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://developer.chrome.com/static/blog/feed.xml",
+   "error": ""
+  },
+  {
+   "name": "WebKit Blog",
+   "ok": true,
+   "count": 7,
+   "feedUrl": "https://webkit.org/feed/",
+   "error": ""
+  },
+  {
+   "name": "Mozilla Hacks",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://hacks.mozilla.org/feed/",
+   "error": ""
+  },
+  {
+   "name": "React Blog",
+   "ok": true,
+   "count": 0,
+   "feedUrl": "https://react.dev/rss.xml",
+   "error": ""
+  },
+  {
+   "name": "Expo Blog",
+   "ok": true,
+   "count": 15,
+   "feedUrl": "https://expo.dev/blog/rss.xml",
+   "error": ""
+  },
+  {
+   "name": "Android Developers Blog",
+   "ok": true,
+   "count": 11,
+   "feedUrl": "https://android-developers.googleblog.com/feeds/posts/default",
+   "error": ""
+  },
+  {
+   "name": "Swift.org Blog",
+   "ok": true,
+   "count": 2,
+   "feedUrl": "https://www.swift.org/atom.xml",
+   "error": ""
+  }
+ ],
+ "items": [
+  {
+   "id": "5830cd1e5193cdf4",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Cloudflare Workflowsのjurisdictionでインスタンスの実行と保存をEU内に限定する",
+   "url": "https://dev.classmethod.jp/articles/cloudflare-workflows-jurisdiction/",
+   "publishedAt": "2026-11-14T17:54:59Z",
+   "summary": "Cloudflare Workflowsに、インスタンスの実行と保存の場所を限定するjurisdictionが加わりました。Freeプランのアカウントでeuを設定し、作成後に変えよ"
+  },
+  {
+   "id": "2b0bf741de5e9d43",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Azure NSGの許可規則を削除しても、接続中のSSHは切れない？20分つないだまま確かめた",
+   "url": "https://dev.classmethod.jp/articles/azure-nsg-existing-connections/",
+   "publishedAt": "2026-11-14T17:47:18Z",
+   "summary": "Azure NSGでSSHの許可規則を削除し、接続中のセッションと新しい接続がどうなるかを実機で確かめました。既存のセッションはループが終わって閉じるまでの約20分間切れず、新しい"
+  },
+  {
+   "id": "fab61ad89afb0c25",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "ECS Gateway と CloudFront VPC オリジンの構成を CloudFormation と CLI で組んでみた",
+   "url": "https://dev.classmethod.jp/articles/ecs-gateway-cloudfront-vpc-origin-cfn/",
+   "publishedAt": "2026-11-14T14:44:30Z",
+   "summary": "ECS Gateway と CloudFront VPC オリジンの構成を CloudFormation で組みました。ECS Gateway の ALB の ARN など、スタッ"
+  },
+  {
+   "id": "1a421c73a3011432",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Enterprise のコンプライアンス API で添付ファイルが取得できるか試してみた",
+   "url": "https://dev.classmethod.jp/articles/claude-enterprise-compliance-api-get-file/",
+   "publishedAt": "2026-11-14T13:29:01Z",
+   "summary": "Claude Enterprise の Compliance API を使って、Claude Desktop、Cowork、Claude Code で扱ったファイルが、API でど"
+  },
+  {
+   "id": "d85002ba87116cb8",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点",
+   "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
+   "publishedAt": "2026-11-14T11:28:11Z",
+   "summary": "Datadog は、攻撃エージェント ARTEX が公開された Cognito ユーザープールに自己サインアップし、ID プールの一時認証情報で AWS を探索した様子を報告しまし"
+  },
+  {
+   "id": "fa76a3e814f73ebc",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Codeのclaude.aiサインインがいつ切れるかを確かめる：auth statusのloginExpiresAtとclaude -pの期限警告",
+   "url": "https://dev.classmethod.jp/articles/claude-code-sign-in-expiry-check/",
+   "publishedAt": "2026-11-14T11:10:02Z",
+   "summary": "Claude Code 2.1.318で、保存したclaude.aiサインインが切れる日時をclaude auth statusとclaude -pの結果で取れるようになりました。"
+  },
+  {
+   "id": "a6005bb859e1fc84",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Code v2.1.324〜v2.1.325 の主要アップデート - サンドボックス内 Bash の権限フロー変更と Bash 権限チェックの修正",
+   "url": "https://dev.classmethod.jp/articles/20261114-cc-updates-v2-1-325/",
+   "publishedAt": "2026-11-14T10:17:39Z",
+   "summary": "Claude Code v2.1.325 の主要アップデートを解説します。サンドボックス内の Bash が既定で通常の権限フローに従う変更と従来の動作に戻す設定、Bash 権限チェ"
+  },
+  {
+   "id": "9a043b2731197dfd",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[新機能] CoCo Desktopで作成したMarkdownファイルとHTMLファイルをアーティファクトに公開してみた",
+   "url": "https://dev.classmethod.jp/articles/publish-markdown-html-files-snowsight-artifact/",
+   "publishedAt": "2026-11-14T09:42:08Z",
+   "summary": "プレビュー提供で、CoCo Desktopで実施した分析結果をMarkdownおよびHTMLファイルとしてSnowflakeのArtifactsに公開できるようになったため、実際に"
+  },
+  {
+   "id": "4ac1dc3c04a28aa8",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Enterprise に親組織用の管理画面が追加されたので確認してみた",
+   "url": "https://dev.classmethod.jp/articles/claude-enterprise-team-admin-page/",
+   "publishedAt": "2026-11-14T08:02:55Z",
+   "summary": "Claude Enterprise の親組織管理機能が新しく追加されました。これまで各組織の設定に分散していたドメイン認証や SSO、API キー管理などを、親組織の管理画面でまと"
+  },
+  {
+   "id": "2e0a901e9f1ea44d",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "NVIDIAの時系列モデルKumo-TS（旧NV-Tesseract）v1.0.1の異常の説明機能と欠損対応予測を試してみた",
+   "url": "https://dev.classmethod.jp/articles/nvidia-kumo-ts-explain-missingness/",
+   "publishedAt": "2026-11-14T07:04:25Z",
+   "summary": "NVIDIAの時系列基盤モデルのライブラリ「Kumo-TS」v1.0.1で追加された異常検知の説明機能と欠損対応の予測を、Mac上で実際に動かして検証しました。"
+  },
+  {
+   "id": "41289b3feff8294c",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Amazon EC2 Capacity Manager でオンデマンドインスタンスを起動できそうかを事前にスコアで確かめられるようになりました",
+   "url": "https://dev.classmethod.jp/articles/ec2-capacity-manager-supportability-checks/",
+   "publishedAt": "2026-11-14T06:08:57Z",
+   "summary": "Amazon EC2 Capacity Manager で、オンデマンドインスタンスを起動できるかを起動前にスコアで確かめられるようになりました。"
+  },
+  {
+   "id": "5a79143007cfd2b7",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Gemini Decision 1 に書類画像を見せて OCR の誤りを探させ、Jev・Decisions API と比べてみた",
+   "url": "https://dev.classmethod.jp/articles/gemini-decision-1-ocr-verification/",
+   "publishedAt": "2026-11-14T04:32:28Z",
+   "summary": "書類5件の画像と OCR の値を Gemini Decision 1・Jev・Decisions API に渡し、誤りの検出結果を比較しました。Gemini Decision 1 "
+  },
+  {
+   "id": "6b12c723cefcab2a",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Gemini Decision 1 で書類の値を突合し、Jev・Decisions API と比べてみた",
+   "url": "https://dev.classmethod.jp/articles/gemini-decision-1-cross-match/",
+   "publishedAt": "2026-11-14T01:26:19Z",
+   "summary": "decision model の Gemini Decision 1 で書類の値107件を突合し、Jev・Decisions API と正答数や確率の散らばりを比較しました。意味の"
+  },
+  {
+   "id": "d931dbbb2d75e2b4",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Google の decision model「Gemini Decision 1」を試してみた",
+   "url": "https://dev.classmethod.jp/articles/gemini-decision-1-multimodal/",
+   "publishedAt": "2026-11-14T00:55:26Z",
+   "summary": "Gemini Decision 1 にテキスト・画像・PDF・音声・動画を渡し、判定結果や入力トークン数、応答時間を検証しました。音声では期限付きの依頼を1件見落としましたが、画像"
+  },
+  {
+   "id": "b3b0490ed8d4a5d1",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "【登壇資料】 Midosuji Tech 〜意思決定モデルやってみた編〜で「LiteLLMのガードレールにJevを入れてみた」というタイトルで登壇しました！ #midosuji_tech",
+   "url": "https://dev.classmethod.jp/articles/midosuji-tech-litellm-jev-guardrail/",
+   "publishedAt": "2026-11-14T00:17:02Z",
+   "summary": "Midosuji Tech 〜意思決定モデルやってみた編〜で「LiteLLMのガードレールにJevを入れてみた」というタイトルでLTしました！"
+  },
+  {
+   "id": "39bd3d97bb885117",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Daemons can now send traces to Vercel Tracing",
+   "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+   "publishedAt": "2026-11-13T22:24:00Z",
+   "summary": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing, allowing you and your "
+  },
+  {
+   "id": "a4b8c4ba68185eec",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Safari on Apple HomeView",
+   "url": "https://webkit.org/blog/18608/safari-on-apple-homeview/",
+   "publishedAt": "2026-11-13T21:00:25Z",
+   "summary": "It’s not every day our browser begins a life on a whole new platform."
+  },
+  {
+   "id": "16168c4ced4ba398",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
+   "url": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/",
+   "publishedAt": "2026-11-13T20:26:58Z",
+   "summary": "Learn how Thermo Fisher Scientific built an AI-powered patient-matching platform on AWS, m"
+  },
+  {
+   "id": "3d35f1e85d31da75",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Kitesurf is now open source",
+   "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+   "publishedAt": "2026-11-13T20:20:21Z",
+   "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the c"
+  },
+  {
+   "id": "5a571c04c40368f3",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+   "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+   "publishedAt": "2026-11-13T19:26:07Z",
+   "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful"
+  },
+  {
+   "id": "9f1c7fedfb869025",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How to set up agentic workflows on Expo",
+   "url": "https://expo.dev/blog/how-to-set-up-agentic-workflows",
+   "publishedAt": "2026-11-13T18:45:00Z",
+   "summary": "Four steps to unblock your agent: connect GitHub, add a robot user, connect your agent, an"
+  },
+  {
+   "id": "58109565495b0795",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Token Pass now includes $150 in tokens for $30/month",
+   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+   "publishedAt": "2026-11-13T18:42:00Z",
+   "summary": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per"
+  },
+  {
+   "id": "552b94506e7d848c",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+   "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+   "publishedAt": "2026-11-13T17:00:39Z",
+   "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon"
+  },
+  {
+   "id": "b74dba87ff8f3e42",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+   "url": "https://blog.cloudflare.com/spend-management/",
+   "publishedAt": "2026-11-13T14:00:00Z",
+   "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and"
+  },
+  {
+   "id": "98aa714e6088452a",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "Kaigi on Rails 2026レポート —— 渋谷でハチ合わせた、わんダフルな2日間",
+   "url": "https://tech.smarthr.jp/entry/2026/11/13/121354",
+   "publishedAt": "2026-11-13T03:13:54Z",
+   "summary": "SmartHRは、2026年10月16日、17日に東京・ベルサール渋谷ガーデンで開催された「Kaigi on Rails 2026」に協賛してブースを出展しました。社員30名が現地"
+  },
+  {
+   "id": "8fff44d4fde61bc3",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "YAPC::Tokyo 2026 にスポンサー＆4名が登壇します！",
+   "url": "https://tech.layerx.co.jp/entry/yapc-tokyo-2026-sponsor",
+   "publishedAt": "2026-11-13T02:41:23Z",
+   "summary": "こんにちは、LayerX Tech RP の太田です。 株式会社LayerXは、2026年11月27日（金）から29日（日）に東京ビッグサイトで開催される「YAPC::Tokyo "
+  },
+  {
+   "id": "8df60855e14919ba",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "既存の規約違反を凍結し、新しい違反だけを止める ── WEAR Androidに規約テストを後から入れた方法",
+   "url": "https://techblog.zozo.com/entry/wear-android-archtest",
+   "publishedAt": "2026-11-13T02:00:00Z",
+   "summary": "はじめに こんにちは、WEAR開発部Androidブロックの青木です。普段はファッションコーディネートアプリWEARのAndroidアプリ開発を担当しています。 私たちWEAR A"
+  },
+  {
+   "id": "acb84e17af5632d4",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "PicoRubyKaigi 2026 Assembleレポート —— 展示、登壇、運営",
+   "url": "https://tech.smarthr.jp/entry/2026/11/13/102559",
+   "publishedAt": "2026-11-13T01:25:59Z",
+   "summary": "SmartHRは、2026年10月31日（土）に東京・浅草橋ヒューリックホール＆カンファレンスで開催された「PicoRubyKaigi 2026 Assemble」に協賛してブース"
+  },
+  {
+   "id": "32709ef1bdc52c6d",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "Kotlin Multiplatform(KMP)撤退の意思決定と得られたもの",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67436/",
+   "publishedAt": "2026-11-13T00:15:26Z",
+   "summary": "Kotlin Multiplatform(KMP)撤退の意思決定と得られたもの はじめに この記事で ..."
+  },
+  {
+   "id": "0fac2639612ee592",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Security Review no longer requires a linked Vercel project",
+   "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
+   "publishedAt": "2026-11-13T00:00:00Z",
+   "summary": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub re"
+  },
+  {
+   "id": "ef083a18b6c83827",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Sandbox starts up to 4x faster",
+   "url": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
+   "publishedAt": "2026-11-13T00:00:00Z",
+   "summary": "Vercel Sandbox now initializes up to 4x faster outside the Washington, D.C. (iad1) region "
+  },
+  {
+   "id": "44d76e0a6cd6bef5",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Build cache size limit on Vercel increased to 5 GB",
+   "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
+   "publishedAt": "2026-11-13T00:00:00Z",
+   "summary": "The build cache size limit on all Vercel build machines has been increased to 5 GB. This a"
+  },
+  {
+   "id": "35c932eb4bc3073b",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Parallel Decisions now available on AI Gateway for free",
+   "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
+   "publishedAt": "2026-11-13T00:00:00Z",
+   "summary": "Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through N"
+  },
+  {
+   "id": "d6ad773237deaca8",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Modular regression testing framework built on AWS for large-scale systems",
+   "url": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/",
+   "publishedAt": "2026-11-12T21:51:43Z",
+   "summary": "Regression testing must catch behavior changes before they reach production, yet synthetic"
+  },
+  {
+   "id": "1679745a65d3dd25",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Kimi K3.1 Pro is now available in Token Pass",
+   "url": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
+   "publishedAt": "2026-11-12T20:56:38Z",
+   "summary": "Token Pass now includes Kimi K3.1 Pro, Moonshot AI’s most capable model for coding and age"
+  },
+  {
+   "id": "810e27c17f6db168",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
+   "url": "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/",
+   "publishedAt": "2026-11-12T20:51:20Z",
+   "summary": "Building multimodal AI/ML pipelines on Amazon EC2 means scaling distributed compute, contr"
+  },
+  {
+   "id": "ea6d07d865637e3e",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+   "url": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
+   "publishedAt": "2026-11-12T19:31:28Z",
+   "summary": "This post lays out a five-layer reference architecture for governed, observable enterprise"
+  },
+  {
+   "id": "15f5f3224242fca1",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Introducing Expo Simulators: cloud simulators built for agents",
+   "url": "https://expo.dev/blog/introducing-expo-simulators-cloud-simulators-built-for-agents",
+   "publishedAt": "2026-11-12T16:45:51Z",
+   "summary": "Expo Simulators gives your agents cloud iOS simulators and Android emulators to install bu"
+  },
+  {
+   "id": "7d3037fefd0fc4e9",
+   "blog": "Pinterest Engineering",
+   "category": "海外企業",
+   "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+   "url": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2",
+   "publishedAt": "2026-11-12T16:01:06Z",
+   "summary": "Skyler Zheng | Software Engineer II; Chris Moradi | Staff Data Scientist; Lu Liu | Staff S"
+  },
+  {
+   "id": "5d74f57a5ce7df98",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents",
+   "url": "https://shopify.engineering/cyber-chaos-monkey",
+   "publishedAt": "2026-11-12T14:57:16Z",
+   "summary": "How we pair AI agents with our knowledge of Shopify’s systems to safely attack our product"
+  },
+  {
+   "id": "fef2792d5cef1af3",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Bliki: Generated Glossary",
+   "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+   "publishedAt": "2026-11-12T14:15:00Z",
+   "summary": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large o"
+  },
+  {
+   "id": "5737b2851b513eb3",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Workflow SDK 5: built for production",
+   "url": "https://vercel.com/blog/workflow-sdk-5",
+   "publishedAt": "2026-11-12T13:00:00Z",
+   "summary": "When we first launched Workflow SDK, the goal was simple: write regular async JavaScript, "
+  },
+  {
+   "id": "8c21dfa880db8f9c",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "QA チームで Jev 勉強会を開いたら、AI に任せる範囲と人に残したい範囲が見えてきた",
+   "url": "https://tech.layerx.co.jp/entry/qa-jev-study",
+   "publishedAt": "2026-11-12T07:59:05Z",
+   "summary": "QA エンジニア16人で Jev の勉強会を開き、78枚の付箋から「Jev に任せる場所」と「人に残す場所」を整理しました。判断特化型 AI を QA に活かすための、2つの問いを"
+  },
+  {
+   "id": "b2fff307ad501457",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "フラットに話せる文化、ユーザーと共に育てるサービス —— 新卒エンジニアが見たSmartHR",
+   "url": "https://tech.smarthr.jp/entry/2026/11/12/120303",
+   "publishedAt": "2026-11-12T03:03:03Z",
+   "summary": "はじめまして。2026年4月に新卒1期生のプロダクトエンジニアとしてSmartHRに入社し、メッセージ機能を開発するメッセージユニットで働いているMingyuです。 入社してから半"
+  },
+  {
+   "id": "6b80272d2ba2bb9d",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "北陸Ruby会議02にydahが登壇します —— みんなが「発見」したRubyの世界",
+   "url": "https://tech.smarthr.jp/entry/2026/11/12/110000",
+   "publishedAt": "2026-11-12T02:00:00Z",
+   "summary": "こんにちは。プロダクト基盤開発本部の@ydahです。2026年11月14日(土)に、福井県立恐竜博物館で開催される「北陸Ruby会議02」に登壇します！ 北陸Ruby会議02とは "
+  },
+  {
+   "id": "fd3d76205fad1091",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Sandbox now supports managed npm credentials",
+   "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
+   "publishedAt": "2026-11-12T01:56:00Z",
+   "summary": "Vercel Sandbox can now install your team's private npm packages using credentials stored i"
+  },
+  {
+   "id": "84d960ee826356fc",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "技術書典21にシルバースポンサーとして出展し、新刊「Sansan Builder’s Book 03」を頒布します",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/12/100000",
+   "publishedAt": "2026-11-12T01:00:00Z",
+   "summary": "Sansanは、2026年11月23日(月・祝)に池袋サンシャインシティで開催される「技術書典21」に、シルバースポンサーとして出展します。あわせて、有志のエンジニアとデザイナーが"
+  },
+  {
+   "id": "0a877acfd7512893",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Discord <3 Linux: A Year of Upgrades",
+   "url": "https://discord.com/blog/discord-linux-a-year-of-upgrades",
+   "publishedAt": "2026-11-12T00:00:00Z",
+   "summary": "Discord on Linux got a glow-up: a new Rust updater, hardware encoding, Wayland screen shar"
+  },
+  {
+   "id": "c5325ab6b82c2e5f",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Python 3.15 now available as a Vercel Managed Image",
+   "url": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
+   "publishedAt": "2026-11-12T00:00:00Z",
+   "summary": "Python 3.15 is now available as a Vercel Managed Image for Vercel Sandbox.To run a sandbox"
+  },
+  {
+   "id": "4adb3d7e54cd2c4d",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Inkling 2 Small now available on AI Gateway",
+   "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-12T00:00:00Z",
+   "summary": "Inkling 2 Small from Thinking Machines is now available on AI Gateway. The multimodal reas"
+  },
+  {
+   "id": "4cd626683252099a",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Gemini 4 Hydrogen now available on AI Gateway",
+   "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-12T00:00:00Z",
+   "summary": "Gemini 4 Hydrogen from Google is now available on AI Gateway.Gemini 4 Hydrogen succeeds Ge"
+  },
+  {
+   "id": "d8e51ab80c4f308b",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
+   "url": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/",
+   "publishedAt": "2026-11-11T23:25:00Z",
+   "summary": "Zillow sends more than 100 million personalized notifications a day, each as a short-lived"
+  },
+  {
+   "id": "2fc5afc7fe998515",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "Shopify’s generative discovery model",
+   "url": "https://shopify.engineering/generative-discovery",
+   "publishedAt": "2026-11-11T18:27:48Z",
+   "summary": "How we train and serve a shared generative model for personalized search and recommendatio"
+  },
+  {
+   "id": "3d23386a419a4bcb",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+   "url": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+   "publishedAt": "2026-11-11T17:00:38Z",
+   "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can k"
+  },
+  {
+   "id": "b620d8966c8d8e8c",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Tests as data: ensuring AI-generated code does what we want",
+   "url": "https://martinfowler.com/articles/tests-as-data.html",
+   "publishedAt": "2026-11-11T15:17:00Z",
+   "summary": "Automated testing in the age of AI coding assistants is problematic: when AI agents write "
+  },
+  {
+   "id": "e4e9ac2ad8045b60",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Choosing QuePaxa, an unusual consensus algorithm",
+   "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+   "publishedAt": "2026-11-11T14:24:46Z",
+   "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed con"
+  },
+  {
+   "id": "e7828f995896c9fe",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How five web developers built an iOS keyboard extension with Expo",
+   "url": "https://expo.dev/blog/supernova-ios-keyboard-extension-expo",
+   "publishedAt": "2026-11-11T14:15:30Z",
+   "summary": "Supernova's five web developers run three Expo apps, including Superflow, a voice keyboard"
+  },
+  {
+   "id": "364c948476bccff2",
+   "blog": "Swift.org Blog",
+   "category": "公式・プラットフォーム",
+   "title": "What's new in Swift: November 2026 Edition",
+   "url": "https://www.swift.org/blog/whats-new-in-swift-november-2026/",
+   "publishedAt": "2026-11-11T09:00:00Z",
+   "summary": "Welcome to the latest edition of “What’s new in Swift,” a curated digest of releases, news"
+  },
+  {
+   "id": "8370372058c808a1",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "Google Cloud知識0から1ヶ月でインフラ移行に挑んだ話",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67406/",
+   "publishedAt": "2026-11-11T06:39:59Z",
+   "summary": "はじめに はじめまして。金沢大学大学院修士1年の萬年俊行です。 2026年9月3日〜9月30日の1ヶ ..."
+  },
+  {
+   "id": "6ebe88b64b1bbd1c",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "Kotlin Fest 2026にSponsor（Silver Plan）として協賛します！",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/11/150000",
+   "publishedAt": "2026-11-11T06:00:00Z",
+   "summary": "Sansan株式会社は、「Kotlin Fest 2026」にSponsor（Silver Plan）として協賛します！ 本記事では、Kotlin Fest 2026への協賛の背景"
+  },
+  {
+   "id": "58b4891c85e53883",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "『Unity パフォーマンスチューニング バイブル』の続編『Unity パフォーマンスチューニング ティップス 2026』を無料公開しました",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67318/",
+   "publishedAt": "2026-11-11T03:00:38Z",
+   "summary": "弊社ゲーム・エンターテイメント事業部（SGE）のエンジニアが執筆した書籍『Unity ..."
+  },
+  {
+   "id": "6ad57a4776d4d1ff",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "【28卒】2026年サマーインターンシップ —— AIで開発し、チームで考えた5日間",
+   "url": "https://tech.smarthr.jp/entry/2026/11/11/120000",
+   "publishedAt": "2026-11-11T03:00:00Z",
+   "summary": "こんにちは！新卒採用担当のgarashiです。 SmartHRは、2026年8月17日〜21日と8月31日〜9月4日の2日程で、プロダクトエンジニア職のサマーインターンシップを開催"
+  },
+  {
+   "id": "89377d100ccbac97",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "AIエージェントのコストと成果をどう比べるか。ログの集計単位とモデル選択から考える",
+   "url": "https://techblog.lycorp.co.jp/ja/20261111b",
+   "publishedAt": "2026-11-11T02:00:00Z",
+   "summary": "こんにちは。LINEヤフーでDevRelを担当している山岡です。AIの利用ログとPull Request（PR）のデータがそろっていても、「このモデルや設定なら、同じタスクをより低"
+  },
+  {
+   "id": "14e703a28c4e3211",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "LLMにどこまで任せるべきか：AIエージェントによる広告分析レポート自動化",
+   "url": "https://techblog.lycorp.co.jp/ja/20261111a",
+   "publishedAt": "2026-11-11T02:00:00Z",
+   "summary": "はじめにこんにちは。LINEヤフーAdsのデータ分析プラットフォームの開発を担当しているイ・ジョンウ、イ・ウンヨルです。広告売上は、商品、広告主、キャンペーン配信の変化によって日々"
+  },
+  {
+   "id": "f9ea759f29a7b7d2",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "【28卒】2026年サマーインターンシップ —— 最優秀賞チームが語るユーザー視点の開発と学び",
+   "url": "https://tech.smarthr.jp/entry/2026/11/11/105338",
+   "publishedAt": "2026-11-11T01:53:38Z",
+   "summary": "こんにちは！新卒採用担当のikuraです。 SmartHRは、2026年8月17日〜21日と8月31日〜9月4日の2日程で、プロダクトエンジニア職のサマーインターンシップを開催しま"
+  },
+  {
+   "id": "05fd5bfcd4097459",
+   "blog": "マネーフォワード Developers Blog",
+   "category": "国内企業",
+   "title": "マネーフォワードはKotlin Fest 2026にGold Sponsorとして協賛します！",
+   "url": "https://moneyforward-dev.jp/entry/2026/11/11/140000",
+   "publishedAt": "2026-11-11T01:00:00Z",
+   "summary": "こんにちは、マネーフォワード大阪開発拠点でエンジニアをしているyuta.yamamotoです。 マネーフォワードは、2026年11月14日(土)に東京コンファレンスセンター品川で開"
+  },
+  {
+   "id": "9270b61cb6e11f78",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "FlutterKaigi 2026の応援LTに登壇しました",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/11/100000",
+   "publishedAt": "2026-11-11T01:00:00Z",
+   "summary": "こんにちは、技術本部 Bill One EX プロダクト開発部 Mobile Applicationグループに所属しているヤズジュ夢佐です。 2026年10月29日〜30日に開催さ"
+  },
+  {
+   "id": "b22b17ef2571c154",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Gemini Decision 1 now available on AI Gateway",
+   "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-11T00:00:00Z",
+   "summary": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision mode"
+  },
+  {
+   "id": "b1494f1296b8ccc4",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
+   "url": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
+   "publishedAt": "2026-11-11T00:00:00Z",
+   "summary": "Identity verification apps for banking and SIM registration require clear, high-resolution"
+  },
+  {
+   "id": "6eb9ee3a21d40beb",
+   "blog": "The Airbnb Tech Blog",
+   "category": "海外企業",
+   "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+   "url": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b",
+   "publishedAt": "2026-11-10T18:01:02Z",
+   "summary": "Durable workflows, running inside your service with no separate orchestration cluster. By "
+  },
+  {
+   "id": "43845b4f147d2776",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+   "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+   "publishedAt": "2026-11-10T17:00:49Z",
+   "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more tra"
+  },
+  {
+   "id": "5e9e8fa5913b64c7",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+   "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+   "publishedAt": "2026-11-10T16:59:31Z",
+   "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize"
+  },
+  {
+   "id": "771dd200291cf738",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
+   "url": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
+   "publishedAt": "2026-11-10T16:48:09Z",
+   "summary": "Application teams in regulated enterprises can execute self-service regional failover with"
+  },
+  {
+   "id": "77de2f93138eda82",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How to iterate faster with Expo, Supabase, and AI",
+   "url": "https://expo.dev/blog/iteration-speed-expo-supabase-ai",
+   "publishedAt": "2026-11-10T16:15:37Z",
+   "summary": "Quilia's only developer ships five JavaScript updates a day. Here's the agent loop, Expo p"
+  },
+  {
+   "id": "a2a77ccfba496611",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "How we rebuilt the Shopify app in 12 weeks",
+   "url": "https://shopify.engineering/shopify-app-rebuild",
+   "publishedAt": "2026-11-10T14:36:23Z",
+   "summary": "What changed when agents started writing our mobile code, and how we redesigned our archit"
+  },
+  {
+   "id": "d62396a131b84131",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Fragments: November 10",
+   "url": "https://martinfowler.com/fragments/2026-11-10.html",
+   "publishedAt": "2026-11-10T14:30:00Z",
+   "summary": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again "
+  },
+  {
+   "id": "c548ea6efd503258",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Long-horizon agents and durable execution",
+   "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+   "publishedAt": "2026-11-10T14:10:00Z",
+   "summary": "Long-horizon agents can automate complex tasks that take days or weeks to complete and inv"
+  },
+  {
+   "id": "2eaad2cf409ace0f",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "2026年度 新卒研修『AWS インフラハンズオン』の資料を公開します",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/66422/",
+   "publishedAt": "2026-11-10T08:19:56Z",
+   "summary": "こんにちは、株式会社WinTicket でバックエンドとインフラを担当している茨木啓瑚（@oyasu ..."
+  },
+  {
+   "id": "ac292720fc839e3b",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "pmconf 登壇者を社内オーディションで選んだら、「PdMとしての言語化」を学び直せた話",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/10/150000",
+   "publishedAt": "2026-11-10T06:00:00Z",
+   "summary": "こんにちは。顧客マスターマネジメント「Sansan Data Intelligence」でプロダクトオーナー（PO）をしている猿田です。 Sansan株式会社は、プロダクトマネージ"
+  },
+  {
+   "id": "e59f683fba09db73",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "チームをまたぐ開発で見直したプロダクトマネージャーの関わり方",
+   "url": "https://tech.smarthr.jp/entry/2026/11/10/140222",
+   "publishedAt": "2026-11-10T05:02:22Z",
+   "summary": "この記事は「従業員ポータル領域のPM全員でブログを書く企画」への参加記事です。合計7名のPMが持ち回りで毎週記事を投稿していきます。ぜひご覧ください。 SmartHRの従業員ポータ"
+  },
+  {
+   "id": "4b2dbc6f4fdae361",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "個人に閉じたAI活用のノウハウを、チームの資産にする",
+   "url": "https://techblog.lycorp.co.jp/ja/20261110a",
+   "publishedAt": "2026-11-10T02:00:00Z",
+   "summary": "技術管理CBU 技術支援ユニット Webエンジニアリング推進ディビジョンの爲本雄亮です。この記事は、社内ワークショップ Orchestration Development Work"
+  },
+  {
+   "id": "fdededa4029a1a04",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "名刺管理の先に、新しいキャリア体験を。Eight Career Designが現場の知見をAIに生かすまで",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/10/110000",
+   "publishedAt": "2026-11-10T02:00:00Z",
+   "summary": "名刺アプリ「Eight」では、名刺アプリとして培ってきたユーザー基盤やデータを生かし、キャリア領域での新しい体験づくりに取り組んでいます。その一つが、企業とEightユーザーをつな"
+  },
+  {
+   "id": "f1186cc9aa1813a4",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+   "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-10T00:00:00Z",
+   "summary": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate "
+  },
+  {
+   "id": "7b087ed646784126",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Gemini 4 Carbon now available on AI Gateway",
+   "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-10T00:00:00Z",
+   "summary": "Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off thr"
+  },
+  {
+   "id": "e2490bba8e0b026e",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Speed Insights and Web Analytics now support custom environments",
+   "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+   "publishedAt": "2026-11-10T00:00:00Z",
+   "summary": "Speed Insights and Web Analytics now fully support custom environments.Previously, data ca"
+  },
+  {
+   "id": "4db5e2d3ce823f34",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Powering Seamless Player Sign-In: Introducing the Open-Source Sign in with Google Plugin for Unity",
+   "url": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity",
+   "publishedAt": "2026-11-10T00:00:00Z",
+   "summary": "With Unity powering over half of all mobile titles worldwide, first impressions matter. Fo"
+  },
+  {
+   "id": "644f7d051a19ea8b",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+   "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+   "publishedAt": "2026-11-09T21:00:00Z",
+   "summary": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0."
+  },
+  {
+   "id": "0376ecfce750472a",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+   "url": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
+   "publishedAt": "2026-11-09T20:34:35Z",
+   "summary": "Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team,"
+  },
+  {
+   "id": "e6033ef6c9241e12",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN",
+   "url": "https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan/",
+   "publishedAt": "2026-11-09T20:15:09Z",
+   "summary": "DeepL runs a multi-Region hybrid network across multiple AWS Regions and AWS Direct Connec"
+  },
+  {
+   "id": "4fc88b42fb98f13b",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How many engineers does it take to build a social network?",
+   "url": "https://expo.dev/blog/how-many-engineers-does-it-take-to-build-a-social-network",
+   "publishedAt": "2026-11-09T19:15:06Z",
+   "summary": "I built and launched Pollzy on iOS and Android as a solo developer, despite having never b"
+  },
+  {
+   "id": "35ad11e90d382cfe",
+   "blog": "Spotify Engineering",
+   "category": "海外企業",
+   "title": "AI Product Management at Spotify: A View From Three Angles",
+   "url": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/",
+   "publishedAt": "2026-11-09T17:53:35Z",
+   "summary": "Almost every article or podcast about product management and AI refers to \"the AI PM\" as o"
+  },
+  {
+   "id": "5dd2e2217bcebc3e",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+   "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808",
+   "publishedAt": "2026-11-09T17:01:02Z",
+   "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Intr"
+  },
+  {
+   "id": "c8c73625548294dd",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+   "publishedAt": "2026-11-09T17:00:12Z",
+   "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging app"
+  },
+  {
+   "id": "eaf76b6c9af38d33",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Launching the Vite Ecosystem Fund",
+   "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+   "publishedAt": "2026-11-09T13:00:00Z",
+   "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source pr"
+  },
+  {
+   "id": "e16d5bb29ac5f8d1",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+   "publishedAt": "2026-11-09T05:00:00Z",
+   "summary": "AI Gateway Production Index — November 2026Every month, AI Gateway routes more than 100 tr"
+  },
+  {
+   "id": "67606c4ad9058723",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "インターン生によるレポート記事一覧（2026年度）",
+   "url": "https://techblog.lycorp.co.jp/ja/20261109c",
+   "publishedAt": "2026-11-09T02:00:00Z",
+   "summary": "LINEヤフーのインターンシップは、あなたの可能性を広げる舞台です。プログラムは実際の仕事に近いリアルな体験にこだわっています。インターンシップを通じて新しい自分に出会う経験は、き"
+  },
+  {
+   "id": "82e4ad5c1ac0e563",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "検索連動型ショッピング広告の自動入札における予測精度改善（インターンレポート）",
+   "url": "https://techblog.lycorp.co.jp/ja/20261109b",
+   "publishedAt": "2026-11-09T02:00:00Z",
+   "summary": "1 はじめにこんにちは！京都大学 情報学研究科 修士1年の外島直行です。私はLINEヤフーの就業型インターンシップに6週間参加し、検索連動型ショッピング広告の広告配信に関わるチーム"
+  },
+  {
+   "id": "2f7f236384306e52",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "SmartHRはTechRAMEN 2026 Conferenceに協賛し、1名が登壇します！ #techramen26conf",
+   "url": "https://tech.smarthr.jp/entry/2026/11/09/105636",
+   "publishedAt": "2026-11-09T01:56:36Z",
+   "summary": "こんにちは！ プロダクトエンジニアの mktakuya です。 ポータル開発AユニットでSmartHRのホーム画面やお知らせ機能の開発を担当しています。 SmartHRは、2026"
+  },
+  {
+   "id": "03fad8b63bd3a5cb",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67361/",
+   "publishedAt": "2026-11-09T01:13:28Z",
+   "summary": "本記事では、AI Workerを導入するお客様向けに、多様なAIエージェントやアプリケーションを開発 ..."
+  },
+  {
+   "id": "8ae33947e3ea72b5",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "OAuth／OIDCライブラリの内製化で見えたGoのpackageとinterface",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/09/100000",
+   "publishedAt": "2026-11-09T01:00:00Z",
+   "summary": "技術本部Platform Engineering Unit Identity Platformグループの輿石です。 2026年に新卒入社し、弊社が提供する経理AXサービス「Bill"
+  },
+  {
+   "id": "02f8c8d835e72330",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Discord Patch Notes: November 9, 2026",
+   "url": "https://discord.com/blog/discord-patch-notes-november-9-2026",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Check out the finer details of the more technical fixes implemented into Discord recently."
+  },
+  {
+   "id": "49b6d666c00b2f61",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Unlock, Level Up, Flex: Discord Profile Badges Got an Upgrade",
+   "url": "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Meet the new badge directory: one spot to browse every badge on Discord, including 4 shiny"
+  },
+  {
+   "id": "cb21709451bea5c0",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "GLM 5.3 Flash is now available in Token Pass",
+   "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Token Pass now includes GLM 5.3 Flash, alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash"
+  },
+  {
+   "id": "ae9fcc7c25872082",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Workflow SDK now writes over WebSockets on Vercel",
+   "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSo"
+  },
+  {
+   "id": "1e1b8563f6472693",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Build disk space on Vercel increased to 64 GB",
+   "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machi"
+  },
+  {
+   "id": "6433aba8a84cac77",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+   "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Vercel Container Registry now supports compressed image layers of up to 2 GB each, up from"
+  },
+  {
+   "id": "994e25c86d71ca0f",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Claude Fable 5.2 now available on AI Gateway",
+   "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Claude Fable 5.2 from Anthropic is now available on AI Gateway.Fable 5.2 is built for open"
+  },
+  {
+   "id": "0afc58253869578b",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Muse Ember now available on AI Gateway",
+   "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-09T00:00:00Z",
+   "summary": "Muse Ember from Meta is now available on AI Gateway. It is a lightweight reasoning model f"
+  },
+  {
+   "id": "3c8a9487259fa928",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-07T00:00:00Z",
+   "summary": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This "
+  },
+  {
+   "id": "53efb92988ff0250",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Chat SDK agents can now stream generative UI with json-render",
+   "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+   "publishedAt": "2026-11-06T21:00:00Z",
+   "summary": "You can now stream generative UI from your Chat SDK agent with json-render.With a typed ca"
+  },
+  {
+   "id": "d6ee2ac6f1e19e0e",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "AI Gateway adds DeepSeek Search and Fetch tools",
+   "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+   "publishedAt": "2026-11-06T21:00:00Z",
+   "summary": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway. Search finds rele"
+  },
+  {
+   "id": "baedd7f1388947c7",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel CLI can now set new projects to expire",
+   "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+   "publishedAt": "2026-11-06T18:00:00Z",
+   "summary": "You can now set a new project to expire when you deploy it with Vercel CLI. Expired projec"
+  },
+  {
+   "id": "95594d354fca3e52",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Inside the new JNI layer in Expo Modules 2.0",
+   "url": "https://expo.dev/blog/expo-modules-2-0-new-jni-layer",
+   "publishedAt": "2026-11-06T17:45:28Z",
+   "summary": "Kolibri is the JNI library under Expo Modules 2.0 on Android. Calls into C++ objects are u"
+  },
+  {
+   "id": "2dce65e53473f0c6",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Vercel Tracing is now generally available",
+   "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+   "publishedAt": "2026-11-06T17:00:00Z",
+   "summary": "Vercel Tracing is now generally available on all plans. You can now search and inspect tra"
+  },
+  {
+   "id": "8b95fe2b1ba7ae95",
+   "blog": "Pinterest Engineering",
+   "category": "海外企業",
+   "title": "Safe and Efficient Multi-Epoch Embedding Training",
+   "url": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83",
+   "publishedAt": "2026-11-06T16:01:03Z",
+   "summary": "Authors: Shruthi Hariharan | Machine Learning Engineer II; Konish Dutta | Machine Learning"
+  },
+  {
+   "id": "c0c0bbef02ac4bba",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "The post-quantum future of web privacy",
+   "url": "https://blog.cloudflare.com/vole-mole/",
+   "publishedAt": "2026-11-06T14:00:00Z",
+   "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keepin"
+  },
+  {
+   "id": "8ce51a93d951aa45",
+   "blog": "マネーフォワード Developers Blog",
+   "category": "国内企業",
+   "title": "Kaigi on Rails 2026参加レポート",
+   "url": "https://moneyforward-dev.jp/entry/2026/11/06/174418",
+   "publishedAt": "2026-11-06T10:00:00Z",
+   "summary": "こんにちは、マネーフォワードケッサイで本人確認機能の開発をしているWuです。 2026年10月16日から17日にかけて開催されたKaigi on Rails 2026に参加してきま"
+  },
+  {
+   "id": "ac550fe1680759e7",
+   "blog": "はてな開発者ブログ",
+   "category": "国内企業",
+   "title": "はてな東京オフィスでGo言語の勉強会「hatena.go #3」を開催します",
+   "url": "https://developer.hatenastaff.com/entry/2026/11/06/174023",
+   "publishedAt": "2026-11-06T08:40:23Z",
+   "summary": "Webアプリケーションエンジニアの id:lufiabb です。 このたび 2026年11月26日（木）に、はてな東京オフィスにて hatena.go #3というGoの勉強会を開催"
+  },
+  {
+   "id": "3fc0925ecb3837bd",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "CloudNative Days Winter 2026に懇親会スポンサーとして協賛します",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/06/130000",
+   "publishedAt": "2026-11-06T04:00:00Z",
+   "summary": "Sansan株式会社は、2026年11月18日（水）・19日（木）に開催される「CloudNative Days Winter 2026」に、懇親会スポンサーとして協賛します。 C"
+  },
+  {
+   "id": "716b2b289ba6bdfc",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知",
+   "url": "https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai",
+   "publishedAt": "2026-11-06T02:00:00Z",
+   "summary": "はじめに こんにちは。グローバルプロダクト開発本部 グローバルアプリ部 アプリ基盤ブロックの桂川です。普段はZOZOFIT・ZOZOMETRYなどの計測アプリのAndroid開発に"
+  },
+  {
+   "id": "4862426c4e57dacf",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "BigQuery Remote Functionsの評価ステージを見直して、Cloud RunへのHTTPリクエストを約74%削減した話",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/06/110000",
+   "publishedAt": "2026-11-06T02:00:00Z",
+   "summary": "こんにちは、技術本部 Data Intelligence Engineering Unit Master Dataグループの井脇です。普段はデータ基盤まわりの開発・運用に携わってい"
+  },
+  {
+   "id": "52f61148f85799ec",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "Knowledge Catalog で AI エージェントに社内の知識を渡す基盤づくり – ミッション型インターン体験記",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67259/",
+   "publishedAt": "2026-11-06T01:00:25Z",
+   "summary": "はじめに こんにちは 🐈 東京工科大学 学部3年の広瀬 エイトル（@Heitor_Hirose）です ..."
+  },
+  {
+   "id": "71c0c3d0d45e88a7",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "2026年11月技術イベント予定",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/06/100000",
+   "publishedAt": "2026-11-06T01:00:00Z",
+   "summary": "Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了し"
+  },
+  {
+   "id": "65a22f24ff9f841e",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Token Pass credit now applies automatically across AI Gateway",
+   "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+   "publishedAt": "2026-11-06T01:00:00Z",
+   "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway, wh"
+  },
+  {
+   "id": "f933a6bdd73ca94d",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
+   "url": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
+   "publishedAt": "2026-11-06T00:09:41Z",
+   "summary": "See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering pl"
+  },
+  {
+   "id": "2a016ddbf7e1828d",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Build for an expanding lineup of Android XR devices with production-ready tools from Android Developer Summit",
+   "url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools",
+   "publishedAt": "2026-11-06T00:00:00Z",
+   "summary": "From full immersion at home to glanceable experiences on the go, building on Android XR le"
+  },
+  {
+   "id": "1409c52b51091fdc",
+   "blog": "GitHub Blog（Engineering）",
+   "category": "海外企業",
+   "title": "Inside GitHub’s new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "publishedAt": "2026-11-05T20:23:21Z",
+   "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single"
+  },
+  {
+   "id": "4d3294f9ada2b2bf",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
+   "publishedAt": "2026-11-05T18:45:07Z",
+   "summary": "Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling syst"
+  },
+  {
+   "id": "27bb0f20fce6ebe3",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Agents aren’t humans (but they kinda are)",
+   "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+   "publishedAt": "2026-11-05T17:03:04Z",
+   "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. Thi"
+  },
+  {
+   "id": "5b49073ebb8e6577",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "Reflex: an architecture for building mobile apps with agents",
+   "url": "https://shopify.engineering/reflex",
+   "publishedAt": "2026-11-05T15:41:40Z",
+   "summary": "Our architecture lets agents test mobile app behavior without an emulator and use one test"
+  },
+  {
+   "id": "6c2f750976a221bd",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "The Data Product Platform Navigator",
+   "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
+   "publishedAt": "2026-11-05T14:11:00Z",
+   "summary": "Many organizations adopting data mesh and data products face a common challenge. They may "
+  },
+  {
+   "id": "612d0cf49b37c688",
+   "blog": "Dropbox Tech",
+   "category": "海外企業",
+   "title": "How two engineer side projects became the agent taking action inside Dropbox",
+   "url": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
+   "publishedAt": "2026-11-05T14:00:00Z",
+   "summary": "Two side projects explored a new way to get work done with files already in Dropbox. Here’"
+  },
+  {
+   "id": "bc8176934921f3d6",
+   "blog": "Dropbox Tech",
+   "category": "海外企業",
+   "title": "How AI-assisted development helped us build the new Dropbox experience",
+   "url": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience",
+   "publishedAt": "2026-11-05T14:00:00Z",
+   "summary": "From sharing features across web and desktop to testing the details customers depend on, t"
+  },
+  {
+   "id": "07b30226c30d24b9",
+   "blog": "Swift.org Blog",
+   "category": "公式・プラットフォーム",
+   "title": "GSoC 2026 Showcase",
+   "url": "https://www.swift.org/blog/gsoc-2026-showcase/",
+   "publishedAt": "2026-11-05T11:30:00Z",
+   "summary": "The Swift project once again participated in Google Summer of Code in 2026, pairing newcom"
+  },
+  {
+   "id": "de988260744667e4",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "Vue Fes Japan 2026 クイズ解説",
+   "url": "https://techblog.lycorp.co.jp/ja/20261105a",
+   "publishedAt": "2026-11-05T04:30:00Z",
+   "summary": "こんにちは、今年新卒で入社し、LINEギフトで主にバックエンド開発を担当している中西です。学生時代はVue.jsを使った開発に取り組んでおり、Vue Fesには過去2年、参加者とし"
+  },
+  {
+   "id": "053cf7f229fd3574",
+   "blog": "M3 Tech Blog",
+   "category": "国内企業",
+   "title": "pmconf 2026 福岡に登壇しました！",
+   "url": "https://www.m3tech.blog/entry/2026/11/05/130537",
+   "publishedAt": "2026-11-05T04:05:37Z",
+   "summary": "皆さんこんにちは、小学2年生の子どものサッカーの応援に明け暮れているプロダクトマネージャーの阪口です。この年代の成長スピードは本当にすごくて、先週できなかったことが今週はできている"
+  },
+  {
+   "id": "04ad03ab5f381590",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "AIを活用しながら専門性も磨き続ける。 Sansanが取り組むセキュリティの新たな仕組み",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/05/130000",
+   "publishedAt": "2026-11-05T04:00:00Z",
+   "summary": "セキュリティの専門性を、プロダクトを作る現場でどう生かすか。Sansanの情報セキュリティ部では、開発チームと協力して対策を進めながら、AIを使った業務の自動化にも取り組んでいます"
+  },
+  {
+   "id": "f5e07fc44d449653",
+   "blog": "freee Developers Hub",
+   "category": "国内企業",
+   "title": "Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる",
+   "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+   "publishedAt": "2026-11-05T01:00:00Z",
+   "summary": "業務ルールが複雑になると、AI エージェントは同じ依頼でも結果がぶれます。業務ルールを Lean に写し、会話ごとの定理を処理系に検めさせる形式検証のガードレールを、τ²-benc"
+  },
+  {
+   "id": "6dffffd566742bfa",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "EightのエンジニアでKaigi on Rails 2026に参加してきました！",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/05/100000",
+   "publishedAt": "2026-11-05T01:00:00Z",
+   "summary": "こんにちは！名刺アプリ「Eight」でエンジニアをしている丸川です。 10月16日・17日に開催されたKaigi on Rails 2026に、Eightのエンジニアメンバーで参加"
+  },
+  {
+   "id": "b2e8c5a523624e64",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Release Notes for Safari Technology Preview 256",
+   "url": "https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/",
+   "publishedAt": "2026-11-05T00:09:57Z",
+   "summary": "Safari Technology Preview Release 256 is now available for download for macOS Golden Gate "
+  },
+  {
+   "id": "56b6af031b3eea44",
+   "blog": "Stripe Engineering",
+   "category": "海外企業",
+   "title": "Analyze your Stripe data directly with your agent",
+   "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+   "publishedAt": "2026-11-05T00:00:00Z",
+   "summary": "You can now use natural language to create an investor slide deck highlighting where your "
+  },
+  {
+   "id": "4df0419b50bf1f14",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Nitro’s Biggest Year Yet: A Look Back at 2026",
+   "url": "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
+   "publishedAt": "2026-11-05T00:00:00Z",
+   "summary": "Nitro had a big year. Catch up on everything Nitro added in 2026, from new in-app perks li"
+  },
+  {
+   "id": "3fd5155c21b340d7",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "What’s new in intelligent apps at the Android Developer Summit",
+   "url": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
+   "publishedAt": "2026-11-05T00:00:00Z",
+   "summary": "In the intelligence era, users are no longer just tapping through apps, they express high-"
+  },
+  {
+   "id": "991a2c359fe1b5b1",
+   "blog": "Pinterest Engineering",
+   "category": "海外企業",
+   "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
+   "url": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11",
+   "publishedAt": "2026-11-04T16:01:04Z",
+   "summary": "Vishnu Arun | Tech Lead, Feature Importance Platform; Anderson Lam | Sr Software Engineer;"
+  },
+  {
+   "id": "e212b47e96671bbf",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "姿勢推定を用いたバスケットボールにおけるショット期待値モデルの改善",
+   "url": "https://engineering.dena.com/blog/2026/11/kbt-shot-expected-value/",
+   "publishedAt": "2026-11-04T15:00:00Z",
+   "summary": "はじめに 2026 年度 DeNA AIスペシャリスト職のサマーインターンに参加した矢島陽樹と申します。普段は東京大学の情報理工学系研究科で、AI の安全性についての研究をしていま"
+  },
+  {
+   "id": "54fa4e16a0d03972",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "See the agents, set the terms: New visibility and control for personal agents",
+   "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+   "publishedAt": "2026-11-04T14:00:00Z",
+   "summary": "Personal AI agents have changed how users interact with the web, blurring the lines betwee"
+  },
+  {
+   "id": "8948ea7e1aefcb61",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "VP of Engineering 齋藤への協賛企業インタビューが第16回 中高生Rubyプログラミングコンテスト 2026 公式サイトで公開されました",
+   "url": "https://tech.smarthr.jp/entry/2026/11/04/181146",
+   "publishedAt": "2026-11-04T09:11:46Z",
+   "summary": "『「作ること」を楽しみ、その先の誰かに届ける —— SmartHRがRubyプログラミングコンテストに期待すること』と題した、VP of Engineeringを務める齋藤諒一への"
+  },
+  {
+   "id": "ad8eecad5e158cef",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "業務ごとにデータ構造が変わるプラットフォームで、AIエージェントにテーブル設計を任せる",
+   "url": "https://tech.layerx.co.jp/entry/agent-table-design",
+   "publishedAt": "2026-11-04T08:03:44Z",
+   "summary": "はじめに こんにちは。LayerXのAi Workforce事業部でソフトウェアエンジニアをしているsunaです。 私たちが開発しているAi Workforceというプロダクトでは"
+  },
+  {
+   "id": "2f8e3e03b842a542",
+   "blog": "freee Developers Hub",
+   "category": "国内企業",
+   "title": "税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる",
+   "url": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+   "publishedAt": "2026-11-04T08:00:00Z",
+   "summary": "税の計算が法令どおりかは、ソフトウェアテストでは人が選んだテストケースの分しか確かめられません。本番で動いている税計算を、定理証明支援系 Lean と AI エージェントで、法令か"
+  },
+  {
+   "id": "f00ce834bd9882a0",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "Fukuoka CRE Lounge 2nd イベントレポート —— 4社が語る、CREのはじめかた・育てかた",
+   "url": "https://tech.smarthr.jp/entry/2026/11/04/141918",
+   "publishedAt": "2026-11-04T05:19:18Z",
+   "summary": "こんにちは、SmartHRのCRE（Customer Reliability Engineering）チームでプロダクトエンジニアをしている koichi_s です。 2026年1"
+  },
+  {
+   "id": "c498b1621aa51d61",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "生成AIで軽くなる見積りとスプリント —— チームの学ぶ機会をどう残すか",
+   "url": "https://tech.smarthr.jp/entry/2026/11/04/131031",
+   "publishedAt": "2026-11-04T04:10:31Z",
+   "summary": "こんにちは。7月から給与計算開発部でエンジニアリングマネージャー（見習い）をしている nawoto です。 生成AI（以下、AI）を全面的に使うようになって、開発のやり方がだいぶ変"
+  },
+  {
+   "id": "f0f817e7b4e7e6c4",
+   "blog": "freee Developers Hub",
+   "category": "国内企業",
+   "title": "2026/10/16 Nagoya Tech Talk #4 〜データ活用のリアル〜 「dbt platform導入後の今」登壇資料",
+   "url": "https://developers.freee.co.jp/entry/2026/11/04/114153",
+   "publishedAt": "2026-11-04T02:41:53Z",
+   "summary": "2026年10月16日に行われた、 Nagoya Tech Talk #4での登壇資料です。 speakerdeck.com"
+  },
+  {
+   "id": "926c1808f2c3589b",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "Claude Codeのスキルで回すGoogle Cloudコストの月次予実管理 ── 金額はクエリ、要因調査はAI、判断は人間",
+   "url": "https://techblog.zozo.com/entry/gcp-cost-management-with-claude-code",
+   "publishedAt": "2026-11-04T02:00:00Z",
+   "summary": "こんにちは、MA部配信基盤ブロックの田島です。配信基盤ブロックでは、ZOZOTOWNのPush通知・LINE・メールといったユーザへの配信を担う配信基盤を、Google Cloud"
+  },
+  {
+   "id": "d74652a8554350e2",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
+   "url": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
+   "publishedAt": "2026-11-04T00:00:00Z",
+   "summary": "The Android ecosystem is a multi-device reality that spans phones, foldables, tablets, wea"
+  },
+  {
+   "id": "6cd6c0321744b3fc",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How a solo dev hit #2 in the Dutch App Store with this education app built on Expo",
+   "url": "https://expo.dev/blog/samio-learning-solo-developer-expo-case-study",
+   "publishedAt": "2026-11-03T22:40:00Z",
+   "summary": "A solo developer with no native mobile experience shipped Samio in seven languages and rea"
+  },
+  {
+   "id": "957f56d221d95890",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Introducing Adaptive Dark Mode",
+   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "publishedAt": "2026-11-03T18:00:35Z",
+   "summary": "We’re excited to announce Adaptive Dark Mode in Safari 27.3 beta."
+  },
+  {
+   "id": "65ce16e3cee7ea14",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+   "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+   "publishedAt": "2026-11-03T17:00:35Z",
+   "summary": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving "
+  },
+  {
+   "id": "4efbb332bc04c36a",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+   "url": "https://blog.cloudflare.com/zero-wire/",
+   "publishedAt": "2026-11-03T14:00:00Z",
+   "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry "
+  },
+  {
+   "id": "7e65b63f0b0508ba",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Discord Gift Cards: The Easiest Holiday Gift on Your List",
+   "url": "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
+   "publishedAt": "2026-11-03T00:00:00Z",
+   "summary": "Discord gift cards are now available in stores and online at select retailers, making it e"
+  },
+  {
+   "id": "48f444f2fb75baf0",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How to run a DR readiness engagement",
+   "url": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/",
+   "publishedAt": "2026-11-02T17:26:49Z",
+   "summary": "This final post turns the DR framework into a repeatable engagement: a five-step sequence "
+  },
+  {
+   "id": "13b1ed8ad7abd2d3",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Validating your DR commitment: From controlled test to real-world readiness",
+   "url": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/",
+   "publishedAt": "2026-11-02T17:26:33Z",
+   "summary": "After you define your DR targets, testing tells you whether they hold. This post walks thr"
+  },
+  {
+   "id": "bdcdf502ff94809b",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Three business decisions that define your DR success",
+   "url": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
+   "publishedAt": "2026-11-02T17:26:26Z",
+   "summary": "A disaster recovery strategy is only as strong as the business decisions behind it. Before"
+  },
+  {
+   "id": "366154d55e1ad02f",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+   "url": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
+   "publishedAt": "2026-11-02T17:21:29Z",
+   "summary": "Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recove"
+  },
+  {
+   "id": "b29f3b06c1d41706",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Apple Developer Program explained: free vs paid",
+   "url": "https://expo.dev/blog/apple-developer-program-explained-free-vs-paid",
+   "publishedAt": "2026-11-02T14:15:21Z",
+   "summary": "You can build and run an Expo app on your iPhone for free. Here is how far you get, and th"
+  },
+  {
+   "id": "d4d371a2c63b0a40",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "How we halved DNS build delay and cut memory use by 85%",
+   "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+   "publishedAt": "2026-11-02T14:00:00Z",
+   "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of "
+  },
+  {
+   "id": "0e09ec91af743989",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "新人チーフが『エンジニアのための自己管理入門』を読んで思ったこと",
+   "url": "https://tech.smarthr.jp/entry/2026/11/02/144409",
+   "publishedAt": "2026-11-02T05:44:09Z",
+   "summary": "こんにちは、SmartHRの技術基盤部でチーフ（SmartHRにおけるEM：エンジニアリングマネージャー職）を務める @udzura です。私のチームでは、SmartHR基本機能に"
+  },
+  {
+   "id": "6835d94409d8d537",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Modernizing the Video Playback Experience at Discord",
+   "url": "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
+   "publishedAt": "2026-11-02T00:00:00Z",
+   "summary": "This is the story of how we assessed and refactored two video players into one, cut the pl"
+  },
+  {
+   "id": "8bba8534f4647e5a",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
+   "url": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
+   "publishedAt": "2026-11-02T00:00:00Z",
+   "summary": "Over 900 attendees joined our event spaces for a keynote about our outlook on the future, "
+  },
+  {
+   "id": "edc2155173c141cd",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "A WebGPU cat puzzle game shipped in three days on Expo, with an AI agent as the QA team",
+   "url": "https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days",
+   "publishedAt": "2026-10-31T15:00:33Z",
+   "summary": "Purrkour renders every cat, box and sound in code with TypeGPU and react-native-webgpu, an"
+  },
+  {
+   "id": "a1a7439eb99d7060",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+   "url": "https://blog.cloudflare.com/emudhra-patching/",
+   "publishedAt": "2026-10-30T17:38:50Z",
+   "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet tha"
+  },
+  {
+   "id": "202c2f97dc8b854b",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Cloudflare services for private origins is now generally available",
+   "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+   "publishedAt": "2026-10-30T14:23:43Z",
+   "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now "
+  },
+  {
+   "id": "cb383c5b6aa29097",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "「見た目はいいけど、伝わらない」AIスライドを改善する試行錯誤",
+   "url": "https://tech.layerx.co.jp/entry/ai-slide-challenge",
+   "publishedAt": "2026-10-30T04:08:16Z",
+   "summary": "はじめまして、LayerX Ai Workforce事業部 FDEの近藤(@Konken)です。 いきなりですが、昨今、スライドの作成をAIに任せる機会が増えてきたのは皆さんも感じ"
+  },
+  {
+   "id": "f6125e1d4412c860",
+   "blog": "Cybozu Inside Out",
+   "category": "国内企業",
+   "title": "Fuzzing+差分テストによるKVS検証 - 単体テストで見逃した非互換をあぶりだす",
+   "url": "https://blog.cybozu.io/entry/2026/10/30/113000",
+   "publishedAt": "2026-10-30T02:30:00Z",
+   "summary": "Cloud Platform部の萩原です。 Cloud Platform部では、Cybozuのクラウドサービス「cybozu.com」の提供基盤をVMベースの旧基盤からKubern"
+  },
+  {
+   "id": "48b5e15d1f9b686e",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "複数サービスに配信するembeddingの品質監視 ── 配信データ・ベクトル空間・推薦スコアの3観点",
+   "url": "https://techblog.zozo.com/entry/embedding-quality-monitoring",
+   "publishedAt": "2026-10-30T02:00:00Z",
+   "summary": "はじめに こんにちは、データシステム部MLOpsブロックの木村です。MLOpsブロックではZOZOTOWN、WEAR by ZOZOをはじめとして、弊社で提供するさまざまなサービス"
+  },
+  {
+   "id": "7a54912d238406aa",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "Contract Oneの全文検索を評価する基盤を作成した（インターン成果報告）",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/30/110000",
+   "publishedAt": "2026-10-30T02:00:00Z",
+   "summary": "はじめに 技術本部 Contract One Engineering Unitで1カ月間インターンをしていたtsukuneです。Contract Oneは、Sansan株式会社が提"
+  },
+  {
+   "id": "d595d4e63b32cef5",
+   "blog": "Stripe Engineering",
+   "category": "海外企業",
+   "title": "Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts",
+   "url": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
+   "publishedAt": "2026-10-30T00:00:00Z",
+   "summary": "In early 2026, we began moving our vendor payments to Global Payouts, Stripe’s product for"
+  },
+  {
+   "id": "b15b60a2156cd645",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+   "url": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+   "publishedAt": "2026-10-29T20:11:14Z",
+   "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Usin"
+  },
+  {
+   "id": "fb557aad8de3202f",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+   "publishedAt": "2026-10-29T18:16:38Z",
+   "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver pers"
+  },
+  {
+   "id": "7d27ce7628a8a98b",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+   "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+   "publishedAt": "2026-10-29T16:00:12Z",
+   "summary": "Over the last year we’ve been sharing our work leveraging large language models to catch b"
+  },
+  {
+   "id": "e58642a94bbadda3",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Bliki: LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "publishedAt": "2026-10-29T14:28:00Z",
+   "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an "
+  },
+  {
+   "id": "e7511c803d9cea71",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Why are good developers so wary of agentic development?",
+   "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+   "publishedAt": "2026-10-29T13:50:00Z",
+   "summary": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn"
+  },
+  {
+   "id": "17d59d0bb5e17f87",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+   "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+   "publishedAt": "2026-10-29T12:55:00Z",
+   "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to s"
+  },
+  {
+   "id": "fc29a0630dfdf68b",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "Chromaticのコストを下げたいっ！ —— TurboSnapが効かない原因と、その対策",
+   "url": "https://tech.smarthr.jp/entry/2026/10/29/163317",
+   "publishedAt": "2026-10-29T07:33:17Z",
+   "summary": "こんにちは、SmartHRでプロダクトエンジニアをしている@nabeliwoです。 SmartHRでは、多くのプロダクトがChromaticを使ってVRT（Visual Regre"
+  },
+  {
+   "id": "e76208188e9ab2bb",
+   "blog": "マネーフォワード Developers Blog",
+   "category": "国内企業",
+   "title": "DroidKaigi 2026：232人のAndroid開発者を本気で悩ませたクイズ。その答えを公開します！",
+   "url": "https://moneyforward-dev.jp/entry/2026/10/21/130342",
+   "publishedAt": "2026-10-29T06:00:00Z",
+   "summary": "こんにちは。マネーフォワードでEngineering ManagerをしているMaxです。 DroidKaigi 2026（9月1日〜3日）の弊社ブースでは、Android Kno"
+  },
+  {
+   "id": "c812fdefcfeb66af",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "フロントエンドに関わる「みんな」の話が詰まった一日！フロントエンドカンファレンス関西2026 参加・協賛レポート",
+   "url": "https://techblog.lycorp.co.jp/ja/20261129b",
+   "publishedAt": "2026-10-29T05:00:00Z",
+   "summary": "こんにちは。@potato4dです。今回は2026年10月12日に開催された フロントエンドカンファレンス関西2026 の参加・協賛レポートをお届けします。本記事では、スポンサーブ"
+  },
+  {
+   "id": "bb047f4bc17b5639",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "起業を経て、Bill Oneへ。 技術で事業に貢献するための新たな挑戦",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/29/110000",
+   "publishedAt": "2026-10-29T02:00:00Z",
+   "summary": "キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。「Sansan 3 Stories」では、これまでの歩みと"
+  },
+  {
+   "id": "244b1666359b33ba",
+   "blog": "はてな開発者ブログ",
+   "category": "国内企業",
+   "title": "バリューストリームを激流にする",
+   "url": "https://developer.hatenastaff.com/entry/2026/10/29/090000",
+   "publishedAt": "2026-10-29T00:00:00Z",
+   "summary": "こんにちは、はてなCTOのid:motemenです。 AIによる環境激変の真っ只中にいるソフトウェアエンジニアをはじめとした皆様におかれましては、さまざまな施策に精をだされていると"
+  },
+  {
+   "id": "ee2090654bc265d2",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+   "url": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
+   "publishedAt": "2026-10-28T18:32:34Z",
+   "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every gr"
+  },
+  {
+   "id": "4ad661021d242a3e",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+   "url": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
+   "publishedAt": "2026-10-28T18:25:50Z",
+   "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agent"
+  },
+  {
+   "id": "9f28e1593bea246b",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+   "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+   "publishedAt": "2026-10-28T16:00:01Z",
+   "summary": "This post describes the next generation of Meta Andromeda, Meta’s personalized ads retriev"
+  },
+  {
+   "id": "2eca88753c44c4aa",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "厳格なバックアップ要件を満たす、Cloud SQL の Backup Vault 導入 [DeNA インフラ SRE]",
+   "url": "https://engineering.dena.com/blog/2026/10/cloudsql-backupvault/",
+   "publishedAt": "2026-10-28T15:00:00Z",
+   "summary": "はじめに こんにちは、DeNA の IT 基盤部の izawa です。主に高い可用性が求められる大規模プロダクトのインフラを担当しています。 私たちが担当するプロダクトでは、Iaa"
+  },
+  {
+   "id": "aaac7d12b2c931bc",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Fragments: October 28",
+   "url": "https://martinfowler.com/fragments/2026-10-28.html",
+   "publishedAt": "2026-10-28T12:55:00Z",
+   "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public"
+  },
+  {
+   "id": "81f0974b0f47ff85",
+   "blog": "M3 Tech Blog",
+   "category": "国内企業",
+   "title": "【M3 Tech Blog 1000記事達成記念】エムスリーテックブログ1000記事を全部分析して分かった読まれる技術記事のヒミツ",
+   "url": "https://www.m3tech.blog/entry/1000",
+   "publishedAt": "2026-10-28T08:04:18Z",
+   "summary": "こんにちは、エムスリーエンジニアリンググループ 業務執行役員 VPoEの河合(@vaaaaanquish)です。エムスリーテックブログは投稿記事が1000を超えました🎉 2017年"
+  },
+  {
+   "id": "efd871f2bffa7ce4",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "SmartHRはKomeKaigi 2026に協賛し、1名が登壇します！",
+   "url": "https://tech.smarthr.jp/entry/2026/10/28/141037",
+   "publishedAt": "2026-10-28T05:10:37Z",
+   "summary": "こんにちは！ SmartHRのDevRel（Developer Relations）のnattyです。 SmartHRは、2026年10月31日（土）に新潟市のNINNO3で開催さ"
+  },
+  {
+   "id": "709d1455bd6c3099",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "不具合の知見を、次のレビューへ —— レビュー観点を蓄積・活用する3層構造の運用",
+   "url": "https://tech.smarthr.jp/entry/2026/10/28/112702",
+   "publishedAt": "2026-10-28T02:27:02Z",
+   "summary": "はじめに こんにちは。SmartHRでQAエンジニアをしているnotchです。 私が担当しているプロダクトでは定期的に不具合を振り返っていたのですが、得られた知見を次の仕様やテスト"
+  },
+  {
+   "id": "73b8ea3c62b140de",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "AIでClassic ASP用エミュレータを作ってリプレイスを進める",
+   "url": "https://techblog.zozo.com/entry/classic-asp-emulator-with-ai",
+   "publishedAt": "2026-10-28T02:00:00Z",
+   "summary": "こんにちは、基幹システム本部リプレイス推進部のssssotaです。 ZOZOでは、Classic ASP (VBScript) で長年運用してきた基幹システムを、新しい技術へリプレ"
+  },
+  {
+   "id": "412017ac8788fa52",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Agentic and Flexible: A next era of Android development",
+   "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
+   "publishedAt": "2026-10-28T00:00:00Z",
+   "summary": "Today, at the Android Dev Summit, we are announcing the broad availability of many tools a"
+  },
+  {
+   "id": "9c922071a33e2a65",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "What's new in Android developer tools and performance at Android Dev Summit",
+   "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+   "publishedAt": "2026-10-28T00:00:00Z",
+   "summary": "This year at Android Dev Summit we shared how Android's developer tools are evolving to he"
+  },
+  {
+   "id": "12e906f881c4b964",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Your favorite agents are now integrated in Android Studio",
+   "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+   "publishedAt": "2026-10-28T00:00:00Z",
+   "summary": "Android Studio Rabbit 2 is now stable and ready for you to use in production. This release"
+  },
+  {
+   "id": "3411eec3234a6f20",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+   "url": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
+   "publishedAt": "2026-10-27T17:23:23Z",
+   "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into comp"
+  },
+  {
+   "id": "d22ea2706be2eb13",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+   "url": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
+   "publishedAt": "2026-10-27T17:14:32Z",
+   "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training mac"
+  },
+  {
+   "id": "3674c5fc63ecbbf2",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Introducing @expo/agent-cli: the CLI designed for agents",
+   "url": "https://expo.dev/blog/introducing-expo-agent-cli",
+   "publishedAt": "2026-10-27T16:30:18Z",
+   "summary": "Meet @expo/agent-cli, a CLI that helps coding agents understand Expo projects, run apps, a"
+  },
+  {
+   "id": "20ab382fd4db922f",
+   "blog": "Meta Engineering",
+   "category": "海外企業",
+   "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+   "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+   "publishedAt": "2026-10-27T16:00:12Z",
+   "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at Priva"
+  },
+  {
+   "id": "199efb62b3981793",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+   "url": "https://blog.cloudflare.com/php-ctf/",
+   "publishedAt": "2026-10-27T13:00:00Z",
+   "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program t"
+  },
+  {
+   "id": "4ba4a8a391ed05a0",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "What took the Internet offline in Q3 2026",
+   "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+   "publishedAt": "2026-10-27T13:00:00Z",
+   "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the thir"
+  },
+  {
+   "id": "83ac8f766f3659f2",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "Security by DesignでAI生成Webアプリを検証する（インターンレポート）",
+   "url": "https://techblog.lycorp.co.jp/ja/20261027b",
+   "publishedAt": "2026-10-27T02:00:00Z",
+   "summary": "東京都市大学大学院 情報データ科学研究科 情報データ科学専攻 ソーシャルシステムデザイン領域 博士前期課程1年の桒村駿輔です。このたび、LINEヤフーのインターンシップにセキュリテ"
+  },
+  {
+   "id": "a63a83e75da34924",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "AIDDで開発プロセスを再設計する — AI駆動開発の試行錯誤から得た学び",
+   "url": "https://techblog.lycorp.co.jp/ja/20261027a",
+   "publishedAt": "2026-10-27T02:00:00Z",
+   "summary": "こんにちは。LINEヤフー株式会社 ショッピングSBUの新堂です。Yahoo!ショッピングでは、AIDD（AI Driven Development）の推進メンバーとともに開発プロ"
+  },
+  {
+   "id": "a6c6d644ad45cd7b",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "【入社エントリ】Sansanに中途入社した情シスエンジニアが、3カ月でどう立ち上がったか",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/27/110000",
+   "publishedAt": "2026-10-27T02:00:00Z",
+   "summary": "はじめに こんにちは、コーポレートシステム部の綱島です。コーポレートエンジニアとして、社内ネットワークやデバイス管理をはじめ、社内システムとインフラの設計・開発・運用を担当していま"
+  },
+  {
+   "id": "476a68a3237c84f2",
+   "blog": "Stripe Engineering",
+   "category": "海外企業",
+   "title": "How the fastest-growing enterprises on Stripe scale globally",
+   "url": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+   "publishedAt": "2026-10-27T00:00:00Z",
+   "summary": "Despite slower global economic growth and greater geopolitical fragmentation, the fastest-"
+  },
+  {
+   "id": "c471c754d7b4107f",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Making Content from Discoverable Servers Easier to Discover",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "publishedAt": "2026-10-27T00:00:00Z",
+   "summary": "Starting on November 16, 2026, conversations in Discoverable Servers will be easier to fin"
+  },
+  {
+   "id": "b153e934a90c5fa4",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "publishedAt": "2026-10-26T22:01:23Z",
+   "summary": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV "
+  },
+  {
+   "id": "0c8875675ddb9b3a",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "WebKit Features for Safari 27.2",
+   "url": "https://webkit.org/blog/18515/webkit-features-for-safari-27-2/",
+   "publishedAt": "2026-10-26T18:30:01Z",
+   "summary": "Safari 27.2 is here, refining Customizable Select, renaming a Grid Lanes property, and del"
+  },
+  {
+   "id": "29334c440b805e10",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Making Failure Diagnosis Reliable with Pensive AI",
+   "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015",
+   "publishedAt": "2026-10-26T17:04:57Z",
+   "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marc"
+  },
+  {
+   "id": "691b21af8254f0ed",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+   "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49",
+   "publishedAt": "2026-10-26T16:01:02Z",
+   "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pere"
+  },
+  {
+   "id": "9ab349d8917aeda1",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "AIでアウトプットは増えたのに、なぜ速くならないのか──企画 × 開発 × ビジネスで挑んだ 1Day AIDD",
+   "url": "https://techblog.lycorp.co.jp/ja/20261026c",
+   "publishedAt": "2026-10-26T02:00:00Z",
+   "summary": "こんにちは。LINEリサーチプラットフォームで企画を担当している葛貫と、開発を担当している上土井です。2026年8月6日に福岡で開催された社内イベント「AIDD Workshop "
+  },
+  {
+   "id": "ebd94c994d9738fe",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "DroidKaigi 2026 にブース出展 with コードレビュー企画",
+   "url": "https://techblog.lycorp.co.jp/ja/20261026a",
+   "publishedAt": "2026-10-26T02:00:00Z",
+   "summary": "みなさん初めまして、2026年に新卒で入社したモバイルエンジニアの銭と申します。2026年9月1日（火）〜9月3日（木）の3日間にわたって開催されたDroidKaigi 2026に"
+  },
+  {
+   "id": "6aa7043e62cf2e5b",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "EDGE POKERにおけるエクスプロイト戦略AI実現への挑戦",
+   "url": "https://engineering.dena.com/blog/2026/10/intern-edge-poker-exploit/",
+   "publishedAt": "2026-10-25T15:00:00Z",
+   "summary": "はじめに はじめまして。2026年度DeNA AIスペシャリストサマーインターンシップに参加させていただいた、奈良先端科学技術大学院大学（NAIST）修士１年の浦辺 晴基です。普段"
+  },
+  {
+   "id": "6a968f50def1586a",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "A 30,000-line Rust GPU engine on Expo, and 120,000 installs without ads",
+   "url": "https://expo.dev/blog/doodraw-rust-gpu-engine-expo-config-plugin-100k-installs",
+   "publishedAt": "2026-10-24T15:00:14Z",
+   "summary": "Doodraw wraps a 30,000-line Rust engine in one Expo app for iPhone, iPad, Android and Wind"
+  },
+  {
+   "id": "7f0e1a16c4d90805",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+   "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90",
+   "publishedAt": "2026-10-23T18:32:51Z",
+   "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with o"
+  },
+  {
+   "id": "599589e5c1e5564d",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Origin Range Requests: Serving large files without range-request tuning",
+   "url": "https://blog.cloudflare.com/origin-range-requests/",
+   "publishedAt": "2026-10-23T18:22:59Z",
+   "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We reb"
+  },
+  {
+   "id": "72e6f48afc22f952",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Bringing post-quantum cryptography to geographically fenced key management",
+   "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+   "publishedAt": "2026-10-23T18:06:56Z",
+   "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption key"
+  },
+  {
+   "id": "6419f10e5f721a3c",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "WebKit Features for Safari 27.1",
+   "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
+   "publishedAt": "2026-10-23T17:00:59Z",
+   "summary": "Today iPhone Duo arrives, and with it, Safari 27.1."
+  },
+  {
+   "id": "2bc919090bd31318",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Supporting iPhone Duo with Expo: a developer guide",
+   "url": "https://expo.dev/blog/supporting-iphone-duo",
+   "publishedAt": "2026-10-23T14:00:28Z",
+   "summary": "How to ready your app for iPhone Duo: SDK 58 changes, Expo Router, new safe area insets, a"
+  },
+  {
+   "id": "e914a4cbb0e78245",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "政治学研究からプロダクト開発へ。 「面白い」を入り口に広がる挑戦",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/23/160000",
+   "publishedAt": "2026-10-23T07:00:00Z",
+   "summary": "Sansan株式会社では、新卒入社のエンジニア・研究員たちが数多く活躍しています。 なぜSansanを選び、入社後にどんな経験を積み、これから何を目指しているのか。 「Sansan"
+  },
+  {
+   "id": "655cea133ab51d1b",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "企業ニュース解析エンジン群のECSからCircuit（EKS）への移行（インターン成果報告）",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/23/150000",
+   "publishedAt": "2026-10-23T06:00:00Z",
+   "summary": "はじめに はじめまして。技術本部研究開発部Architectグループでインターンをしていた玉木です。普段は奈良先端科学技術大学院大学の修士1年として、Split Learningの"
+  },
+  {
+   "id": "b385b0c0a2272be9",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計",
+   "url": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
+   "publishedAt": "2026-10-23T02:00:00Z",
+   "summary": "はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取"
+  },
+  {
+   "id": "81491c9ffe7e2812",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "新卒N年目の勉強会&交流会！#6 レポート",
+   "url": "https://tech.smarthr.jp/entry/2026/10/23/102753",
+   "publishedAt": "2026-10-23T01:27:53Z",
+   "summary": "こんにちは！プロダクトエンジニアのna2keraです。 SmartHRは、2026年10月10日（土）に東京・六本木のSmartHR Spaceで開催された新卒N年目の勉強会&交流"
+  },
+  {
+   "id": "2c3f8a4c371df86d",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+   "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163",
+   "publishedAt": "2026-10-22T22:19:12Z",
+   "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second t"
+  },
+  {
+   "id": "00f5034e86d69f31",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Release Notes for Safari Technology Preview 255",
+   "url": "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255/",
+   "publishedAt": "2026-10-22T21:22:48Z",
+   "summary": "Safari Technology Preview Release 255 is now available for download for macOS Golden Gate "
+  },
+  {
+   "id": "a90dc3b08f084daf",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "仕様書インスペクションの Agent 試作と評価の仕組み",
+   "url": "https://engineering.dena.com/blog/2026/10/intern-2026-daaq-agent/",
+   "publishedAt": "2026-10-22T15:00:00Z",
+   "summary": "1. はじめに 大阪大学修士 1 年の岩月優樹です。大学では、深層学習を用いたガンマ線の計測の研究に取り組んでいます。 2026 年 AI スペシャリストコースのサマーインターンシ"
+  },
+  {
+   "id": "2552ca7457d48250",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Localizing compliance at scale: Achieving South Korea’s ISMS certification",
+   "url": "https://blog.cloudflare.com/k-isms/",
+   "publishedAt": "2026-10-22T13:00:00Z",
+   "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 cont"
+  },
+  {
+   "id": "d972ebf4ec7955d2",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "We gave AI agents a mobile dev environment",
+   "url": "https://shopify.engineering/remote-dev",
+   "publishedAt": "2026-10-22T12:56:38Z",
+   "summary": "We built Remote Dev so AI agents can build and test apps in parallel, without maxing out d"
+  },
+  {
+   "id": "07f402462cdb9e9c",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "内製 Background Coding Agent “haro” で拓く未来の開発体験",
+   "url": "https://tech.layerx.co.jp/entry/why-we-built-our-background-agent",
+   "publishedAt": "2026-10-22T02:27:42Z",
+   "summary": "LayerX バクラク事業部 Platform Engineering 部 Staff Software Engineer の izumin5210 です。 3D アクションゲーム"
+  },
+  {
+   "id": "18c9885630a5b209",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "給与計算を使う側だった私が、つくる側になって4ヶ月 —— 1社分の実務では見えなかったエンタープライズの難しさ",
+   "url": "https://tech.smarthr.jp/entry/2026/10/22/112059",
+   "publishedAt": "2026-10-22T02:20:59Z",
+   "summary": "こんにちは！ 2026年6月に入社したプロダクトエンジニアのnobuです。給与計算プロダクトで、基盤機能を担当する開発チームに所属しています。 私は経理・労務の仕事を3年半ほど経験"
+  },
+  {
+   "id": "152c154cc0846e2c",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "2026年11月の技術系イベント予定",
+   "url": "https://techblog.lycorp.co.jp/ja/20261022a",
+   "publishedAt": "2026-10-22T02:00:00Z",
+   "summary": "LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となって"
+  },
+  {
+   "id": "bcfe54fc7da0a228",
+   "blog": "Stripe Engineering",
+   "category": "海外企業",
+   "title": "Trends from Money20/20 2026: The rise of “hidden” financial services",
+   "url": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+   "publishedAt": "2026-10-22T00:00:00Z",
+   "summary": "As fintech products become increasingly capable, the infrastructure behind them fades into"
+  },
+  {
+   "id": "6d2cfc551f40e2c0",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Discord Update: October 22, 2026",
+   "url": "https://discord.com/blog/discord-update-october-22-2026",
+   "publishedAt": "2026-10-22T00:00:00Z",
+   "summary": "Here's the Discord Changelog from October 22, 2026, so you can stay informed on what’s new"
+  },
+  {
+   "id": "66e7f8c67e5c28e6",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "How to upgrade to SDK 58",
+   "url": "https://expo.dev/blog/how-to-upgrade-to-sdk-58",
+   "publishedAt": "2026-10-21T18:45:36Z",
+   "summary": "Upgrade your app from SDK 57 to SDK 58 with your coding agent and the expo-upgrade skill, "
+  },
+  {
+   "id": "3b925a615937d81a",
+   "blog": "Martin Fowler",
+   "category": "海外企業",
+   "title": "Fragments: October 21",
+   "url": "https://martinfowler.com/fragments/2026-10-21.html",
+   "publishedAt": "2026-10-21T16:51:00Z",
+   "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition"
+  },
+  {
+   "id": "6add71371eb3a1a7",
+   "blog": "GitHub Blog（Engineering）",
+   "category": "海外企業",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+   "publishedAt": "2026-10-21T16:00:00Z",
+   "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference q"
+  },
+  {
+   "id": "342cbc3009e86feb",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "数学の勉強のKnowledge Tracingと個人別ロードマップの検証",
+   "url": "https://engineering.dena.com/blog/2026/10/intern-sirus-knowledge-tracing/",
+   "publishedAt": "2026-10-21T15:00:00Z",
+   "summary": "はじめに こんにちは！ DeNAでAIスペシャリストのサマーインターンシップに参加していた北田果耶です！ DeNAのインターンシップには、機械学習を社会実装としてやってみたいという"
+  },
+  {
+   "id": "a583b8674a70ab45",
+   "blog": "Cloudflare Blog",
+   "category": "海外企業",
+   "title": "Introducing full transaction detection for Cloudflare WAF",
+   "url": "https://blog.cloudflare.com/full-transaction-waf/",
+   "publishedAt": "2026-10-21T14:10:42Z",
+   "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response."
+  },
+  {
+   "id": "4eda87767325e936",
+   "blog": "はてな開発者ブログ",
+   "category": "国内企業",
+   "title": "2028年度 新卒エンジニア採用をオープンしました！",
+   "url": "https://developer.hatenastaff.com/entry/2026/10/21/181327",
+   "publishedAt": "2026-10-21T09:13:27Z",
+   "summary": "はてなの2028年度の新卒採用をオープンしています。 2028年度の新卒採用では、以下の3職種で採用を行います。（27新卒も引き続き受け付けています） Webアプリケーションエンジ"
+  },
+  {
+   "id": "32f1878153562eb2",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "AI Writes, Reviews, and Tests My Code. My Job Now Is to Taste It",
+   "url": "https://tech.layerx.co.jp/entry/engineer-as-director-en",
+   "publishedAt": "2026-10-21T08:23:26Z",
+   "summary": "I've pretty much stopped reading the code AI writes for me. On a typical day, about 13 PRs"
+  },
+  {
+   "id": "0911032e2e4b181d",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "データベースとコードの長期的なリファクタリングを安全に進めるための取り組み —— 従業員データの複雑さを解きほぐす",
+   "url": "https://tech.smarthr.jp/entry/2026/10/21/123725",
+   "publishedAt": "2026-10-21T03:37:25Z",
+   "summary": "こんにちは、プロダクトエンジニアの山本（@kymmt90）です。SmartHRの人給基幹プロダクトの技術基盤部門に所属しています。 技術基盤部門において私が所属するユニットでは、S"
+  },
+  {
+   "id": "97446159074ebd88",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "CPOとDirectorが語る、これからのプロダクト組織 —「AIの登場で、デザイナーの重要性はむしろ高まっている」—",
+   "url": "https://tech.smarthr.jp/entry/2026/10/21/112027",
+   "publishedAt": "2026-10-21T02:20:27Z",
+   "summary": "こんにちは！ SmartHRで採用を担当している北林です。 2015年に提供を始めた「SmartHR」は、労務管理から勤怠、給与計算、タレントマネジメント、情シス、従業員ポータルへ"
+  },
+  {
+   "id": "13bd6c0a53f07394",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "How Shopify turns open models into task experts",
+   "url": "https://shopify.engineering/open-model-task-experts",
+   "publishedAt": "2026-10-21T02:12:40Z",
+   "summary": "Sidekick’s frontier model hands its most token-heavy work to open models that Shopify post"
+  },
+  {
+   "id": "1a810a8bf41305af",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "AI が書き、レビューし、QA する開発で、私は「監督」の役割を考え始めた",
+   "url": "https://tech.layerx.co.jp/entry/engineer-as-director",
+   "publishedAt": "2026-10-21T01:06:16Z",
+   "summary": "AI が書いたコードを、最近めっきり読まなくなった。 1 日に 13 本くらい PR（Pull Request）が出る昨今の私の開発プロセスでは、全部コードを読んでいたら人間の工程"
+  },
+  {
+   "id": "3fc4bdf0cc3efad1",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "The Distance Was Never the Problem",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/21/100000",
+   "publishedAt": "2026-10-21T01:00:00Z",
+   "summary": "An SGDC engineer's perspective on the Contract One dev camp We held our team retrospective"
+  },
+  {
+   "id": "7b465a7d320ad7b4",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "A more reliable way to add and edit contacts on Android",
+   "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
+   "publishedAt": "2026-10-21T00:00:00Z",
+   "summary": "Apps that target the upcoming Android release will no longer be able to directly write to "
+  },
+  {
+   "id": "797efedf27f7e616",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Xcode 27 replaced Simulator.app. Expo CLI and expo-device-hub already know.",
+   "url": "https://expo.dev/blog/xcode-27-device-hub-expo-device-hub",
+   "publishedAt": "2026-10-20T15:30:14Z",
+   "summary": "SDK 58 boots simulators through Xcode 27's Device Hub, and the new expo-device-hub plugin "
+  },
+  {
+   "id": "59da6a14b20705a1",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "没入型体験施設の写真から人を消す──サマーインターンで挑んだワンダリア横浜の技術検証",
+   "url": "https://engineering.dena.com/blog/2026/10/wonderia-kashikiri/",
+   "publishedAt": "2026-10-20T15:00:00Z",
+   "summary": "はじめに はじめまして。2026年度DeNA AIスペシャリストサマーインターンシップに4週間参加させていただいた木暮緋南です。 今回のインターンでは、同期のインターン生と2人ペア"
+  },
+  {
+   "id": "f202119a2b5c8867",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "Cross-store product clustering across millions of stores",
+   "url": "https://shopify.engineering/catalog-clustering-part-ii",
+   "publishedAt": "2026-10-20T13:48:59Z",
+   "summary": "How we group product listings across millions of stores using tiered matching models, grap"
+  },
+  {
+   "id": "535f62b46ca9175d",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "「AIの審査」で締めるチームビルディング —— ファシリテーターの負担ほぼゼロで、もうひと盛り上がり！",
+   "url": "https://tech.smarthr.jp/entry/2026/10/20/132917",
+   "publishedAt": "2026-10-20T04:29:17Z",
+   "summary": "こんにちは！ SmartHRの給与計算開発チームで、プロダクトエンジニア（以降、PdE）のチーフをしている@diescakeです！ 私たちのチームでは、チームビルディングの一環でち"
+  },
+  {
+   "id": "7d360f7e16131494",
+   "blog": "Cybozu Inside Out",
+   "category": "国内企業",
+   "title": "3Dプリンタ、ギャルネイル、eスポーツ。「業務の話禁止」の社内LT会で見えたサイボウズの文化",
+   "url": "https://blog.cybozu.io/entry/2026/10/20/113000",
+   "publishedAt": "2026-10-20T02:30:00Z",
+   "summary": "こんにちは！サイボウズの社内コネクトチームのhokatomo(@tomoko_and)です。このチームでは開発系の社内イベント担当しています。 最近、私は同僚と歩数対決をしているん"
+  },
+  {
+   "id": "b90aa62851e60d3f",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "ZOZOTOWNのSwift 6対応、頑張りすぎない「はじめの一歩」",
+   "url": "https://techblog.zozo.com/entry/zozotown-ios-swift6-first-step",
+   "publishedAt": "2026-10-20T02:00:00Z",
+   "summary": "はじめに こんにちは、プラットフォームエンジニアリング部ネイティブブロックのとしです。普段はZOZOTOWN iOSアプリの基盤開発を担当しています。今回は現在取り組んでいるZOZ"
+  },
+  {
+   "id": "d941c5f439075308",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "ECSタスク定義をTerraformで管理しやすくするTips",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/20/100000",
+   "publishedAt": "2026-10-20T01:00:00Z",
+   "summary": "こんにちは。名刺アプリ「Eight」でSREエンジニアをしている武井です。最近、子どもが2歳になりました。イヤイヤ期全開で、何をするにもイヤイヤするので毎日格闘です……。さて、今回"
+  },
+  {
+   "id": "b60b492e618819ce",
+   "blog": "Shopify Engineering",
+   "category": "海外企業",
+   "title": "Building Overexposed: understanding application exposure",
+   "url": "https://shopify.engineering/overexposed",
+   "publishedAt": "2026-10-19T21:54:14Z",
+   "summary": "Our first scanner read config files and missed what was running. We rebuilt it with the cl"
+  },
+  {
+   "id": "13066b3f35a44036",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Blocking Identity Resolution Infrastructure",
+   "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
+   "publishedAt": "2026-10-19T17:50:24Z",
+   "summary": "Apple and WebKit have shipped protections against web tracking for a long time."
+  },
+  {
+   "id": "514a78fd488df2a1",
+   "blog": "Pinterest Engineering",
+   "category": "海外企業",
+   "title": "Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering",
+   "url": "https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8",
+   "publishedAt": "2026-10-19T15:01:04Z",
+   "summary": "Lida Li, Sr. Staff Software Engineer, Product ML Infra Introduction Modern recommendation "
+  },
+  {
+   "id": "a1e2d6545bae8d39",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "カスケード型音声対話で宿泊予約の電話応対デモを作る 〜投機的実行で待ち時間を減らす〜",
+   "url": "https://engineering.dena.com/blog/2026/10/cascaded-voice-interaction-demo/",
+   "publishedAt": "2026-10-19T15:00:00Z",
+   "summary": "はじめに 本記事の内容 本記事では、サマーインターンシップにおいて開発した、カスケード型音声対話システムを用いた宿泊予約の電話応対デモを紹介します。 ユーザーが話し終わるのを待たず"
+  },
+  {
+   "id": "c459b2f9f1fee2f7",
+   "blog": "Expo Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Introducing expo-app-intents: Siri, Shortcuts, Spotlight, and Apple Intelligence for Expo apps",
+   "url": "https://expo.dev/blog/introducing-expo-app-intents",
+   "publishedAt": "2026-10-19T13:30:22Z",
+   "summary": "expo-app-intents brings Apple's App Intents to Expo apps, so people can use your app throu"
+  },
+  {
+   "id": "a28c6a252bc98652",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "【新卒エンジニア研修 Vol. 3】スコープ管理と設計方針の共有で支えたチーム開発",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/19/150000",
+   "publishedAt": "2026-10-19T06:00:00Z",
+   "summary": "はじめに 2025年10月にSansan株式会社へ新卒で入社し、現在は顧客マスターマネジメント「Sansan Data Intelligence」の開発に取り組んでいる河合です。 "
+  },
+  {
+   "id": "be25a7cccd76e9aa",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "ヘルプデスク管理を自前の仕組みからバクラクヘルプデスクに移行した話",
+   "url": "https://tech.layerx.co.jp/entry/helpdesk-migration",
+   "publishedAt": "2026-10-19T02:21:06Z",
+   "summary": "LayerX Fintech事業部から、三井物産デジタル・アセットマネジメント（以下、MDM）に出向している hi-se です。 私が所属しているMDMのコーポレートシステム部では"
+  },
+  {
+   "id": "02938175ade3e293",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "AttributedString構造で実現した大規模なiOS設定システム",
+   "url": "https://techblog.lycorp.co.jp/ja/20261019a",
+   "publishedAt": "2026-10-19T02:00:00Z",
+   "summary": "環境の変化に伴い、過去に下した合理的な判断がもはや有効でなくなることはよくあります。この記事では、LINEアプリの成長に伴い、動的設定配信システムである「サービス設定」のiOSクラ"
+  },
+  {
+   "id": "646c320bfd094c2e",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "スピード10倍の開発を支える、AI活用基盤の開発に参戦（インターンレポート）",
+   "url": "https://techblog.lycorp.co.jp/ja/20261019b",
+   "publishedAt": "2026-10-19T02:00:00Z",
+   "summary": "はじめにはじめまして、高知大学人文社会科学部人文社会科学科4年の坂下康信です。2026年8月3日から9月11日まで、LINEヤフー株式会社のLINEギフトのSRE業務を担当するチー"
+  },
+  {
+   "id": "41ca23e14db73e4b",
+   "blog": "M3 Tech Blog",
+   "category": "国内企業",
+   "title": "エムスリーはpmconf 2026の全会場でプラチナスポンサー＆登壇します！〜福岡・大阪・東京でお会いしましょう〜",
+   "url": "https://www.m3tech.blog/entry/pmconf2026-announcement",
+   "publishedAt": "2026-10-19T01:32:05Z",
+   "summary": "皆さんこんにちは、こんばんは。朝晩がすっかり冷え込んできて、そろそろキャンプの季節到来だとソワソワしている取締役CPO/CAIOの山崎です。 今更ながら新品購入してまだ火入れしてい"
+  },
+  {
+   "id": "321027b3bd8318e9",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "Every Test Case Needs a Test Level",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/19/103000",
+   "publishedAt": "2026-10-19T01:30:00Z",
+   "summary": "Hello. I am Ray Sabanpan. I work on QA for Contract One, the contract management AX soluti"
+  },
+  {
+   "id": "db41fdca219a1970",
+   "blog": "Stripe Engineering",
+   "category": "海外企業",
+   "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
+   "url": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+   "publishedAt": "2026-10-19T00:00:00Z",
+   "summary": "AI is creating more SaaS competition, and platforms are feeling the pressure. A Stripe sur"
+  },
+  {
+   "id": "f5768f8822b74100",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
+   "url": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
+   "publishedAt": "2026-10-19T00:00:00Z",
+   "summary": "Grab is Southeast Asia's leading superapp, offering deliveries, mobility, and financial se"
+  },
+  {
+   "id": "b888123679bf903a",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "英語リスニングプロダクト「キコエルート」におけるKnowledge Tracingの改善提案〜英語リスニングの技能に焦点を当てて〜",
+   "url": "https://engineering.dena.com/blog/2026/10/intern-ai-summer-roy-kt/",
+   "publishedAt": "2026-10-18T15:00:00Z",
+   "summary": "はじめに 2026年度のDeNA AIスペシャリストサマーインターンシップに参加した金原優太です。4週間のインターンでは、英語リスニングプロダクト「キコエルート」のKnowledg"
+  },
+  {
+   "id": "d65b87e5af2bc5cf",
+   "blog": "Netflix TechBlog",
+   "category": "海外企業",
+   "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+   "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+   "publishedAt": "2026-10-16T16:01:02Z",
+   "summary": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the"
+  },
+  {
+   "id": "390742a1dc3b161a",
+   "blog": "Spotify Engineering",
+   "category": "海外企業",
+   "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+   "url": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+   "publishedAt": "2026-10-16T14:29:18Z",
+   "summary": "At Spotify, every surface and interaction is personalized to you as a user: the content on"
+  },
+  {
+   "id": "c3326f9724f3f170",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」",
+   "url": "https://tech.smarthr.jp/entry/2026/10/16/164423",
+   "publishedAt": "2026-10-16T07:44:23Z",
+   "summary": "こんにちは！SmartHR 採用担当の南石（@nanseki_o）です。2026年7月にSmartHRに2回目の入社をしました。 本日は、出戻りしたら爆誕していた「CRE」というロ"
+  },
+  {
+   "id": "266f43073a44e28f",
+   "blog": "はてな開発者ブログ",
+   "category": "国内企業",
+   "title": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！",
+   "url": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+   "publishedAt": "2026-10-16T03:30:00Z",
+   "summary": "こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイ"
+  },
+  {
+   "id": "6e0ba66f811e6258",
+   "blog": "ZOZO TECH BLOG",
+   "category": "国内企業",
+   "title": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス",
+   "url": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+   "publishedAt": "2026-10-16T02:00:00Z",
+   "summary": "はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の"
+  }
+ ]
+}
