@@ -155,6 +155,9 @@ def fetch_one(feed, since):
                 if not found or found in tried:
                     break
                 urls.append(found)
+    result["parsed"] = len(items)
+    result["latest"] = max((i["publishedAt"] for i in items), default=None)
+    result["latest"] = result["latest"].strftime("%Y-%m-%dT%H:%M:%SZ") if result["latest"] else ""
     items = [i for i in items if i["publishedAt"] >= since]
     items.sort(key=lambda i: i["publishedAt"], reverse=True)
     items = items[: feed.get("maxItems", DEFAULT_MAX_ITEMS)]
