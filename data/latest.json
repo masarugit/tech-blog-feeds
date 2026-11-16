@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:15:27Z",
+ "generatedAt": "2026-11-16T01:04:45Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-15T16:06:40Z"
+   "latest": "2026-11-16T00:59:26Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -36,7 +36,7 @@
    "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
    "error": "",
    "parsed": 6,
-   "latest": "2026-11-13T00:15:26Z"
+   "latest": "2026-11-15T23:00:39Z"
   },
   {
    "name": "DeNA Engineering",
@@ -95,11 +95,11 @@
   {
    "name": "freee Developers Hub",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "feedUrl": "https://developers.freee.co.jp/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-05T01:00:00Z"
+   "latest": "2026-11-16T00:00:00Z"
   },
   {
    "name": "Sansan Builders Box",
@@ -140,11 +140,11 @@
   {
    "name": "LayerX エンジニアブログ",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "feedUrl": "https://tech.layerx.co.jp/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-13T02:41:23Z"
+   "latest": "2026-11-15T23:50:00Z"
   },
   {
    "name": "TVer Tech Blog",
@@ -372,6 +372,60 @@
  ],
  "items": [
   {
+   "id": "94414a901ce37445",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Twilio Verify を使って PHP 製既存システムへ SMS 2 段階認証を導入した",
+   "url": "https://dev.classmethod.jp/articles/twilio-verify-php-sms-two-factor-login/",
+   "publishedAt": "2026-11-16T00:59:26Z",
+   "summary": "PHP のセッション方式のログインに、Twilio Verify で SMS の 2 段階認証を追加しました。Twilio を呼ぶ処理はコードの送信と照合の 2 関数で済み、既存シ"
+  },
+  {
+   "id": "91f553b2a0ffd223",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[レポート]「田んぼから始まる挑戦 〜新米農家の1年目〜」「田んぼの見回りをIoTで減らしたい!水位監視から電池駆動カメラまでの試行錯誤」 #jawsfesta2026 #jawsug #jawsfesta #jawsfesta2026_a",
+   "url": "https://dev.classmethod.jp/articles/jawsfesta2026-a-rice-farming-and-paddy-iot/",
+   "publishedAt": "2026-11-16T00:47:03Z",
+   "summary": "JAWS FESTA 2026 in 秋田、ノベルティの米を田植えから作る。"
+  },
+  {
+   "id": "c6c0a3291969ba93",
+   "blog": "freee Developers Hub",
+   "category": "国内企業",
+   "title": "取引先を選ばない電子契約を。freeeサインのユーザビリティテスト実施レポート",
+   "url": "https://developers.freee.co.jp/entry/freee-sign-usability-test",
+   "publishedAt": "2026-11-16T00:00:00Z",
+   "summary": "概要 こんにちは、freeeでプロダクトデザイナーをしているrunrun（るんるん）です。今回は、2026年9月4日にfreee関西オフィスにて行った、freeeサインの実地ユーザ"
+  },
+  {
+   "id": "6f623f2b34f53578",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "CloudWatch アラームのミュートルールをホスト一覧から一括作成・削除するシェルスクリプトを作ってみた",
+   "url": "https://dev.classmethod.jp/articles/cloudwatch-mute-rule-2026-11-16/",
+   "publishedAt": "2026-11-15T23:54:56Z",
+   "summary": "おはようございます gio です。 1回限りのミュートルールを作成するシェルを作成しました。"
+  },
+  {
+   "id": "8dd97ded757426f4",
+   "blog": "LayerX エンジニアブログ",
+   "category": "国内企業",
+   "title": "内製 Coding Agent \"haro\" と社内 GPU で、探索的テスト AI Agent をぶん回している",
+   "url": "https://tech.layerx.co.jp/entry/haro-et-agent",
+   "publishedAt": "2026-11-15T23:50:00Z",
+   "summary": "探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。今回はその仕組みと、約"
+  },
+  {
+   "id": "ce63b21364bdd095",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "タップルのiPhone Duo発売日対応：限られた時間での判断と実装",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67216/",
+   "publishedAt": "2026-11-15T23:00:39Z",
+   "summary": "はじめに マッチングアプリ「タップル」のiOSアプリを開発している緒方 裕樹（@icoriha）です ..."
+  },
+  {
    "id": "a24058aeac2cdcd1",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
@@ -478,33 +532,6 @@
    "url": "https://dev.classmethod.jp/articles/aws-interconnect-last-mile-equinix-preview/",
    "publishedAt": "2026-11-15T09:59:28Z",
    "summary": "クラウド同士をつなぐ multicloud とは別に、Equinix のデータセンターにある自社インフラと AWS をつなぐ AWS Interconnect - last mil"
-  },
-  {
-   "id": "0cccbc075eb4e8e9",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Security Command Center Compliance Manager のカスタムクラウドコントロールを Terraform で作って検出してみた",
-   "url": "https://dev.classmethod.jp/articles/scc-compliance-manager-custom-cloud-control-terraform/",
-   "publishedAt": "2026-11-15T09:54:01Z",
-   "summary": ""
-  },
-  {
-   "id": "9b824e59a4e4d309",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "CognitoのOAuth 2.0トークン交換でMCP向けにスコープを絞る利用を試してみた",
-   "url": "https://dev.classmethod.jp/articles/cognito-oauth2-token-exchange-scoped-token/",
-   "publishedAt": "2026-11-15T09:15:05Z",
-   "summary": "Amazon Cognito の OAuth 2.0 トークン交換（GetDerivedToken）で、MCP サーバー向けにスコープを絞ったトークンを発行しました。API Gat"
-  },
-  {
-   "id": "0f16d84e0ed90e9b",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Systems Manager Cloud Connector で Google Cloud の VM を管理対象ノードに登録して Run Command を実行してみた",
-   "url": "https://dev.classmethod.jp/articles/ssm-cloud-connector-google-cloud-vm/",
-   "publishedAt": "2026-11-15T08:39:13Z",
-   "summary": "AWS Systems Manager の Cloud Connector が Google Cloud に対応したので、Compute Engine の VM を 1台登録しまし"
   },
   {
    "id": "39bd3d97bb885117",
@@ -1459,15 +1486,6 @@
    "url": "https://buildersbox.corp-sansan.com/entry/2026/11/06/110000",
    "publishedAt": "2026-11-06T02:00:00Z",
    "summary": "こんにちは、技術本部 Data Intelligence Engineering Unit Master Dataグループの井脇です。普段はデータ基盤まわりの開発・運用に携わってい"
-  },
-  {
-   "id": "52f61148f85799ec",
-   "blog": "CyberAgent Developers Blog",
-   "category": "国内企業",
-   "title": "Knowledge Catalog で AI エージェントに社内の知識を渡す基盤づくり – ミッション型インターン体験記",
-   "url": "https://developers.cyberagent.co.jp/blog/archives/67259/",
-   "publishedAt": "2026-11-06T01:00:25Z",
-   "summary": "はじめに こんにちは 🐈 東京工科大学 学部3年の広瀬 エイトル（@Heitor_Hirose）です ..."
   },
   {
    "id": "71c0c3d0d45e88a7",
