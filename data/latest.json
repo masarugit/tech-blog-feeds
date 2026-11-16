@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T01:04:45Z",
+ "generatedAt": "2026-11-16T21:55:56Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-16T00:59:26Z"
+   "latest": "2026-11-16T15:14:53Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -23,11 +23,11 @@
   {
    "name": "LINEヤフー Tech Blog",
    "ok": true,
-   "count": 14,
+   "count": 16,
    "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
    "error": "",
    "parsed": 50,
-   "latest": "2026-11-11T02:00:00Z"
+   "latest": "2026-11-16T02:00:00Z"
   },
   {
    "name": "CyberAgent Developers Blog",
@@ -36,7 +36,7 @@
    "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
    "error": "",
    "parsed": 6,
-   "latest": "2026-11-15T23:00:39Z"
+   "latest": "2026-11-13T00:15:26Z"
   },
   {
    "name": "DeNA Engineering",
@@ -59,11 +59,11 @@
   {
    "name": "SmartHR Tech Blog",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "feedUrl": "https://tech.smarthr.jp/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-13T03:13:54Z"
+   "latest": "2026-11-16T05:02:58Z"
   },
   {
    "name": "クックパッド開発者ブログ",
@@ -104,11 +104,11 @@
   {
    "name": "Sansan Builders Box",
    "ok": true,
-   "count": 20,
+   "count": 22,
    "feedUrl": "https://buildersbox.corp-sansan.com/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-12T01:00:00Z"
+   "latest": "2026-11-16T06:00:00Z"
   },
   {
    "name": "M3 Tech Blog",
@@ -237,11 +237,11 @@
   {
    "name": "Discord Engineering",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "feedUrl": "https://discord.com/blog/rss.xml",
    "error": "",
    "parsed": 100,
-   "latest": "2026-11-12T00:00:00Z"
+   "latest": "2026-11-16T00:00:00Z"
   },
   {
    "name": "Dropbox Tech",
@@ -264,11 +264,11 @@
   {
    "name": "Pinterest Engineering",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "feedUrl": "https://medium.com/feed/pinterest-engineering",
    "error": "",
    "parsed": 10,
-   "latest": "2026-11-12T16:01:06Z"
+   "latest": "2026-11-16T16:01:03Z"
   },
   {
    "name": "AWS Architecture Blog",
@@ -277,7 +277,7 @@
    "feedUrl": "https://aws.amazon.com/blogs/architecture/feed/",
    "error": "",
    "parsed": 20,
-   "latest": "2026-11-13T20:26:58Z"
+   "latest": "2026-11-16T20:03:26Z"
   },
   {
    "name": "Vercel Blog",
@@ -286,7 +286,7 @@
    "feedUrl": "https://vercel.com/atom",
    "error": "",
    "parsed": 100,
-   "latest": "2026-11-13T22:24:00Z"
+   "latest": "2026-11-16T17:00:00Z"
   },
   {
    "name": "Martin Fowler",
@@ -354,11 +354,11 @@
   {
    "name": "Android Developers Blog",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "feedUrl": "https://android-developers.googleblog.com/feeds/posts/default",
    "error": "",
    "parsed": 20,
-   "latest": "2026-11-11T00:00:00Z"
+   "latest": "2026-11-16T00:00:00Z"
   },
   {
    "name": "Swift.org Blog",
@@ -372,22 +372,229 @@
  ],
  "items": [
   {
-   "id": "94414a901ce37445",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Twilio Verify を使って PHP 製既存システムへ SMS 2 段階認証を導入した",
-   "url": "https://dev.classmethod.jp/articles/twilio-verify-php-sms-two-factor-login/",
-   "publishedAt": "2026-11-16T00:59:26Z",
-   "summary": "PHP のセッション方式のログインに、Twilio Verify で SMS の 2 段階認証を追加しました。Twilio を呼ぶ処理はコードの送信と照合の 2 関数で済み、既存シ"
+   "id": "6f4e6120c07c607d",
+   "blog": "AWS Architecture Blog",
+   "category": "海外企業",
+   "title": "Announcing updates to the AWS Well-Architected Framework",
+   "url": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3/",
+   "publishedAt": "2026-11-16T20:03:26Z",
+   "summary": "Updates to the AWS Well-Architected Framework reorganize it into Well-Architected Cloud Fo"
   },
   {
-   "id": "91f553b2a0ffd223",
+   "id": "f7be8856a3acc487",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Hy4 Flash now available on AI Gateway for 50% off",
+   "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+   "publishedAt": "2026-11-16T17:00:00Z",
+   "summary": "Hy4 Flash from Tencent is now available on AI Gateway with an introductory 50% discount on"
+  },
+  {
+   "id": "39886a1b752fd0a7",
+   "blog": "Pinterest Engineering",
+   "category": "海外企業",
+   "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
+   "url": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471",
+   "publishedAt": "2026-11-16T16:01:03Z",
+   "summary": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrast"
+  },
+  {
+   "id": "8c539601f49e4a0a",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "[レポート]「田んぼから始まる挑戦 〜新米農家の1年目〜」「田んぼの見回りをIoTで減らしたい!水位監視から電池駆動カメラまでの試行錯誤」 #jawsfesta2026 #jawsug #jawsfesta #jawsfesta2026_a",
-   "url": "https://dev.classmethod.jp/articles/jawsfesta2026-a-rice-farming-and-paddy-iot/",
-   "publishedAt": "2026-11-16T00:47:03Z",
-   "summary": "JAWS FESTA 2026 in 秋田、ノベルティの米を田植えから作る。"
+   "title": "[アップデート] Amazon Lightsail に「ウェブアドレス」というものが追加されました",
+   "url": "https://dev.classmethod.jp/articles/lightsail-web-address/",
+   "publishedAt": "2026-11-16T15:14:53Z",
+   "summary": "なんだ、ウェブアドレスって..."
+  },
+  {
+   "id": "ddc9953763f10170",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[Grafana] Ductus で、直近 7 日は DynamoDB、それより前は S3 + Athena から読んで、Grafana の 1 本の線にしてみました",
+   "url": "https://dev.classmethod.jp/articles/dynamodb-ductus-hot-cold-athena-grafana/",
+   "publishedAt": "2026-11-16T15:09:37Z",
+   "summary": "DynamoDB と S3 に分けたセンサーデータを、Grafana で 1 本の線として表示するため、Ductus のコールドストア機能を使用した例を紹介させていただきました。"
+  },
+  {
+   "id": "74b9400b349069b0",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Amazon S3 Tables のテーブルバケットで S3 サーバーアクセスログを有効にして記録される内容を確認してみた",
+   "url": "https://dev.classmethod.jp/articles/20261116-amazon-s3-tables-server-logs/",
+   "publishedAt": "2026-11-16T14:58:51Z",
+   "summary": "Amazon S3 Tables のテーブルバケットが S3 サーバーアクセスログに対応し、テーブル操作とデータの読み書きを追加料金なしで記録できるようになりました。AWS CLI"
+  },
+  {
+   "id": "66e140c658b06140",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Gemini 4のHydrogen、Argon、Carbonを整理して、APIで動かしてみた",
+   "url": "https://dev.classmethod.jp/articles/gemini-4-hydrogen-argon-carbon/",
+   "publishedAt": "2026-11-16T13:54:41Z",
+   "summary": "Googleから新しく公開されたGemini 4 Hydrogenを含む、Gemini 4系3つのモデルの位置づけ、料金、性能を整理し、実際にAPIで動かして時間と費用を比較してみ"
+  },
+  {
+   "id": "1741c4367792f854",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "クラスメソッドメンバーズで AWS Health の通知メールが重複したら User Notifications の信頼されたアクセスを無効にする",
+   "url": "https://dev.classmethod.jp/articles/members-health-duplicate-emails/",
+   "publishedAt": "2026-11-16T09:54:25Z",
+   "summary": "クラスメソッドメンバーズで User Notifications の組織設定を有効にすると、AWS Health の通知メールが技術通知先に重複して届くことがあります。重複排除が効"
+  },
+  {
+   "id": "e8f5c573739f42b8",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claudeのデスクトップアプリの『プロジェクト』機能を使ってSQLを学習してみた",
+   "url": "https://dev.classmethod.jp/articles/toganosh-claude-sql/",
+   "publishedAt": "2026-11-16T09:31:25Z",
+   "summary": "Claudeのプロジェクト機能を使って、SQLの家庭教師を頼んでみました。営業として必要なデータベース知識を、1日10分の隙間時間で学習した過程と、記述問題で見つかった理解のずれに"
+  },
+  {
+   "id": "e238ed9dfcfe2d04",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "EventBridge Schedulerが失敗したとき、どのエラーなら再試行されるのか？Lambda例外・権限なし・スロットリングで確かめてみた",
+   "url": "https://dev.classmethod.jp/articles/202611-mitsuguchi-eventbridge-scheduler-lambda-sqs-kensho/",
+   "publishedAt": "2026-11-16T09:23:05Z",
+   "summary": "EventBridge Schedulerが失敗したとき、本当に再試行されるのか。Lambda例外・権限エラー・スロットリング・フレキシブルタイムウィンドウなど、複数のケースを実際"
+  },
+  {
+   "id": "094af990d42ed6d7",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Zensical のバージョンアップで確認することを整理して実際にベータ版 0.1.0 にアップグレードし 追加機能も取り入れてみた",
+   "url": "https://dev.classmethod.jp/articles/zensical-upgrade-checkpoints/",
+   "publishedAt": "2026-11-16T08:54:55Z",
+   "summary": "Zensical のベータ版リリースを機に、Zensical のバージョン更新手順と検証方法を整理しました。リグレッションテスト、影響調査、新機能の活用までを体系化した運用改善の工"
+  },
+  {
+   "id": "c43d76962d1d9be1",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Amazon Cognito のユーザープールで動的クライアント登録（DCR）が使えるようになりました",
+   "url": "https://dev.classmethod.jp/articles/cognito-dcr/",
+   "publishedAt": "2026-11-16T08:26:42Z",
+   "summary": "EFC7591のDCRが使えるようになった"
+  },
+  {
+   "id": "052df6a7e92474c1",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "AI Gateway now supports Private Inference",
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+   "publishedAt": "2026-11-16T07:47:00Z",
+   "summary": "Private Inference connects your own model endpoints to AI Gateway.Enterprises running fine"
+  },
+  {
+   "id": "a34341b24ff7cd07",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Security Hub CSPM のアーカイブ済み検出結果の保持期間が30日から14日に短縮されるので調べてみた",
+   "url": "https://dev.classmethod.jp/articles/securityhub-archived-findings-14days/",
+   "publishedAt": "2026-11-16T07:21:42Z",
+   "summary": "Security Hub CSPM のアーカイブ済み検出結果保持期間が、2026/12/15以降 30日 → 14日に短縮されるので、公式情報をもとに、変更の中身と影響を受けるケー"
+  },
+  {
+   "id": "e859a15a341ca9fe",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AWS DevOps Agent は同じ事故が2回起きたら作業ミスを記憶してくれた",
+   "url": "https://dev.classmethod.jp/articles/devops-agent-memory-needs-two-incidents/",
+   "publishedAt": "2026-11-16T06:09:04Z",
+   "summary": "AWS DevOps Agent のメモリ機能について、作業ミスによる事故を2回起こして、記憶がどのように作られるかを検証しました。その結果と、再発防止の観点から見えてきた課題をお"
+  },
+  {
+   "id": "5d51dc5cfd8431a2",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "FlutterKaigi 2026で「AIにも人間にも優しいFlutterアプリ設計」について登壇しました",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/16/150000",
+   "publishedAt": "2026-11-16T06:00:00Z",
+   "summary": "こんにちは。技術本部Bill One EXプロダクト開発部Mobile Applicationグループの山下です。 会場に足を運んでくださった方、本当にありがとうございました。 登"
+  },
+  {
+   "id": "955cb76e3af0699f",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "1人PMでも悩まない！SmartHRのサービス開発——入社半年で感じた、PMを支える3つの仕組み",
+   "url": "https://tech.smarthr.jp/entry/2026/11/16/140258",
+   "publishedAt": "2026-11-16T05:02:58Z",
+   "summary": "この記事は「従業員ポータル領域のPM全員でブログを書く企画」への参加記事です。合計7名のPMが持ち回りで毎週記事を投稿していきます。ぜひご覧ください。 過去の記事 「問いDB」を起"
+  },
+  {
+   "id": "92e793b2d7d41695",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Agents are users, so your software needs evals",
+   "url": "https://vercel.com/blog/agent-evals",
+   "publishedAt": "2026-11-16T05:00:00Z",
+   "summary": "Agents are now users of software, doing work on people's behalf. Whether you're building t"
+  },
+  {
+   "id": "66bf904427c77726",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AWS DevOps Agent に作業ミスが原因の障害を調べさせたら、「なぜ間違えたか」まで仮説を出してくれた",
+   "url": "https://dev.classmethod.jp/articles/devops-agent-human-error-root-cause-hypothesis/",
+   "publishedAt": "2026-11-16T04:40:24Z",
+   "summary": "AWS DevOps Agent に、作業ミスが原因の二次障害を調べさせてみました。ファイル名の紛らわしさまで指摘し、「なぜ間違えたか」の仮説と、仕組みの改善提案まで出してくれた結"
+  },
+  {
+   "id": "8083ae0c048117a0",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AWSインシデント対応の段階的隔離戦略を考えてみた",
+   "url": "https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/",
+   "publishedAt": "2026-11-16T03:49:23Z",
+   "summary": "インシデント対応で「全停止ボタン」に頼るのではなく、隔離レベル（L0〜L3）を事業影響とセットで設計し、AWS公式のContain Runbookを使った可逆隔離をドリルしてみまし"
+  },
+  {
+   "id": "7f5357a46db70e59",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] AWS Security Hub CSPM の中央設定を AWS Organizations の宣言型ポリシーへ移行してみた",
+   "url": "https://dev.classmethod.jp/articles/security-hub-cspm-org-policies-migration/",
+   "publishedAt": "2026-11-16T03:00:24Z",
+   "summary": "AWS Security Hub CSPM の組織全体の設定を中央設定ポリシーから、AWS Organizations の宣言型ポリシーで管理できるようになりました。"
+  },
+  {
+   "id": "e6369657e90c7d65",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "第59回情報科学若手の会にスポンサーとして参加・発表しました",
+   "url": "https://techblog.lycorp.co.jp/ja/20261116c",
+   "publishedAt": "2026-11-16T02:00:00Z",
+   "summary": "こんにちは。LINEヤフー株式会社でインフラエンジニアをしている、入社1年目の森俊介です。プライベートクラウド基盤「Flava」で、社内開発者向けのサーバーレスプロダクトを開発・運"
+  },
+  {
+   "id": "8c310e3c53d3ea57",
+   "blog": "LINEヤフー Tech Blog",
+   "category": "国内企業",
+   "title": "手元からクラウドへ：LINEクライアントチームがエージェント基盤でAIワークフローを広げるまで",
+   "url": "https://techblog.lycorp.co.jp/ja/20261116b",
+   "publishedAt": "2026-11-16T02:00:00Z",
+   "summary": "こんにちは。LINEアプリ開発SBU AIディベロッパーエクスペリエンスチームの onevcat（王 巍）です。この 1 年で、エンジニアが自分のマシンでコーディングエージェントを"
+  },
+  {
+   "id": "bb9b66b637c29f45",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "培った技術を、仕組みと人に残す。 Sansanで挑むセキュリティのこれから",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/16/110000",
+   "publishedAt": "2026-11-16T02:00:00Z",
+   "summary": "キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。「Sansan 3 Stories」では、これまでの歩みと"
+  },
+  {
+   "id": "29282041d90d7879",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "非構造化テキストのチャンク化・ベクトル検索を行えるdbtパッケージ「dbt_context_engineering」を試してみた",
+   "url": "https://dev.classmethod.jp/articles/dbt-context-engineering-package-try/",
+   "publishedAt": "2026-11-16T01:56:48Z",
+   "summary": "dbt Labsから公開されたOSSパッケージ「dbt_context_engineering」を使い、日本語の注文フィードバックをチャンク化・ベクトル化して検索し、分類ラベルで対"
   },
   {
    "id": "c6c0a3291969ba93",
@@ -399,13 +606,40 @@
    "summary": "概要 こんにちは、freeeでプロダクトデザイナーをしているrunrun（るんるん）です。今回は、2026年9月4日にfreee関西オフィスにて行った、freeeサインの実地ユーザ"
   },
   {
-   "id": "6f623f2b34f53578",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "CloudWatch アラームのミュートルールをホスト一覧から一括作成・削除するシェルスクリプトを作ってみた",
-   "url": "https://dev.classmethod.jp/articles/cloudwatch-mute-rule-2026-11-16/",
-   "publishedAt": "2026-11-15T23:54:56Z",
-   "summary": "おはようございます gio です。 1回限りのミュートルールを作成するシェルを作成しました。"
+   "id": "7c6a2ca7f9498eec",
+   "blog": "Discord Engineering",
+   "category": "海外企業",
+   "title": "Give Discord a Vice City Makeover",
+   "url": "https://discord.com/blog/vice-city-theme-available-in-discord",
+   "publishedAt": "2026-11-16T00:00:00Z",
+   "summary": "We’ve got a limited-time custom theme, app icon, and Display Name Style to celebrate the l"
+  },
+  {
+   "id": "2b8617d37fa6a951",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Seedance 2.5 Flash now available on AI Gateway",
+   "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-16T00:00:00Z",
+   "summary": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway.Seedance 2.5 Flash is a fast"
+  },
+  {
+   "id": "6d40adfac7fba175",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Set budgets for projects and products in Spend Management",
+   "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+   "publishedAt": "2026-11-16T00:00:00Z",
+   "summary": "Spend Management now supports budgets for individual projects and products, alongside exis"
+  },
+  {
+   "id": "4f7ea9b3db1da5a3",
+   "blog": "Android Developers Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
+   "url": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
+   "publishedAt": "2026-11-16T00:00:00Z",
+   "summary": "Discover how Google Play’s channel expansion tools in Play Console expand buyer reach acro"
   },
   {
    "id": "8dd97ded757426f4",
@@ -417,121 +651,13 @@
    "summary": "探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。今回はその仕組みと、約"
   },
   {
-   "id": "ce63b21364bdd095",
-   "blog": "CyberAgent Developers Blog",
-   "category": "国内企業",
-   "title": "タップルのiPhone Duo発売日対応：限られた時間での判断と実装",
-   "url": "https://developers.cyberagent.co.jp/blog/archives/67216/",
-   "publishedAt": "2026-11-15T23:00:39Z",
-   "summary": "はじめに マッチングアプリ「タップル」のiOSアプリを開発している緒方 裕樹（@icoriha）です ..."
-  },
-  {
-   "id": "a24058aeac2cdcd1",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Backup の LAG vault で EBS Snapshots Archive を有効にしたバックアッププランを作ってみた",
-   "url": "https://dev.classmethod.jp/articles/aws-backup-lag-vault-ebs-archive/",
-   "publishedAt": "2026-11-15T16:06:40Z",
-   "summary": "LAG vault 内の EBS バックアップをアーカイブへ移すためのプラン作成を試しました。プランの条件は、頻度が月に 1 回以下で、総保持期間が warm の期間より 90 日"
-  },
-  {
-   "id": "30f41c0094a04671",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "VPC や EC2 の関連リソース表示がアップデートされたので確かめてみた",
-   "url": "https://dev.classmethod.jp/articles/ec2-vpc-related-resources-all-types/",
-   "publishedAt": "2026-11-15T15:31:45Z",
-   "summary": "Amazon EC2 と Amazon VPC のコンソールで、関連リソースを表示できるリソースタイプが広がりました。試したところ、Elastic IP では NAT ゲートウェイ"
-  },
-  {
-   "id": "a06c29d6833a3e5f",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "EC2 の ImdsV1Enabled メトリクスで IMDSv2 を必須にしていないインスタンスを特定してみた",
-   "url": "https://dev.classmethod.jp/articles/ec2-imdsv1enabled-metric/",
-   "publishedAt": "2026-11-15T15:12:18Z",
-   "summary": "Amazon EC2 の CloudWatch メトリクス ImdsV1Enabled で、IMDSv2 を必須にしていないインスタンスを特定できるか試しました。get-metri"
-  },
-  {
-   "id": "58e12855366f5082",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon DynamoDB の bulk put items で S3 のデータを既存テーブルへ登録してみた",
-   "url": "https://dev.classmethod.jp/articles/amazon-dynamodb-bulk-put-items/",
-   "publishedAt": "2026-11-15T14:44:45Z",
-   "summary": "Amazon DynamoDB の bulk put items で、S3 の 10 KB のアイテムを100件から10万件まで東京リージョンの既存テーブルへ登録しました。全件が入"
-  },
-  {
-   "id": "401e334c3a8a5b6c",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[新機能] Snowflake の Temporary role grants がプレビューとなったので、ロールを期限付きでユーザーに付与し 4 つのユースケースで失効時の挙動を確認してみた",
-   "url": "https://dev.classmethod.jp/articles/snowflake-temporary-role-grants-preview/",
-   "publishedAt": "2026-11-15T14:35:41Z",
-   "summary": "Snowflakeで期限付きロール付与が可能になった「Temporary role grants」を試してみました。オンコール対応、PII一時閲覧、期間限定メンバー、管理者権限の4"
-  },
-  {
-   "id": "412e9b504d00424f",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Secrets Managerがクロスアカウントレプリケーションをサポートしたので試してみた",
-   "url": "https://dev.classmethod.jp/articles/secrets-manager-cross-account-replication/",
-   "publishedAt": "2026-11-15T14:15:25Z",
-   "summary": "AWS Secrets Manager のクロスアカウントレプリケーションを2つのアカウントで試しました。レプリカ側に KMS キーを用意して関連付けると、プライマリの更新が1秒ほ"
-  },
-  {
-   "id": "70358957e0ac3f71",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "iPhone Duoの縦型バーをアプリ側でどこまで制御できるか",
-   "url": "https://dev.classmethod.jp/articles/ios27-1-iphone-duo-vertical-bar/",
-   "publishedAt": "2026-11-15T12:55:41Z",
-   "summary": "iOS 27.1で追加されたiPhone Duo向けAPIの中から、画面の端に縦に並ぶ「縦型バー」を調整する4つのAPIを深掘りします。シミュレーターで検証した、各APIでできるこ"
-  },
-  {
-   "id": "3268aaa9a13d3618",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "EC2 の OpenTelemetry Collector から API キー（ベアラートークン）で Amazon CloudWatch にトレースを送ってみた",
-   "url": "https://dev.classmethod.jp/articles/cloudwatch-otlp-traces-api-key/",
-   "publishedAt": "2026-11-15T11:13:01Z",
-   "summary": "X-Ray の OTLP トレースエンドポイントで、IAM ユーザーから作成した API キーによる認証が使えるようになりました。東京リージョンで実際にトレースを送り、Logs I"
-  },
-  {
-   "id": "3aff8df2f8f6315a",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Aurora PostgreSQL のエクスプレス構成を CloudFormation で試してみた",
-   "url": "https://dev.classmethod.jp/articles/aurora-postgresql-express-cloudformation/",
-   "publishedAt": "2026-11-15T10:45:12Z",
-   "summary": "Aurora PostgreSQL のエクスプレス構成を AWS CloudFormation で作成し、スタックのリソースに含まれない writer インスタンスを AWS::R"
-  },
-  {
-   "id": "b0de1a05feb5c0a4",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon FSx for Lustre のインテリジェント階層化ストレージクラスの最小料金が 4 分の 1 に下がりました",
-   "url": "https://dev.classmethod.jp/articles/amazon-fsx-lustre-intelligent-tiering-lower-entry-cost/",
-   "publishedAt": "2026-11-15T10:41:06Z",
-   "summary": "Amazon FSx for Lustre の Intelligent-Tiering が、月額およそ 760 USD から始められるようになりました。"
-  },
-  {
-   "id": "2a0e2cb35aaee8d9",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] Aurora PostgreSQL のエクスプレス構成を CloudFormation で作成できるようになりました",
-   "url": "https://dev.classmethod.jp/articles/aurora-postgresql-express-configuration-cfn/",
-   "publishedAt": "2026-11-15T10:14:33Z",
-   "summary": "検証用 CloudFormation とかに組み込むと良さそうです"
-  },
-  {
-   "id": "aa4e6bd8fb0965b6",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Interconnect - last mile が Equinix でプレビュー対応したので AWS CLI で確認してみた",
-   "url": "https://dev.classmethod.jp/articles/aws-interconnect-last-mile-equinix-preview/",
-   "publishedAt": "2026-11-15T09:59:28Z",
-   "summary": "クラウド同士をつなぐ multicloud とは別に、Equinix のデータセンターにある自社インフラと AWS をつなぐ AWS Interconnect - last mil"
+   "id": "2a3549b2d51d3e3c",
+   "blog": "Vercel Blog",
+   "category": "海外企業",
+   "title": "Qwen4-Max now available on AI Gateway",
+   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+   "publishedAt": "2026-11-15T20:00:00Z",
+   "summary": "Alibaba’s Qwen4-Max is now available on AI Gateway. It’s a reasoning model for coding and "
   },
   {
    "id": "39bd3d97bb885117",
@@ -1371,42 +1497,6 @@
    "summary": "Muse Ember from Meta is now available on AI Gateway. It is a lightweight reasoning model f"
   },
   {
-   "id": "3c8a9487259fa928",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
-   "publishedAt": "2026-11-07T00:00:00Z",
-   "summary": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This "
-  },
-  {
-   "id": "53efb92988ff0250",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "Chat SDK agents can now stream generative UI with json-render",
-   "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-   "publishedAt": "2026-11-06T21:00:00Z",
-   "summary": "You can now stream generative UI from your Chat SDK agent with json-render.With a typed ca"
-  },
-  {
-   "id": "d6ee2ac6f1e19e0e",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "AI Gateway adds DeepSeek Search and Fetch tools",
-   "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
-   "publishedAt": "2026-11-06T21:00:00Z",
-   "summary": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway. Search finds rele"
-  },
-  {
-   "id": "baedd7f1388947c7",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "Vercel CLI can now set new projects to expire",
-   "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
-   "publishedAt": "2026-11-06T18:00:00Z",
-   "summary": "You can now set a new project to expire when you deploy it with Vercel CLI. Expired projec"
-  },
-  {
    "id": "95594d354fca3e52",
    "blog": "Expo Blog",
    "category": "公式・プラットフォーム",
@@ -1414,15 +1504,6 @@
    "url": "https://expo.dev/blog/expo-modules-2-0-new-jni-layer",
    "publishedAt": "2026-11-06T17:45:28Z",
    "summary": "Kolibri is the JNI library under Expo Modules 2.0 on Android. Calls into C++ objects are u"
-  },
-  {
-   "id": "2dce65e53473f0c6",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "Vercel Tracing is now generally available",
-   "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-   "publishedAt": "2026-11-06T17:00:00Z",
-   "summary": "Vercel Tracing is now generally available on all plans. You can now search and inspect tra"
   },
   {
    "id": "8b95fe2b1ba7ae95",
@@ -1455,7 +1536,7 @@
    "id": "ac550fe1680759e7",
    "blog": "はてな開発者ブログ",
    "category": "国内企業",
-   "title": "はてな東京オフィスでGo言語の勉強会「hatena.go #3」を開催します",
+   "title": "はてな東京オフィスでGo言語の勉強会「hatena.go #3」を2026年11月26日に開催します",
    "url": "https://developer.hatenastaff.com/entry/2026/11/06/174023",
    "publishedAt": "2026-11-06T08:40:23Z",
    "summary": "Webアプリケーションエンジニアの id:lufiabb です。 このたび 2026年11月26日（木）に、はてな東京オフィスにて hatena.go #3というGoの勉強会を開催"
@@ -1488,6 +1569,15 @@
    "summary": "こんにちは、技術本部 Data Intelligence Engineering Unit Master Dataグループの井脇です。普段はデータ基盤まわりの開発・運用に携わってい"
   },
   {
+   "id": "52f61148f85799ec",
+   "blog": "CyberAgent Developers Blog",
+   "category": "国内企業",
+   "title": "Knowledge Catalog で AI エージェントに社内の知識を渡す基盤づくり – ミッション型インターン体験記",
+   "url": "https://developers.cyberagent.co.jp/blog/archives/67259/",
+   "publishedAt": "2026-11-06T01:00:25Z",
+   "summary": "はじめに こんにちは 🐈 東京工科大学 学部3年の広瀬 エイトル（@Heitor_Hirose）です ..."
+  },
+  {
    "id": "71c0c3d0d45e88a7",
    "blog": "Sansan Builders Box",
    "category": "国内企業",
@@ -1495,15 +1585,6 @@
    "url": "https://buildersbox.corp-sansan.com/entry/2026/11/06/100000",
    "publishedAt": "2026-11-06T01:00:00Z",
    "summary": "Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了し"
-  },
-  {
-   "id": "65a22f24ff9f841e",
-   "blog": "Vercel Blog",
-   "category": "海外企業",
-   "title": "Token Pass credit now applies automatically across AI Gateway",
-   "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
-   "publishedAt": "2026-11-06T01:00:00Z",
-   "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway, wh"
   },
   {
    "id": "f933a6bdd73ca94d",
@@ -2188,15 +2269,6 @@
    "url": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
    "publishedAt": "2026-10-27T17:23:23Z",
    "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into comp"
-  },
-  {
-   "id": "d22ea2706be2eb13",
-   "blog": "AWS Architecture Blog",
-   "category": "海外企業",
-   "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
-   "url": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
-   "publishedAt": "2026-10-27T17:14:32Z",
-   "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training mac"
   },
   {
    "id": "3674c5fc63ecbbf2",
