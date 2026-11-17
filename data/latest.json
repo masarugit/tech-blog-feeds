@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:55:56Z",
+ "generatedAt": "2026-11-17T03:56:40Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-16T15:14:53Z"
+   "latest": "2026-11-17T03:40:12Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -41,11 +41,11 @@
   {
    "name": "DeNA Engineering",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "feedUrl": "https://engineering.dena.com/blog/index.xml",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-04T15:00:00Z"
+   "latest": "2026-11-16T15:00:00Z"
   },
   {
    "name": "Cybozu Inside Out",
@@ -59,11 +59,11 @@
   {
    "name": "SmartHR Tech Blog",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "feedUrl": "https://tech.smarthr.jp/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-16T05:02:58Z"
+   "latest": "2026-11-17T02:49:39Z"
   },
   {
    "name": "クックパッド開発者ブログ",
@@ -104,11 +104,11 @@
   {
    "name": "Sansan Builders Box",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "feedUrl": "https://buildersbox.corp-sansan.com/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-16T06:00:00Z"
+   "latest": "2026-11-17T02:00:00Z"
   },
   {
    "name": "M3 Tech Blog",
@@ -318,11 +318,11 @@
   {
    "name": "WebKit Blog",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "feedUrl": "https://webkit.org/feed/",
    "error": "",
    "parsed": 10,
-   "latest": "2026-11-13T21:00:25Z"
+   "latest": "2026-11-16T23:45:44Z"
   },
   {
    "name": "Mozilla Hacks",
@@ -372,6 +372,114 @@
  ],
  "items": [
   {
+   "id": "298e852fac3f6670",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[レポート]Antigent: An Autonomous Counter-Agent Against Agentic AI Attacker - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+   "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track3-1200/",
+   "publishedAt": "2026-11-17T03:40:12Z",
+   "summary": "CODE BLUE 2026で行われた「Antigent: An Autonomous Counter-Agent Against Agentic AI Attacker」というセ"
+  },
+  {
+   "id": "2219c1b361f78108",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "国制限で「日本だけ許可」にしたら、検索と死活監視まで止まった話 ― AWS WAF の国別ルールに例外 IP を足す",
+   "url": "https://dev.classmethod.jp/articles/aws-waf-geo-block-exclude-crawlers-healthchecks/",
+   "publishedAt": "2026-11-17T03:37:10Z",
+   "summary": "AWS WAF で国別ルールを設定すると、検索エンジンのクローラーや Route 53 のヘルスチェッカーまで止まってしまう問題に直面しました。この記事では、必要な海外 IP だけ"
+  },
+  {
+   "id": "4aaf29612fdcf311",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Code v2.1.326 の主要アップデート - auto mode の allow ルールとサンドボックスの書き込み先の変更",
+   "url": "https://dev.classmethod.jp/articles/20261117-cc-updates-v2-1-326/",
+   "publishedAt": "2026-11-17T03:11:34Z",
+   "summary": "Claude Code v2.1.326 の主要アップデートを解説します。auto mode の allow ルールやサンドボックスの書き込み先など、動作が変わる変更を befor"
+  },
+  {
+   "id": "79a0b81903649c55",
+   "blog": "SmartHR Tech Blog",
+   "category": "国内企業",
+   "title": "SmartHRはRubyWorld Conference 2026に協賛し、1名が登壇します！",
+   "url": "https://tech.smarthr.jp/entry/2026/11/17/114939",
+   "publishedAt": "2026-11-17T02:49:39Z",
+   "summary": "こんにちは！ SmartHRのDevRel（Developer Relations）のnattyです。 SmartHRは、2026年12月3日（木）、4日（金）に島根県松江市のくに"
+  },
+  {
+   "id": "8daf7bf56aca379c",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "DevelopersIO 2026 仙台で「生成 AI 導入状況 ～企業活用の実態と課題～」について登壇しました",
+   "url": "https://dev.classmethod.jp/articles/devio-sendai-takahashi/",
+   "publishedAt": "2026-11-17T02:16:20Z",
+   "summary": "DevelopersIO 2026仙台での登壇内容をもとに、生成AIエージェント導入の実践的なポイントをお伝えします。業務のどこをAIに任せるか、何を達成とするか、そしてそのプロセ"
+  },
+  {
+   "id": "fbfc693b74b43875",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[レポート][三井物産セキュアディレクション株式会社]AIエージェントの脅威動向と境界防御（Secure AI Gateway）による多層防御 - CODE BLUE 2026 #codeblue_jp #codeblue_2026",
+   "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track2-1000/",
+   "publishedAt": "2026-11-17T02:00:34Z",
+   "summary": "CODE BLUE 2026で行われた「[三井物産セキュアディレクション株式会社]AIエージェントの脅威動向と境界防御（Secure AI Gateway）による多層防御」というセ"
+  },
+  {
+   "id": "ec49f37c744087bf",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "YAPC::Tokyo 2026にGold Sponsorとして協賛します！",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/17/110000",
+   "publishedAt": "2026-11-17T02:00:00Z",
+   "summary": "Sansan株式会社は、「YAPC::Tokyo 2026」にGold Sponsorとして協賛します！ 本記事では、YAPC::Tokyo 2026への協賛の背景と、Sansan"
+  },
+  {
+   "id": "f685af7af2494576",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "【Security Hub修復手順】[NetworkFirewall.2] Network Firewall ログ記録を有効にする必要があります",
+   "url": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-networkfirewall-2/",
+   "publishedAt": "2026-11-17T01:58:52Z",
+   "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。"
+  },
+  {
+   "id": "bfaea24d2d5d6dd9",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[レポート]［Pwn2Own Berlin 2026にて20,000ドル獲得］Agent2Shell：あなたのAIコーディングエージェントは、すでに攻撃者のコードを実行している - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+   "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track1-1010/",
+   "publishedAt": "2026-11-17T01:51:03Z",
+   "summary": "CODE BLUE 2026で行われた「［Pwn2Own Berlin 2026にて20,000ドル獲得］Agent2Shell：あなたのAIコーディングエージェントは、すでに攻撃"
+  },
+  {
+   "id": "0e17a961e2755802",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "ログイン機能があるツールを作るときは必要な個人情報だけを取得・保管するようにしている話",
+   "url": "https://dev.classmethod.jp/articles/login-tools-minimal-personal-data/",
+   "publishedAt": "2026-11-17T01:17:08Z",
+   "summary": "侵害は対策を重ねても完全には防げません。侵害を防ぐ対策に加えて、侵害されたときの被害を最小化する「ダメージコントロール」の考え方でツールを作っています。データを保管することは、その"
+  },
+  {
+   "id": "e5d1f421ccb520fb",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[レポート]基調講演：フロンティアAI時代のサイバーセキュリティと能力構築 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+   "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track1-0900/",
+   "publishedAt": "2026-11-17T00:52:42Z",
+   "summary": "CODE BLUE 2026で行われた「基調講演：フロンティアAI時代のサイバーセキュリティと能力構築」というセッションのレポートです。"
+  },
+  {
+   "id": "8b9992ccbab867cc",
+   "blog": "WebKit Blog",
+   "category": "公式・プラットフォーム",
+   "title": "Introducing spatial CSS: A developer preview",
+   "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/",
+   "publishedAt": "2026-11-16T23:45:44Z",
+   "summary": "Safari on visionOS 27.3 comes with an important update: a limited feature preview of the p"
+  },
+  {
    "id": "6f4e6120c07c607d",
    "blog": "AWS Architecture Blog",
    "category": "海外企業",
@@ -417,6 +525,15 @@
    "summary": "DynamoDB と S3 に分けたセンサーデータを、Grafana で 1 本の線として表示するため、Ductus のコールドストア機能を使用した例を紹介させていただきました。"
   },
   {
+   "id": "d2a03d421f9a97b0",
+   "blog": "DeNA Engineering",
+   "category": "国内企業",
+   "title": "Interspeech 2026でDeNAの音声開発者が見た音声技術の最前線",
+   "url": "https://engineering.dena.com/blog/2026/11/interspeech-2026/",
+   "publishedAt": "2026-11-16T15:00:00Z",
+   "summary": "はじめに 会場に掲げられたInterspeech 2026の看板の前で シドニーのオペラハウス こんにちは、IT本部AI・データ戦略統括部データサイエンス技術開発部MLイノベーショ"
+  },
+  {
    "id": "74b9400b349069b0",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
@@ -453,33 +570,6 @@
    "summary": "Claudeのプロジェクト機能を使って、SQLの家庭教師を頼んでみました。営業として必要なデータベース知識を、1日10分の隙間時間で学習した過程と、記述問題で見つかった理解のずれに"
   },
   {
-   "id": "e238ed9dfcfe2d04",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "EventBridge Schedulerが失敗したとき、どのエラーなら再試行されるのか？Lambda例外・権限なし・スロットリングで確かめてみた",
-   "url": "https://dev.classmethod.jp/articles/202611-mitsuguchi-eventbridge-scheduler-lambda-sqs-kensho/",
-   "publishedAt": "2026-11-16T09:23:05Z",
-   "summary": "EventBridge Schedulerが失敗したとき、本当に再試行されるのか。Lambda例外・権限エラー・スロットリング・フレキシブルタイムウィンドウなど、複数のケースを実際"
-  },
-  {
-   "id": "094af990d42ed6d7",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Zensical のバージョンアップで確認することを整理して実際にベータ版 0.1.0 にアップグレードし 追加機能も取り入れてみた",
-   "url": "https://dev.classmethod.jp/articles/zensical-upgrade-checkpoints/",
-   "publishedAt": "2026-11-16T08:54:55Z",
-   "summary": "Zensical のベータ版リリースを機に、Zensical のバージョン更新手順と検証方法を整理しました。リグレッションテスト、影響調査、新機能の活用までを体系化した運用改善の工"
-  },
-  {
-   "id": "c43d76962d1d9be1",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] Amazon Cognito のユーザープールで動的クライアント登録（DCR）が使えるようになりました",
-   "url": "https://dev.classmethod.jp/articles/cognito-dcr/",
-   "publishedAt": "2026-11-16T08:26:42Z",
-   "summary": "EFC7591のDCRが使えるようになった"
-  },
-  {
    "id": "052df6a7e92474c1",
    "blog": "Vercel Blog",
    "category": "海外企業",
@@ -487,24 +577,6 @@
    "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
    "publishedAt": "2026-11-16T07:47:00Z",
    "summary": "Private Inference connects your own model endpoints to AI Gateway.Enterprises running fine"
-  },
-  {
-   "id": "a34341b24ff7cd07",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Security Hub CSPM のアーカイブ済み検出結果の保持期間が30日から14日に短縮されるので調べてみた",
-   "url": "https://dev.classmethod.jp/articles/securityhub-archived-findings-14days/",
-   "publishedAt": "2026-11-16T07:21:42Z",
-   "summary": "Security Hub CSPM のアーカイブ済み検出結果保持期間が、2026/12/15以降 30日 → 14日に短縮されるので、公式情報をもとに、変更の中身と影響を受けるケー"
-  },
-  {
-   "id": "e859a15a341ca9fe",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS DevOps Agent は同じ事故が2回起きたら作業ミスを記憶してくれた",
-   "url": "https://dev.classmethod.jp/articles/devops-agent-memory-needs-two-incidents/",
-   "publishedAt": "2026-11-16T06:09:04Z",
-   "summary": "AWS DevOps Agent のメモリ機能について、作業ミスによる事故を2回起こして、記憶がどのように作られるかを検証しました。その結果と、再発防止の観点から見えてきた課題をお"
   },
   {
    "id": "5d51dc5cfd8431a2",
@@ -534,33 +606,6 @@
    "summary": "Agents are now users of software, doing work on people's behalf. Whether you're building t"
   },
   {
-   "id": "66bf904427c77726",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS DevOps Agent に作業ミスが原因の障害を調べさせたら、「なぜ間違えたか」まで仮説を出してくれた",
-   "url": "https://dev.classmethod.jp/articles/devops-agent-human-error-root-cause-hypothesis/",
-   "publishedAt": "2026-11-16T04:40:24Z",
-   "summary": "AWS DevOps Agent に、作業ミスが原因の二次障害を調べさせてみました。ファイル名の紛らわしさまで指摘し、「なぜ間違えたか」の仮説と、仕組みの改善提案まで出してくれた結"
-  },
-  {
-   "id": "8083ae0c048117a0",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWSインシデント対応の段階的隔離戦略を考えてみた",
-   "url": "https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/",
-   "publishedAt": "2026-11-16T03:49:23Z",
-   "summary": "インシデント対応で「全停止ボタン」に頼るのではなく、隔離レベル（L0〜L3）を事業影響とセットで設計し、AWS公式のContain Runbookを使った可逆隔離をドリルしてみまし"
-  },
-  {
-   "id": "7f5357a46db70e59",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] AWS Security Hub CSPM の中央設定を AWS Organizations の宣言型ポリシーへ移行してみた",
-   "url": "https://dev.classmethod.jp/articles/security-hub-cspm-org-policies-migration/",
-   "publishedAt": "2026-11-16T03:00:24Z",
-   "summary": "AWS Security Hub CSPM の組織全体の設定を中央設定ポリシーから、AWS Organizations の宣言型ポリシーで管理できるようになりました。"
-  },
-  {
    "id": "e6369657e90c7d65",
    "blog": "LINEヤフー Tech Blog",
    "category": "国内企業",
@@ -586,15 +631,6 @@
    "url": "https://buildersbox.corp-sansan.com/entry/2026/11/16/110000",
    "publishedAt": "2026-11-16T02:00:00Z",
    "summary": "キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。「Sansan 3 Stories」では、これまでの歩みと"
-  },
-  {
-   "id": "29282041d90d7879",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "非構造化テキストのチャンク化・ベクトル検索を行えるdbtパッケージ「dbt_context_engineering」を試してみた",
-   "url": "https://dev.classmethod.jp/articles/dbt-context-engineering-package-try/",
-   "publishedAt": "2026-11-16T01:56:48Z",
-   "summary": "dbt Labsから公開されたOSSパッケージ「dbt_context_engineering」を使い、日本語の注文フィードバックをチャンク化・ベクトル化して検索し、分類ラベルで対"
   },
   {
    "id": "c6c0a3291969ba93",
