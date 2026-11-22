@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T02:21:50Z",
+ "generatedAt": "2026-11-22T01:22:53Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-21T02:15:57Z"
+   "latest": "2026-11-21T15:23:44Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -41,7 +41,7 @@
   {
    "name": "DeNA Engineering",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "feedUrl": "https://engineering.dena.com/blog/index.xml",
    "error": "",
    "parsed": 30,
@@ -140,7 +140,7 @@
   {
    "name": "LayerX エンジニアブログ",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "feedUrl": "https://tech.layerx.co.jp/feed",
    "error": "",
    "parsed": 30,
@@ -167,7 +167,7 @@
   {
    "name": "Netflix TechBlog",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "feedUrl": "https://netflixtechblog.com/feed",
    "error": "",
    "parsed": 10,
@@ -203,7 +203,7 @@
   {
    "name": "Shopify Engineering",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "feedUrl": "https://shopify.engineering/blog.atom",
    "error": "",
    "parsed": 441,
@@ -318,7 +318,7 @@
   {
    "name": "WebKit Blog",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "feedUrl": "https://webkit.org/feed/",
    "error": "",
    "parsed": 10,
@@ -371,6 +371,78 @@
   }
  ],
  "items": [
+  {
+   "id": "0998bfd27b388a61",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "層を 3 回通す 26B の MoE「Inkling 2 Mini」を DGX Spark で動かしてみた",
+   "url": "https://dev.classmethod.jp/articles/dgx-spark-inkling-2-mini-first-touch/",
+   "publishedAt": "2026-11-21T15:23:44Z",
+   "summary": "公開翌日の Inkling 2 Mini を、vLLM の DGX Spark 向けレシピのまま動かしました。262K コンテキストで 380 秒で起動し、単発 37.83 tok"
+  },
+  {
+   "id": "eda269c7d2621d3c",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "iOSアプリ開発の気になる変更まとめ（2026/11/21）：Bitriseのセキュリティインシデント、Xcode 27.3 beta 2ほか",
+   "url": "https://dev.classmethod.jp/articles/ios-dev-weekly-changes-20261121/",
+   "publishedAt": "2026-11-21T12:48:17Z",
+   "summary": "Bitriseのインシデント報告書で示された顧客への影響と対応や、GitHubアカウント乗っ取りによるCIシークレット窃取を整理した。GitHub Actionsでシミュレータのラ"
+  },
+  {
+   "id": "9049559c951faafc",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Amazon DynamoDB のベクトル検索で範囲比較・IN・OR/NOT のインラインフィルタが使えるようになったので試してみた",
+   "url": "https://dev.classmethod.jp/articles/20211121-amazon-dynamodb-vector-filters/",
+   "publishedAt": "2026-11-21T11:13:48Z",
+   "summary": "Amazon DynamoDB のベクトル検索で、インラインフィルタに範囲比較・IN・OR・NOT が追加されました。アプリ側で絞り込むと 0 件だった「価格 10000 以下」の"
+  },
+  {
+   "id": "e7e15fa11a54a58a",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Windows の Claude Desktop を aws login で Amazon Bedrock を使う設定手順",
+   "url": "https://dev.classmethod.jp/articles/claude-desktop-windows-bedrock-aws-login/",
+   "publishedAt": "2026-11-21T10:28:02Z",
+   "summary": "Windows の Claude Desktop から aws login の認証情報で Amazon Bedrock を使えるようにする手順をまとめました。"
+  },
+  {
+   "id": "30cbedd77444726a",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Amazon Bedrock AgentCore IdentityのディスカバリーURLがOAuth 2.0の認可サーバーメタデータに対応しました！",
+   "url": "https://dev.classmethod.jp/articles/agentcore-identity-oauth2-discovery/",
+   "publishedAt": "2026-11-21T08:25:40Z",
+   "summary": "Amazon Bedrock AgentCore Identityのディスカバリー機能がRFC 8414（OAuth 2.0）に対応しました！"
+  },
+  {
+   "id": "548a29493bff9e4e",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Claude Code v2.1.330 の主要アップデート - チャートを描く組み込み mod easel の追加と deniedMcpServers の挙動変更",
+   "url": "https://dev.classmethod.jp/articles/20261121-cc-updates-v2-1-330/",
+   "publishedAt": "2026-11-21T07:13:38Z",
+   "summary": "Claude Code v2.1.330 では、チャートを描く組み込み mod「easel」が追加されました。描画までの手順に加え、コンパクト直後や WebFetch のフリーズの"
+  },
+  {
+   "id": "7171690f51e64f46",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AWS ParallelCluster 3.16.2 と 3.16.3 のアップデート内容紹介",
+   "url": "https://dev.classmethod.jp/articles/aws-parallelcluster-3-16-2-3-16-3-released/",
+   "publishedAt": "2026-11-21T05:47:39Z",
+   "summary": "ParallelCluster 3.16.2 で公式 AMI のルートボリュームが 50 GiB に増え、Ubuntu 22.04 の終了も予告されました。"
+  },
+  {
+   "id": "a2417804d0d20b92",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Amazon Bedrock AgentCore Identityがプライベート認証局（CA）に対応しました！",
+   "url": "https://dev.classmethod.jp/articles/bedrock-agentcore-identity-private-ca/",
+   "publishedAt": "2026-11-21T04:41:02Z",
+   "summary": "Amazon Bedrock AgentCore IdentityがプライベートCAの証明書に対応しました！"
+  },
   {
    "id": "b210ef21215bb4cd",
    "blog": "DevelopersIO（クラスメソッド）",
@@ -471,60 +543,6 @@
    "summary": "us-east-1 で発行した1つのトークンで、ap-northeast-1 と eu-west-1 のプライベートレジストリに docker login、push、pull でき"
   },
   {
-   "id": "984eabebe6d95c75",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon S3 の PQ-TLS を CloudTrail のログ記録（keyExchange）で確認してみた",
-   "url": "https://dev.classmethod.jp/articles/amazon-s3-pq-tls-cloudtrail-key-exchange/",
-   "publishedAt": "2026-11-20T14:59:00Z",
-   "summary": "Amazon S3 のリクエストごとの TLS 鍵交換方式が CloudTrail の tlsDetails.keyExchange に記録されるようになりました。curl で固定"
-  },
-  {
-   "id": "d69d9b32cbb6bfee",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Site-to-Site VPN がポスト量子の追加鍵交換（ML-KEM-768）に対応したので、接続して VPN ログを見てみた",
-   "url": "https://dev.classmethod.jp/articles/aws-site-to-site-vpn-post-quantum-key-exchange/",
-   "publishedAt": "2026-11-20T14:28:46Z",
-   "summary": "AWS Site-to-Site VPN がポスト量子の鍵交換に対応しました。トンネルオプションで追加鍵交換 ML-KEM-768 を指定し、strongSwan を入れた EC2"
-  },
-  {
-   "id": "897a830b9cde9afd",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS STS の GetScopedCredentials で一時認証情報の権限とセッション期間を絞ってみた",
-   "url": "https://dev.classmethod.jp/articles/aws-sts-getscopedcredentials-scope-down/",
-   "publishedAt": "2026-11-20T14:08:06Z",
-   "summary": "AWS STS の GetScopedCredentials で、既存の一時認証情報から権限とセッション期間を絞った認証情報を発行しました。発行した認証情報の ARN は呼び出し元"
-  },
-  {
-   "id": "bc5d0b0f52864d31",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon Route 53 の Private Endpoint Health Checks を試してみた",
-   "url": "https://dev.classmethod.jp/articles/route53-private-endpoint-health-checks/",
-   "publishedAt": "2026-11-20T14:02:33Z",
-   "summary": "内部 ALB のヘルスチェックを Private Endpoint Health Checks で試し、IP アドレスと FQDN のどちらでも HTTP / HTTPS でヘルス"
-  },
-  {
-   "id": "a7bc660a67db5c29",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] Amazon Cognito のアプリクライアントシークレットを AWS Secrets Manager で管理できるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/cognito-client-secret-secrets-manager/",
-   "publishedAt": "2026-11-20T13:25:33Z",
-   "summary": "Amazon Cognito のアプリクライアントシークレットを AWS Secrets Manager で管理できるようになりました。実際にアプリクライアントで有効にし、ローテー"
-  },
-  {
-   "id": "914b0ee86601bc61",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Lambda Durable Execution SDK for Rust が GA になったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/aws-lambda-durable-sdk-rust-ga/",
-   "publishedAt": "2026-11-20T13:10:47Z",
-   "summary": "Lambda durable functions の処理を Rust で書ける SDK が GA になりました。Quickstart の関数を Cargo Lambda でビルドし"
-  },
-  {
    "id": "79f41110c3768ad8",
    "blog": "Vercel Blog",
    "category": "海外企業",
@@ -532,24 +550,6 @@
    "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
    "publishedAt": "2026-11-20T13:00:00Z",
    "summary": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public B"
-  },
-  {
-   "id": "98be5bd2e2c6119c",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Claude Code v2.1.329 の主要アップデート - 信頼ダイアログのフック警告と Code Mode のフック失敗時の挙動変更",
-   "url": "https://dev.classmethod.jp/articles/20261120-cc-updates-v2-1-329/",
-   "publishedAt": "2026-11-20T12:36:11Z",
-   "summary": "Claude Code v2.1.329 の主要アップデートを解説します。信頼ダイアログでフックを宣言したファイルが分かるようになり、実機で表示を確認しました。Code Mode "
-  },
-  {
-   "id": "9032141616e7929b",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon Cognito のアプリクライアントシークレットを AWS Secrets Manager で管理できるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/cognito-app-client-secret-secrets-manager/",
-   "publishedAt": "2026-11-20T12:29:10Z",
-   "summary": "Amazon Cognito のアプリクライアントシークレットを AWS Secrets Manager で管理できるようになりました。新規のアプリクライアントで有効化すると応答に"
   },
   {
    "id": "ced93959ec9fdc90",
@@ -2872,51 +2872,6 @@
    "url": "https://tech.smarthr.jp/entry/2026/10/23/102753",
    "publishedAt": "2026-10-23T01:27:53Z",
    "summary": "こんにちは！プロダクトエンジニアのna2keraです。 SmartHRは、2026年10月10日（土）に東京・六本木のSmartHR Spaceで開催された新卒N年目の勉強会&交流"
-  },
-  {
-   "id": "2c3f8a4c371df86d",
-   "blog": "Netflix TechBlog",
-   "category": "海外企業",
-   "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-   "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163",
-   "publishedAt": "2026-10-22T22:19:12Z",
-   "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second t"
-  },
-  {
-   "id": "00f5034e86d69f31",
-   "blog": "WebKit Blog",
-   "category": "公式・プラットフォーム",
-   "title": "Release Notes for Safari Technology Preview 255",
-   "url": "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255/",
-   "publishedAt": "2026-10-22T21:22:48Z",
-   "summary": "Safari Technology Preview Release 255 is now available for download for macOS Golden Gate "
-  },
-  {
-   "id": "a90dc3b08f084daf",
-   "blog": "DeNA Engineering",
-   "category": "国内企業",
-   "title": "仕様書インスペクションの Agent 試作と評価の仕組み",
-   "url": "https://engineering.dena.com/blog/2026/10/intern-2026-daaq-agent/",
-   "publishedAt": "2026-10-22T15:00:00Z",
-   "summary": "1. はじめに 大阪大学修士 1 年の岩月優樹です。大学では、深層学習を用いたガンマ線の計測の研究に取り組んでいます。 2026 年 AI スペシャリストコースのサマーインターンシ"
-  },
-  {
-   "id": "d972ebf4ec7955d2",
-   "blog": "Shopify Engineering",
-   "category": "海外企業",
-   "title": "We gave AI agents a mobile dev environment",
-   "url": "https://shopify.engineering/remote-dev",
-   "publishedAt": "2026-10-22T12:56:38Z",
-   "summary": "We built Remote Dev so AI agents can build and test apps in parallel, without maxing out d"
-  },
-  {
-   "id": "07f402462cdb9e9c",
-   "blog": "LayerX エンジニアブログ",
-   "category": "国内企業",
-   "title": "内製 Background Coding Agent “haro” で拓く未来の開発体験",
-   "url": "https://tech.layerx.co.jp/entry/why-we-built-our-background-agent",
-   "publishedAt": "2026-10-22T02:27:42Z",
-   "summary": "LayerX バクラク事業部 Platform Engineering 部 Staff Software Engineer の izumin5210 です。 3D アクションゲーム"
   }
  ]
 }
