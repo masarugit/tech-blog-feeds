@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:22:53Z",
+ "generatedAt": "2026-11-23T01:47:12Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-21T15:23:44Z"
+   "latest": "2026-11-23T01:13:39Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -59,7 +59,7 @@
   {
    "name": "SmartHR Tech Blog",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "feedUrl": "https://tech.smarthr.jp/feed",
    "error": "",
    "parsed": 30,
@@ -77,7 +77,7 @@
   {
    "name": "ZOZO TECH BLOG",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "feedUrl": "https://techblog.zozo.com/feed",
    "error": "",
    "parsed": 30,
@@ -104,7 +104,7 @@
   {
    "name": "Sansan Builders Box",
    "ok": true,
-   "count": 21,
+   "count": 19,
    "feedUrl": "https://buildersbox.corp-sansan.com/feed",
    "error": "",
    "parsed": 30,
@@ -167,7 +167,7 @@
   {
    "name": "Netflix TechBlog",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "feedUrl": "https://netflixtechblog.com/feed",
    "error": "",
    "parsed": 10,
@@ -318,7 +318,7 @@
   {
    "name": "WebKit Blog",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "feedUrl": "https://webkit.org/feed/",
    "error": "",
    "parsed": 10,
@@ -345,7 +345,7 @@
   {
    "name": "Expo Blog",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "feedUrl": "https://expo.dev/blog/rss.xml",
    "error": "",
    "parsed": 50,
@@ -372,94 +372,139 @@
  ],
  "items": [
   {
-   "id": "0998bfd27b388a61",
+   "id": "5f8f5db85a9fe69c",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "層を 3 回通す 26B の MoE「Inkling 2 Mini」を DGX Spark で動かしてみた",
-   "url": "https://dev.classmethod.jp/articles/dgx-spark-inkling-2-mini-first-touch/",
-   "publishedAt": "2026-11-21T15:23:44Z",
-   "summary": "公開翌日の Inkling 2 Mini を、vLLM の DGX Spark 向けレシピのまま動かしました。262K コンテキストで 380 秒で起動し、単発 37.83 tok"
+   "title": "Amazon Textract Insights で1つの PDF を一括で分割・分類・項目抽出してみた",
+   "url": "https://dev.classmethod.jp/articles/textract-insights-mixed-packet/",
+   "publishedAt": "2026-11-23T01:13:39Z",
+   "summary": "Amazon Textract Insights が GA となりました。複数の書類が混在した PDF を1回のリクエストで分割・分類・項目抽出できる新機能を検証してみました。"
   },
   {
-   "id": "eda269c7d2621d3c",
+   "id": "6a6d2b0a88fd28dd",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "iOSアプリ開発の気になる変更まとめ（2026/11/21）：Bitriseのセキュリティインシデント、Xcode 27.3 beta 2ほか",
-   "url": "https://dev.classmethod.jp/articles/ios-dev-weekly-changes-20261121/",
-   "publishedAt": "2026-11-21T12:48:17Z",
-   "summary": "Bitriseのインシデント報告書で示された顧客への影響と対応や、GitHubアカウント乗っ取りによるCIシークレット窃取を整理した。GitHub Actionsでシミュレータのラ"
+   "title": "S3 Storage Lens がインテリジェント階層化ストレージクラスのアクセス階層別の内訳に対応したので確認してみた",
+   "url": "https://dev.classmethod.jp/articles/amazon-s3-storage-lens-intelligent-tiering-access-tiers/",
+   "publishedAt": "2026-11-23T00:47:55Z",
+   "summary": "S3 Storage Lens で Intelligent-Tiering のアクセス階層ごとのオブジェクト数まで見られるようになりました。"
   },
   {
-   "id": "9049559c951faafc",
+   "id": "ac518b791d8454cb",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "[アップデート] Amazon DynamoDB のベクトル検索で範囲比較・IN・OR/NOT のインラインフィルタが使えるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/20211121-amazon-dynamodb-vector-filters/",
-   "publishedAt": "2026-11-21T11:13:48Z",
-   "summary": "Amazon DynamoDB のベクトル検索で、インラインフィルタに範囲比較・IN・OR・NOT が追加されました。アプリ側で絞り込むと 0 件だった「価格 10000 以下」の"
+   "title": "CloudTrail の新機能「データイベントカバレッジ」を試してみた",
+   "url": "https://dev.classmethod.jp/articles/cloudtrail-data-event-coverage-getting-started/",
+   "publishedAt": "2026-11-23T00:46:09Z",
+   "summary": "この記事では、2026 年 9 月に追加された CloudTrail の新機能「データイベントカバレッジ」について、概要と S3 バケットを例にしたハンズオンを紹介します。この機能"
   },
   {
-   "id": "e7e15fa11a54a58a",
+   "id": "37f97707396e3040",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "Windows の Claude Desktop を aws login で Amazon Bedrock を使う設定手順",
-   "url": "https://dev.classmethod.jp/articles/claude-desktop-windows-bedrock-aws-login/",
-   "publishedAt": "2026-11-21T10:28:02Z",
-   "summary": "Windows の Claude Desktop から aws login の認証情報で Amazon Bedrock を使えるようにする手順をまとめました。"
+   "title": "AWS サンプル「RAPID」の閉域モードで、インターネットに出ない書類審査環境を作ってみた",
+   "url": "https://dev.classmethod.jp/articles/try-rapid-document-review-closed-network/",
+   "publishedAt": "2026-11-23T00:43:08Z",
+   "summary": "RAPID 閉域モードでデプロイしてみました。"
   },
   {
-   "id": "30cbedd77444726a",
+   "id": "201132107c2b55dc",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "[アップデート] Amazon Bedrock AgentCore IdentityのディスカバリーURLがOAuth 2.0の認可サーバーメタデータに対応しました！",
-   "url": "https://dev.classmethod.jp/articles/agentcore-identity-oauth2-discovery/",
-   "publishedAt": "2026-11-21T08:25:40Z",
-   "summary": "Amazon Bedrock AgentCore Identityのディスカバリー機能がRFC 8414（OAuth 2.0）に対応しました！"
+   "title": "[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス]",
+   "url": "https://dev.classmethod.jp/articles/new-aws-signup/",
+   "publishedAt": "2026-11-22T17:20:08Z",
+   "summary": "これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。"
   },
   {
-   "id": "548a29493bff9e4e",
+   "id": "9584861df8f7f66e",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "Claude Code v2.1.330 の主要アップデート - チャートを描く組み込み mod easel の追加と deniedMcpServers の挙動変更",
-   "url": "https://dev.classmethod.jp/articles/20261121-cc-updates-v2-1-330/",
-   "publishedAt": "2026-11-21T07:13:38Z",
-   "summary": "Claude Code v2.1.330 では、チャートを描く組み込み mod「easel」が追加されました。描画までの手順に加え、コンパクト直後や WebFetch のフリーズの"
+   "title": "BigQuery Daya Engineering AgentのAgent Observabilityを試してみた",
+   "url": "https://dev.classmethod.jp/articles/bigquery-dea-agent-observability-ga/",
+   "publishedAt": "2026-11-22T17:14:45Z",
+   "summary": "2026年11月19日、BigQueryの Data Engineering Agent で agent observability が GA になりました。Cloud Monit"
   },
   {
-   "id": "7171690f51e64f46",
+   "id": "89f02a052b55bc3c",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "AWS ParallelCluster 3.16.2 と 3.16.3 のアップデート内容紹介",
-   "url": "https://dev.classmethod.jp/articles/aws-parallelcluster-3-16-2-3-16-3-released/",
-   "publishedAt": "2026-11-21T05:47:39Z",
-   "summary": "ParallelCluster 3.16.2 で公式 AMI のルートボリュームが 50 GiB に増え、Ubuntu 22.04 の終了も予告されました。"
+   "title": "EventBridge の Webhook Events がサポートされたので試してみた",
+   "url": "https://dev.classmethod.jp/articles/eventbridge-webhook-events-sqs/",
+   "publishedAt": "2026-11-22T15:36:03Z",
+   "summary": "Amazon EventBridge の Webhook Events を試しました。HMAC 署名、静的トークン、Basic 認証の3方式で curl から送り、SQS 宛ての "
   },
   {
-   "id": "a2417804d0d20b92",
+   "id": "e0e84a1a4d2f24c7",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "[アップデート] Amazon Bedrock AgentCore Identityがプライベート認証局（CA）に対応しました！",
-   "url": "https://dev.classmethod.jp/articles/bedrock-agentcore-identity-private-ca/",
-   "publishedAt": "2026-11-21T04:41:02Z",
-   "summary": "Amazon Bedrock AgentCore IdentityがプライベートCAの証明書に対応しました！"
+   "title": "Azure Policyのdenyで既存リソースは止まる？更新拒否・タグ変更・修復を実機で確かめた",
+   "url": "https://dev.classmethod.jp/articles/azure-policy-existing-resources/",
+   "publishedAt": "2026-11-22T15:05:17Z",
+   "summary": "Azure Policyのdenyを既存リソースのあるリソースグループに割り当てて確かめました。既存のストレージアカウントは止まらず、不適合として記録されただけでした。設定の更新は"
   },
   {
-   "id": "b210ef21215bb4cd",
+   "id": "d4f6d60d141015a2",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "Amazon SageMaker Studio でマウントせずに s3fs で Amazon S3 のファイルを直接読めるか確認してみた",
-   "url": "https://dev.classmethod.jp/articles/amazon-sagemaker-studio-s3fs/",
-   "publishedAt": "2026-11-21T02:15:57Z",
-   "summary": "Mountpoint や S3 Files を使わなくても、SageMaker Studio の JupyterLab から s3fs で S3 のファイルを直接読めました。"
+   "title": "CloudFormation StackSets の操作の進捗が ステージ別・リージョン別に確認可能になったので試してみた",
+   "url": "https://dev.classmethod.jp/articles/aws-cloudformation-stacksets-progress-visibility/",
+   "publishedAt": "2026-11-22T15:02:07Z",
+   "summary": "AWS CloudFormation StackSets の操作の進捗を、ステージ別・リージョン別に AWS CLI で確認しました。3リージョンへのデプロイでは、実行中に進捗率と"
   },
   {
-   "id": "a91883ea5ae4c5f1",
+   "id": "53cbb4b95cb49871",
    "blog": "DevelopersIO（クラスメソッド）",
    "category": "国内企業",
-   "title": "ACCOUNT_USAGEの履歴はACCOUNTADMINでなくても見られる。SNOWFLAKEデータベースロールで付与する方法",
-   "url": "https://dev.classmethod.jp/articles/snowflake-database-role-system-views/",
-   "publishedAt": "2026-11-21T00:00:11Z",
-   "summary": "Snowflakeのクエリ履歴やクレジット確認をACCOUNTADMINでしか行えないと思い込んでいませんか？実は、SNOWFLAKEデータベースロールを付与すれば、ACCOUNT"
+   "title": "Azure Service Busの重複検出で二重処理は防げる？同じMessageIdの再送と再配信を試した",
+   "url": "https://dev.classmethod.jp/articles/azure-service-bus-duplicate-boundaries/",
+   "publishedAt": "2026-11-22T14:58:30Z",
+   "summary": "Azure Service Busの重複検出を実機で試しました。同じMessageIdで再送したメッセージは、送信が成功しても捨てられ、1件目の受信後でも時間窓の中なら同じでした。"
+  },
+  {
+   "id": "6c720d73110b9d92",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AzureのマネージドID、システム割り当てとユーザー割り当てはどう選ぶ？削除と作り直しで確かめた",
+   "url": "https://dev.classmethod.jp/articles/azure-managed-identity-lifecycle-choice/",
+   "publishedAt": "2026-11-22T14:56:21Z",
+   "summary": "AzureのマネージドIDを、作り直した後も同じIDを残すか、同じ権限を共有してよいかの2軸で比べます。実機では、システム割り当ては作り直すと別のIDになり、ユーザー割り当ては残り"
+  },
+  {
+   "id": "e89d43c36e418860",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Amazon DynamoDB ベクトル検索のインラインフィルターが範囲比較・IN・属性の有無・OR / NOT に対応したので試してみた",
+   "url": "https://dev.classmethod.jp/articles/dynamodb-vector-search-inline-filter-operators/",
+   "publishedAt": "2026-11-22T14:42:06Z",
+   "summary": "Amazon DynamoDB ベクトル検索のインラインフィルターで、範囲比較、IN、属性の有無、OR / NOT を使った検索を試しました。合成データで検索したところ、各条件で返"
+  },
+  {
+   "id": "376521997e98b1a3",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Amazon S3 Vectors の filterable metadata が 40 KB に拡張されたので試してみた",
+   "url": "https://dev.classmethod.jp/articles/s3-vectors-filterable-metadata-40kb/",
+   "publishedAt": "2026-11-22T14:24:32Z",
+   "summary": "1 ベクトルあたりの上限が 2 KB から 40 KB に引き上げられました。新しいバケットのインデックスで約 38 KB を書き込み、短い属性と 2,000 バイトの属性のどちら"
+  },
+  {
+   "id": "4912c8ef4175d458",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "AWS Lambda の関数状態変化イベントを EventBridge ルールで受け取ってみた",
+   "url": "https://dev.classmethod.jp/articles/aws-lambda-function-state-events-eventbridge/",
+   "publishedAt": "2026-11-22T13:54:46Z",
+   "summary": "Lambda 関数のデプロイや状態の変化を、GetFunction API のポーリングなしで EventBridge のイベントとして拾えるようになりました。関数の作成・更新・公"
+  },
+  {
+   "id": "92367e5dc36969fb",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Snowflake の OIDC フェデレーション認証を Microsoft Entra ID で試してみた",
+   "url": "https://dev.classmethod.jp/articles/snowflake-oidc-entra-id-try/",
+   "publishedAt": "2026-11-22T13:28:12Z",
+   "summary": "Snowflake の OIDC フェデレーション認証を Microsoft Entra ID で試してみました。マネージドプロバイダーのため設定は簡単で、パスワードなしのユーザー"
   },
   {
    "id": "0b834723662a59fe",
@@ -489,15 +534,6 @@
    "summary": "Bee, an Amazon company, built a personal AI wearable with no mechanism for operators (Bee "
   },
   {
-   "id": "ee1bfb8f2fb39090",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Lambda durable functions の OpenTelemetry サポートを試してみた",
-   "url": "https://dev.classmethod.jp/articles/lambda-durable-functions-opentelemetry-tracing/",
-   "publishedAt": "2026-11-20T18:43:50Z",
-   "summary": "OpenTelemetry プラグインにより、複数回の invocation に分かれる durable execution が、1つの trace ID にまとまります。step"
-  },
-  {
    "id": "be6b7cf43dbb964e",
    "blog": "Martin Fowler",
    "category": "海外企業",
@@ -505,42 +541,6 @@
    "url": "https://martinfowler.com/fragments/2026-11-20.html",
    "publishedAt": "2026-11-20T18:38:00Z",
    "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents t"
-  },
-  {
-   "id": "1038c3cecf956a09",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon EMR Serverless の新機能「Flex execution」を試してみた",
-   "url": "https://dev.classmethod.jp/articles/amazon-emr-serverless-flex-execution/",
-   "publishedAt": "2026-11-20T18:36:31Z",
-   "summary": "Amazon EMR Serverless の Flex execution は、余剰のコンピューティング容量を活用し、コストを最大 60% 削減できるとされている実行オプションで"
-  },
-  {
-   "id": "604d9ae9bb6624e2",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] AWS SAM CLI でも customer-managed runtimes を使えるようになったので、awk でカスタムランタイムを作ってみた",
-   "url": "https://dev.classmethod.jp/articles/sam-cli-lambda-customer-managed-runtime/",
-   "publishedAt": "2026-11-20T17:13:56Z",
-   "summary": "SAM CLIも対応"
-  },
-  {
-   "id": "9dc17056851b3399",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] Amazon S3 Tables のレプリカを書き込み可能なテーブルに昇格できるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/20261120-amazon-s3-tables-replication-writable-tables/",
-   "publishedAt": "2026-11-20T17:12:58Z",
-   "summary": "Amazon S3 Tables の読み取り専用レプリカを書き込み可能なテーブルに昇格できるようになりました。namespace とテーブル名は変わらず、リージョン障害時に書き込み"
-  },
-  {
-   "id": "2242298042de7df1",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Amazon ECR のプライベートレジストリがサポートしたグローバル認証トークンを試してみた",
-   "url": "https://dev.classmethod.jp/articles/aws-ecr-global-authentication-token/",
-   "publishedAt": "2026-11-20T14:59:32Z",
-   "summary": "us-east-1 で発行した1つのトークンで、ap-northeast-1 と eu-west-1 のプライベートレジストリに docker login、push、pull でき"
   },
   {
    "id": "79f41110c3768ad8",
@@ -2809,69 +2809,6 @@
    "url": "https://expo.dev/blog/doodraw-rust-gpu-engine-expo-config-plugin-100k-installs",
    "publishedAt": "2026-10-24T15:00:14Z",
    "summary": "Doodraw wraps a 30,000-line Rust engine in one Expo app for iPhone, iPad, Android and Wind"
-  },
-  {
-   "id": "7f0e1a16c4d90805",
-   "blog": "Netflix TechBlog",
-   "category": "海外企業",
-   "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-   "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90",
-   "publishedAt": "2026-10-23T18:32:51Z",
-   "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with o"
-  },
-  {
-   "id": "6419f10e5f721a3c",
-   "blog": "WebKit Blog",
-   "category": "公式・プラットフォーム",
-   "title": "WebKit Features for Safari 27.1",
-   "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
-   "publishedAt": "2026-10-23T17:00:59Z",
-   "summary": "Today iPhone Duo arrives, and with it, Safari 27.1."
-  },
-  {
-   "id": "2bc919090bd31318",
-   "blog": "Expo Blog",
-   "category": "公式・プラットフォーム",
-   "title": "Supporting iPhone Duo with Expo: a developer guide",
-   "url": "https://expo.dev/blog/supporting-iphone-duo",
-   "publishedAt": "2026-10-23T14:00:28Z",
-   "summary": "How to ready your app for iPhone Duo: SDK 58 changes, Expo Router, new safe area insets, a"
-  },
-  {
-   "id": "e914a4cbb0e78245",
-   "blog": "Sansan Builders Box",
-   "category": "国内企業",
-   "title": "政治学研究からプロダクト開発へ。 「面白い」を入り口に広がる挑戦",
-   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/23/160000",
-   "publishedAt": "2026-10-23T07:00:00Z",
-   "summary": "Sansan株式会社では、新卒入社のエンジニア・研究員たちが数多く活躍しています。 なぜSansanを選び、入社後にどんな経験を積み、これから何を目指しているのか。 「Sansan"
-  },
-  {
-   "id": "655cea133ab51d1b",
-   "blog": "Sansan Builders Box",
-   "category": "国内企業",
-   "title": "企業ニュース解析エンジン群のECSからCircuit（EKS）への移行（インターン成果報告）",
-   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/23/150000",
-   "publishedAt": "2026-10-23T06:00:00Z",
-   "summary": "はじめに はじめまして。技術本部研究開発部Architectグループでインターンをしていた玉木です。普段は奈良先端科学技術大学院大学の修士1年として、Split Learningの"
-  },
-  {
-   "id": "b385b0c0a2272be9",
-   "blog": "ZOZO TECH BLOG",
-   "category": "国内企業",
-   "title": "ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計",
-   "url": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
-   "publishedAt": "2026-10-23T02:00:00Z",
-   "summary": "はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取"
-  },
-  {
-   "id": "81491c9ffe7e2812",
-   "blog": "SmartHR Tech Blog",
-   "category": "国内企業",
-   "title": "新卒N年目の勉強会&交流会！#6 レポート",
-   "url": "https://tech.smarthr.jp/entry/2026/10/23/102753",
-   "publishedAt": "2026-10-23T01:27:53Z",
-   "summary": "こんにちは！プロダクトエンジニアのna2keraです。 SmartHRは、2026年10月10日（土）に東京・六本木のSmartHR Spaceで開催された新卒N年目の勉強会&交流"
   }
  ]
 }
