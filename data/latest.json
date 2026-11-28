@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T03:40:04Z",
+ "generatedAt": "2026-11-28T03:20:47Z",
  "days": 30,
  "feeds": [
   {
@@ -9,7 +9,7 @@
    "feedUrl": "https://dev.classmethod.jp/feed/",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-26T23:49:48Z"
+   "latest": "2026-11-28T01:15:36Z"
   },
   {
    "name": "メルカリ Engineering Blog",
@@ -41,7 +41,7 @@
   {
    "name": "DeNA Engineering",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "feedUrl": "https://engineering.dena.com/blog/index.xml",
    "error": "",
    "parsed": 30,
@@ -59,7 +59,7 @@
   {
    "name": "SmartHR Tech Blog",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "feedUrl": "https://tech.smarthr.jp/feed",
    "error": "",
    "parsed": 30,
@@ -108,7 +108,7 @@
    "feedUrl": "https://buildersbox.corp-sansan.com/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-27T02:00:00Z"
+   "latest": "2026-11-27T06:00:00Z"
   },
   {
    "name": "M3 Tech Blog",
@@ -117,7 +117,7 @@
    "feedUrl": "https://www.m3tech.blog/feed",
    "error": "",
    "parsed": 30,
-   "latest": "2026-11-26T02:22:30Z"
+   "latest": "2026-11-27T08:00:00Z"
   },
   {
    "name": "ペパボテックブログ",
@@ -131,7 +131,7 @@
   {
    "name": "はてな開発者ブログ",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "feedUrl": "https://developer.hatenastaff.com/feed",
    "error": "",
    "parsed": 30,
@@ -255,11 +255,11 @@
   {
    "name": "Spotify Engineering",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "feedUrl": "https://engineering.atspotify.com/feed/",
    "error": "",
    "parsed": 5,
-   "latest": "2026-11-19T13:34:19Z"
+   "latest": "2026-11-27T14:00:11Z"
   },
   {
    "name": "Pinterest Engineering",
@@ -291,7 +291,7 @@
   {
    "name": "Martin Fowler",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "feedUrl": "https://martinfowler.com/feed.atom",
    "error": "",
    "parsed": 30,
@@ -372,6 +372,168 @@
  ],
  "items": [
   {
+   "id": "2863c566120c702e",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "集約したCloudWatch Alarmの通知に発生元のアカウントIDを出すなら、Step Functionsで取り出そう",
+   "url": "https://dev.classmethod.jp/articles/centralized-cloudwatch-alarm-notification-source-account-id/",
+   "publishedAt": "2026-11-28T01:15:36Z",
+   "summary": "集約したCloudWatch Alarmの通知に発生元のアカウントIDを出そうとしたところ、EventBridgeのInput Transformerでは取り出せませんでした。取り"
+  },
+  {
+   "id": "4dc0fcdfefbdb428",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Amazon RDS for PostgreSQL 18.7 を試してみた",
+   "url": "https://dev.classmethod.jp/articles/rds-postgresql-18-7-minor-versions-cve-eol/",
+   "publishedAt": "2026-11-27T18:04:11Z",
+   "summary": "PostgreSQL コミュニティが 2026年11月12日に公開したマイナーバージョンが、RDS で利用可能になりました。52 件の脆弱性が修正され、14 系は 14.25 が最"
+  },
+  {
+   "id": "765893bb612ea7f1",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "ELB for Envoy 経由で Aurora（PostgreSQL / MySQL）への DB 接続を試してみた",
+   "url": "https://dev.classmethod.jp/articles/elb-for-envoy-aurora-tcp-proxy/",
+   "publishedAt": "2026-11-27T17:34:52Z",
+   "summary": "Aurora PostgreSQL は、ELB for Envoy の tcp_proxy 経由で EC2 から接続できました。Aurora MySQL は、フィルターのタイムアウ"
+  },
+  {
+   "id": "6a944cdeec00f272",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] Generative AI Use Cases（GenU）v5.6.0 で管理者が全ユーザーのトークン数と概算料金を管理できるようになりました",
+   "url": "https://dev.classmethod.jp/articles/genu-v560-admin-token-usage-mng/",
+   "publishedAt": "2026-11-27T17:20:34Z",
+   "summary": "盾マークみたいなところから使える"
+  },
+  {
+   "id": "712d6b690c8749ce",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "CloudWatch エージェントのログ収集パスを変更する手順（SSM パラメータストア + Run Command）",
+   "url": "https://dev.classmethod.jp/articles/cloudwatch-agent-change-log-path/",
+   "publishedAt": "2026-11-27T15:04:36Z",
+   "summary": "CloudWatch エージェントの設定をSSMパラメータストアで管理している場合、EC2（Windows）でログ収集パスを変更する手順を、パラメータ編集からRun Command"
+  },
+  {
+   "id": "a7fc566a739727d6",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Elastic Load Balancing for Envoy の ddos_protection と AWS WAF 連携を試してみた",
+   "url": "https://dev.classmethod.jp/articles/aws-elb-for-envoy-syn-cookie-waf/",
+   "publishedAt": "2026-11-27T14:58:20Z",
+   "summary": "ddos_protection の SYN cookie mode を continuous にすると、SYN-ACK の形が変わり、不正な ACK に SYN-ACK を再送しな"
+  },
+  {
+   "id": "730a42fc8278fccd",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "【2027 Japan All AWS Credentials Engineers】 Microcredentialsを受験して、バッジを取得してみた！",
+   "url": "https://dev.classmethod.jp/articles/202611-mitsuguchi-awsexam-microcredentials-serverless/",
+   "publishedAt": "2026-11-27T14:47:57Z",
+   "summary": "2027年から AWS 認定に加えて Microcredentials の取得が条件になります。実際に「AWS サーバーレスの実証」を受験して合格しましたので、流れや難易度、受験し"
+  },
+  {
+   "id": "d4abca3d9680a81a",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "CodeCommit のマージ方式（Fast Forward / 3-way / Squash）の違い、複数人が続けてマージするとエラーになる理由",
+   "url": "https://dev.classmethod.jp/articles/codecommit-merge-methods/",
+   "publishedAt": "2026-11-27T14:09:33Z",
+   "summary": "複数人が AWS CodeCommit の main ブランチへ続けてマージするときに、2人目以降がエラーになった経験はありませんか？Fast Forward、3-way、Squa"
+  },
+  {
+   "id": "3dae5460a491db95",
+   "blog": "Spotify Engineering",
+   "category": "海外企業",
+   "title": "September 29 Outage Incident Report: What we learnt",
+   "url": "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/",
+   "publishedAt": "2026-11-27T14:00:11Z",
+   "summary": "On September 29, Spotify experienced an outage that disrupted users’ access to the platfor"
+  },
+  {
+   "id": "f4a6e884e10c34b9",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "OpenSearch Service の新エンジンがサポートした join、高カーディナリティ集計、query DSL を試してみた",
+   "url": "https://dev.classmethod.jp/articles/opensearch-new-engine-joins-and-dsl/",
+   "publishedAt": "2026-11-27T13:43:52Z",
+   "summary": "単一ノードの新エンジンドメインで、100 万件のログに対し、PPL と SQL による約 51 万件の span との join、PPL の lookup、distinct な値の"
+  },
+  {
+   "id": "90c48d8ea1116975",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "Amazon OpenSearch Service が対応した OpenSearch 3.9 を試してみた",
+   "url": "https://dev.classmethod.jp/articles/opensearch-3-9-vector-compression-base64/",
+   "publishedAt": "2026-11-27T12:56:17Z",
+   "summary": "OpenSearch 3.9 でサポートされた half_float 型（1 次元 16 bit）、bf16 エンコーダ、2 bit・4 bit のスカラー量子化について、インデッ"
+  },
+  {
+   "id": "2cab88cb697fbd6e",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "NVIDIAのVLM「Cosmos 3」をローカルで触ってみた",
+   "url": "https://dev.classmethod.jp/articles/local-vlm-nvidia-cosmos/",
+   "publishedAt": "2026-11-27T11:46:13Z",
+   "summary": "NVIDIAのオープンなVLM「Cosmos 3」を、DGX Spark上のローカル環境でセットアップしてみました。uvのインストールから公式サンプルの実行、自分で撮った猫の画像を"
+  },
+  {
+   "id": "875f877af5f08e53",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "【登壇レポート】 勉強会 opsmethod#5 「Claudeを活用した、 運用報告書作成の自動化・効率化」というタイトルで登壇しました！",
+   "url": "https://dev.classmethod.jp/articles/opsmethod-5-2026-11-19-ryo-kikuchi/",
+   "publishedAt": "2026-11-27T11:31:47Z",
+   "summary": "Claudeで運用報告書作成を自動化する方法について、勉強会での登壇内容をご紹介します"
+  },
+  {
+   "id": "91a54e30a40b38ae",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "CodeCommitのプルリクで変更したファイルだけlint、formatする",
+   "url": "https://dev.classmethod.jp/articles/codecommit-pr-lint-format-changed-files/",
+   "publishedAt": "2026-11-27T11:30:04Z",
+   "summary": "CodeCommitでプルリクエストを作成、更新した際に、EventBridgeとCodeBuildを使ってlinterとformatterを実行する仕組みを構築してみました。この"
+  },
+  {
+   "id": "3857e6db7f9467ac",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "非エンジニアの私がCopilotでスキルを作ってみた",
+   "url": "https://dev.classmethod.jp/articles/20261127_copilot_agentskills/",
+   "publishedAt": "2026-11-27T10:42:03Z",
+   "summary": "Copilotに追加されたAgent Skils機能を試してみました。会社のテンプレートをスキル化することで、プレゼン資料作成時にAIが定型フォーマットやガイドラインを自動で反映で"
+  },
+  {
+   "id": "6975b1f09b411525",
+   "blog": "DevelopersIO（クラスメソッド）",
+   "category": "国内企業",
+   "title": "[アップデート] AWS CloudFormation でも ELB for Envoy を作成できるようになりました",
+   "url": "https://dev.classmethod.jp/articles/cloudformation-elb-envoy/",
+   "publishedAt": "2026-11-27T08:46:36Z",
+   "summary": "話題の ELB for Envoy が早速 CloudFormation に"
+  },
+  {
+   "id": "d27a4d812e8bd994",
+   "blog": "M3 Tech Blog",
+   "category": "国内企業",
+   "title": "検証端末の利用申請から動作確認まで、Slackワークフローでセルフサービス化した",
+   "url": "https://www.m3tech.blog/entry/2026/11/27/170000",
+   "publishedAt": "2026-11-27T08:00:00Z",
+   "summary": "こんにちは。エムスリーエンジニアリンググループの青木です。 今回は Unit3 テックブログリレー 4 日目の記事です。 この記事では、検証用のスマートフォンで検証環境を確認すると"
+  },
+  {
+   "id": "aba2b946667d50b7",
+   "blog": "Sansan Builders Box",
+   "category": "国内企業",
+   "title": "【情シス×MDM運用】Jamf ProとIntuneのCIS Benchmarks実践記 — Mac 1000台・Windows 2000台での計測・適用とハマりポイント",
+   "url": "https://buildersbox.corp-sansan.com/entry/2026/11/27/150000",
+   "publishedAt": "2026-11-27T06:00:00Z",
+   "summary": "目次 この記事の想定読者 1. はじめに 2. 全体像：進め方と、「使う」「つくる」の分岐 2-1 プロジェクトの全体像 2-2 調査で見えた分岐：「使う」と「つくる」 2-3 ト"
+  },
+  {
    "id": "756de140b62db090",
    "blog": "SmartHR Tech Blog",
    "category": "国内企業",
@@ -390,24 +552,6 @@
    "summary": "研究開発部 兼 Tech道場 道場主の川波です。 今回はTech道場という社内での取り組みについてお話しします。 Tech道場は2015年に始まった社内勉強会です。「Techに触れ"
   },
   {
-   "id": "aa557b56baef9434",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Splunk 公式 MCP Server を導入して Claude から SPL を書かずにログ調査してみた",
-   "url": "https://dev.classmethod.jp/articles/splunk-mcp-server/",
-   "publishedAt": "2026-11-26T23:49:48Z",
-   "summary": "Splunk MCP Serverを導入してClaudeから自然言語でCloudTrailを調査してみました。SPLを1行も書かずに調査が成立するだけでなく、曖昧な指示を調査条件に"
-  },
-  {
-   "id": "95d6fecaf3f02a44",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[Kiro] I tried Kiro Crew's custom agents - agent orchestration system",
-   "url": "https://dev.classmethod.jp/articles/kiro-crew-agent-orchestration/",
-   "publishedAt": "2026-11-26T22:00:00Z",
-   "summary": "I tested Kiro Crew's custom agents, the Kiro's agent orchestration system~"
-  },
-  {
    "id": "1cf4c8da5282629a",
    "blog": "Expo Blog",
    "category": "公式・プラットフォーム",
@@ -415,42 +559,6 @@
    "url": "https://expo.dev/blog/ship-to-production-from-your-phone",
    "publishedAt": "2026-11-26T20:30:00Z",
    "summary": "Describe a bug in a chat on your phone, check the fix on a cloud iPhone, and ship it as an"
-  },
-  {
-   "id": "3e5a87907f765c29",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "ELB for Envoy のアプリケーションログを確認してみた",
-   "url": "https://dev.classmethod.jp/articles/aws-elb-for-envoy-process-log-level-format/",
-   "publishedAt": "2026-11-26T17:10:23Z",
-   "summary": "Elastic Load Balancing for Envoy のプロセスのログ（application log）について、ログレベルごとの出力、コンポーネント別のレベル、1行に"
-  },
-  {
-   "id": "6e444db1decbdc4e",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "ELB for Envoy のアクセスログを OTLP で CloudWatch Logs に保存してみた",
-   "url": "https://dev.classmethod.jp/articles/elb-for-envoy-access-log-cloudwatch-logs/",
-   "publishedAt": "2026-11-26T16:44:34Z",
-   "summary": "open_telemetry の access logger から、設定に認証情報を書かずに、SigV4 の署名で東京リージョンの CloudWatch Logs の OTLP エ"
-  },
-  {
-   "id": "4c6b60c7b0594f08",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] AWS Quick でエージェント・スキル・コネクタ・フローをまとめてインストールできる「プラグイン」が使えるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/20261126-aws-quick-plugins-bundle-agents-skills/",
-   "publishedAt": "2026-11-26T15:35:51Z",
-   "summary": "AWS Quick の新機能「プラグイン」を試しました。エージェント・スキル・コネクタ・フローをまとめて 1 回でインストールでき、自作のスキルやフローもプラグインにしてチームへ共"
-  },
-  {
-   "id": "925a03911bd9ff37",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Step Functions で Lambda MicroVMs のジョブを実行してみた",
-   "url": "https://dev.classmethod.jp/articles/step-functions-lambda-microvms-orchestration/",
-   "publishedAt": "2026-11-26T15:14:27Z",
-   "summary": "MicroVM の起動、ジョブの実行、終了を、Step Functions のステートマシン（SDK 統合と JSONata）で組めました。同じ MicroVM に送った2つのジョ"
   },
   {
    "id": "f92d5a94ca94811d",
@@ -462,24 +570,6 @@
    "summary": "こんにちは。Pococha の SRE を担当している多保です。 私たちのチームでは、毎朝 9 時に AI が前日の POCO PARK の状態を調べて、Slack に日次レポート"
   },
   {
-   "id": "0f6f48341ce3a52a",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Kiro Enterprise で GPT 6.2 Astra を Preview として利用できるようになりました",
-   "url": "https://dev.classmethod.jp/articles/kiro-enterprise-gpt-6-2-astra/",
-   "publishedAt": "2026-11-26T14:45:17Z",
-   "summary": "2026年11月25日に Preview の展開が始まった OpenAI の GPT 6.2 Astra を、Kiro Enterprise の組織で、管理画面の Model av"
-  },
-  {
-   "id": "dc47f02911aedefa",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Cloudflare Email Sending が Free プランで使えるようになったので試してみた",
-   "url": "https://dev.classmethod.jp/articles/cloudflare-email-sending-workers-free/",
-   "publishedAt": "2026-11-26T14:16:08Z",
-   "summary": "Workers Free プランのアカウントでも、事前に承認した verified destination address 宛てならメールを送信できるようになりました。実際に送った"
-  },
-  {
    "id": "bb73e1d28bf80fb6",
    "blog": "はてな開発者ブログ",
    "category": "国内企業",
@@ -487,69 +577,6 @@
    "url": "https://developer.hatenastaff.com/entry/2026/11/26/224222",
    "publishedAt": "2026-11-26T13:42:22Z",
    "summary": "今週末は YAPC::Tokyo 2026 ですね。id:onk です。 はてなからも 例年登壇/参加している YAPC::Japan ですが、今回のはてなスタッフの取り組みをご紹"
-  },
-  {
-   "id": "f4ccbb1383fce389",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "[アップデート] 新しくなった AWS Quick の Flows で、決定論的ステップとバリデーションを試してみた",
-   "url": "https://dev.classmethod.jp/articles/20261125-aws-quick-flows-chat/",
-   "publishedAt": "2026-11-26T11:19:56Z",
-   "summary": "AWS Quick の Flows が新しくなり、チャットで手順を説明するとフローが作られるようになりました。チャットで手順を説明してフローを作り、コードで計算する決定論的ステップ"
-  },
-  {
-   "id": "405ae876ae7dc71d",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "AWS Lambda で Strands Decider 2B を動かしてみた",
-   "url": "https://dev.classmethod.jp/articles/strands-decider-lambda-cpu-gpu/",
-   "publishedAt": "2026-11-26T10:53:12Z",
-   "summary": "Strands Decider 2B を Lambda（CPU）と Lambda Managed Instances（GPU）で動かしました。CPU でも動きますが、サーバー内の応"
-  },
-  {
-   "id": "574c2c3e4c787e9c",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Elastic Load Balancing for Envoy（internal）を VPC 内のリバースプロキシとして使ってみた",
-   "url": "https://dev.classmethod.jp/articles/aws-elb-for-envoy-internal-path-routing/",
-   "publishedAt": "2026-11-26T10:14:37Z",
-   "summary": "`\"ipv4Addressability\": \"internal\"` で作成した ELB for Envoy に、VPC 内のクライアント EC2 からリクエストを送ると、Envo"
-  },
-  {
-   "id": "2aef9004121309b4",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "NocoBaseで「重複を許可しない」自動生成値が衝突するとどうなるのか？",
-   "url": "https://dev.classmethod.jp/articles/nocobase-generated-id-conflict-test/",
-   "publishedAt": "2026-11-26T09:28:09Z",
-   "summary": "NocoBaseで自動生成かつ重複禁止のフィールド値が衝突した場合の挙動。エラーが発生しレコード自体が登録されない。自動でチェックして再生成する機構はNocoBaseに搭載されてい"
-  },
-  {
-   "id": "5e5b1f1903051fb9",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "CloudFormation Template studio の検証機能で構文エラーとプロパティ名の誤りを検出できるか試してみた",
-   "url": "https://dev.classmethod.jp/articles/cfn-validate-syntax-and-property-error/",
-   "publishedAt": "2026-11-26T09:13:53Z",
-   "summary": "AWS CloudFormation の Template studio の検証機能がどこまで対応しているのか、実際に試してみました。YAML の構文エラーとプロパティ名の誤りを検"
-  },
-  {
-   "id": "d70178bba6d7e3cc",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "Elastic Load Balancing for Envoy がリリースされたので試してみた",
-   "url": "https://dev.classmethod.jp/articles/aws-elb-for-envoy-ga-create-proxy/",
-   "publishedAt": "2026-11-26T09:06:28Z",
-   "summary": "東京リージョンで Envoy の設定ファイルを渡してプロキシを作成し、外部ホストと Lambda 関数 URL へ転送しました。ヘッダー、パス、JWT クレームによる振り分けも確認"
-  },
-  {
-   "id": "92732357d286a70c",
-   "blog": "DevelopersIO（クラスメソッド）",
-   "category": "国内企業",
-   "title": "【FlutterKaigi 2026】2日目はセッションを聴いてきました #flutterkaigi2026",
-   "url": "https://dev.classmethod.jp/articles/flutterkaigi-2026-day2-sessions/",
-   "publishedAt": "2026-11-26T08:42:25Z",
-   "summary": "FlutterKaigi 2026の2日目に聴いたセッションの感想をまとめます。テキスト処理、品質設計、デザインレビュー、課金機能、オンデバイスAIなど、実務で役立つ知見が満載でし"
   },
   {
    "id": "538e33e545c74f8f",
@@ -2836,60 +2863,6 @@
    "url": "https://techblog.lycorp.co.jp/ja/20261129b",
    "publishedAt": "2026-10-29T05:00:00Z",
    "summary": "こんにちは。@potato4dです。今回は2026年10月12日に開催された フロントエンドカンファレンス関西2026 の参加・協賛レポートをお届けします。本記事では、スポンサーブ"
-  },
-  {
-   "id": "bb047f4bc17b5639",
-   "blog": "Sansan Builders Box",
-   "category": "国内企業",
-   "title": "起業を経て、Bill Oneへ。 技術で事業に貢献するための新たな挑戦",
-   "url": "https://buildersbox.corp-sansan.com/entry/2026/10/29/110000",
-   "publishedAt": "2026-10-29T02:00:00Z",
-   "summary": "キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。「Sansan 3 Stories」では、これまでの歩みと"
-  },
-  {
-   "id": "244b1666359b33ba",
-   "blog": "はてな開発者ブログ",
-   "category": "国内企業",
-   "title": "バリューストリームを激流にする",
-   "url": "https://developer.hatenastaff.com/entry/2026/10/29/090000",
-   "publishedAt": "2026-10-29T00:00:00Z",
-   "summary": "こんにちは、はてなCTOのid:motemenです。 AIによる環境激変の真っ只中にいるソフトウェアエンジニアをはじめとした皆様におかれましては、さまざまな施策に精をだされていると"
-  },
-  {
-   "id": "2eca88753c44c4aa",
-   "blog": "DeNA Engineering",
-   "category": "国内企業",
-   "title": "厳格なバックアップ要件を満たす、Cloud SQL の Backup Vault 導入 [DeNA インフラ SRE]",
-   "url": "https://engineering.dena.com/blog/2026/10/cloudsql-backupvault/",
-   "publishedAt": "2026-10-28T15:00:00Z",
-   "summary": "はじめに こんにちは、DeNA の IT 基盤部の izawa です。主に高い可用性が求められる大規模プロダクトのインフラを担当しています。 私たちが担当するプロダクトでは、Iaa"
-  },
-  {
-   "id": "aaac7d12b2c931bc",
-   "blog": "Martin Fowler",
-   "category": "海外企業",
-   "title": "Fragments: October 28",
-   "url": "https://martinfowler.com/fragments/2026-10-28.html",
-   "publishedAt": "2026-10-28T12:55:00Z",
-   "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public"
-  },
-  {
-   "id": "81f0974b0f47ff85",
-   "blog": "M3 Tech Blog",
-   "category": "国内企業",
-   "title": "【M3 Tech Blog 1000記事達成記念】エムスリーテックブログ1000記事を全部分析して分かった読まれる技術記事のヒミツ",
-   "url": "https://www.m3tech.blog/entry/1000",
-   "publishedAt": "2026-10-28T08:04:18Z",
-   "summary": "こんにちは、エムスリーエンジニアリンググループ 業務執行役員 VPoEの河合(@vaaaaanquish)です。エムスリーテックブログは投稿記事が1000を超えました🎉 2017年"
-  },
-  {
-   "id": "efd871f2bffa7ce4",
-   "blog": "SmartHR Tech Blog",
-   "category": "国内企業",
-   "title": "SmartHRはKomeKaigi 2026に協賛し、1名が登壇します！",
-   "url": "https://tech.smarthr.jp/entry/2026/10/28/141037",
-   "publishedAt": "2026-10-28T05:10:37Z",
-   "summary": "こんにちは！ SmartHRのDevRel（Developer Relations）のnattyです。 SmartHRは、2026年10月31日（土）に新潟市のNINNO3で開催さ"
   }
  ]
 }
